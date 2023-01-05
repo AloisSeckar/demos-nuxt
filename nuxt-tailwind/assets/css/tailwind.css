@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+    use @apply if you don't want to define style for each element separately
+    https://tailwindcss.com/docs/reusing-styles#extracting-classes-with-apply
+    https://tailwindcss.com/docs/functions-and-directives#apply
+
+    use correct @layer to keep your Tailwind CSS organized
+    https://bloggie.io/@kinopyo/organize-your-css-in-the-tailwind-style-with-layer-directive
+*/
+
+@layer base {
+
+    body {
+        @apply bg-slate-900
+    }
+
+    div {
+        @apply mx-16 my-4 text-center text-white
+    }
+
+}
+
+@layer components {
+
+    .customized {
+        @apply p-2 border border-green-700 text-xl text-blue-700 font-bold
+    }
+
+}
