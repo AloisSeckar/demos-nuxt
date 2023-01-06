@@ -14,7 +14,7 @@
     <div>
         <h1 class="text-4xl text-amber-400 font-bold">Nuxt + Tailwind CSS</h1>
         <NuxtPage />
-        <NuxtLink to="https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind" class="text-xs text-amber-400 hover:text-amber-200">
+        <NuxtLink to="https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind" class="footer">
             https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind
         </NuxtLink>
     </div>
