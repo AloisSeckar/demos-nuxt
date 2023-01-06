@@ -1,0 +1,4 @@
+// https://nuxt.com/docs/guide/directory-structure/tsconfig#typescript-configuration-file
+{
+  "extends": "./.nuxt/tsconfig.json",
+}
