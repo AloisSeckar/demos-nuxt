@@ -17,7 +17,7 @@
             <Feature text="Pinia for state management" />
             <Feature text="Supabase for auth and DB services" />
             <Feature text="FormKit for input forms" />
-            <Feature text="Fortawesome for providing FontAwesome icons" />
+            <Feature text="Icons as components with Icônes" />
         </div>
     </div>
 </template>
