@@ -17,6 +17,7 @@
         <!-- "double mustache" syntax to display JS expression inside HTML template -->
         <!-- notice you can call props directly in template section -->
         {{ text }}
+        <IconesSmiley />
     </div>
 </template>
 
