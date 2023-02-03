@@ -3,9 +3,9 @@
   "scripts": {
     "dev": "nuxi dev",
     "build": "nuxi build",
-    "start": "node .output/server/index.mjs"
+    "start": "nuxi preview"
   },
   "devDependencies": {
-    "nuxt": "3.0.0"
+    "nuxt": "3.1.1"
   }
 }
