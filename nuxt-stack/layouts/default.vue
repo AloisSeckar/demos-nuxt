@@ -21,3 +21,12 @@
         </NuxtLink>
     </div>
 </template>
+
+<script setup lang="ts">
+useHead({
+    title: 'Nuxt Demos - Nuxt Stack',
+    htmlAttrs: {
+        lang: 'en'
+    }
+})
+</script>
