@@ -1,4 +1,4 @@
-<!-- 
+<!--
     https://nuxtjs.org/docs/directory-structure/layouts/
 
     layouts are useful to declare common parts of an appliction only
@@ -11,20 +11,22 @@
 -->
 
 <template>
-    <div>
-        <h1 class="text-4xl text-amber-400 font-bold">Nuxt + Tailwind CSS</h1>
-        <NuxtPage />
-        <NuxtLink to="https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind" class="footer">
-            https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind
-        </NuxtLink>
-    </div>
+  <div>
+    <h1 class="text-4xl text-amber-400 font-bold">
+      Nuxt + Tailwind CSS
+    </h1>
+    <NuxtPage />
+    <NuxtLink to="https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind" class="footer">
+      https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind
+    </NuxtLink>
+  </div>
 </template>
 
 <script setup lang="ts">
 useHead({
-    title: 'Nuxt Demos - Nuxt + Tailwind CSS',
-    htmlAttrs: {
-        lang: 'en'
-    }
+  title: 'Nuxt Demos - Nuxt + Tailwind CSS',
+  htmlAttrs: {
+    lang: 'en'
+  }
 })
 </script>

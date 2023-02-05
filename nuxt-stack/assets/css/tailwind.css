@@ -7,15 +7,15 @@
 @layer base {
 
     body {
-        @apply bg-slate-900
+        @apply bg-slate-900;
     }
 
     h1 {
-        @apply text-4xl text-amber-400 font-bold
+        @apply text-4xl text-amber-400 font-bold;
     }
 
     div {
-        @apply m-auto text-center text-white
+        @apply m-auto text-center text-white;
     }
 
 }
@@ -23,15 +23,15 @@
 @layer components {
 
     .features-list {
-        @apply m-auto my-4 w-3/5 flex flex-col
+        @apply m-auto my-4 w-3/5 flex flex-col;
     }
 
     .features {
-        @apply m-1 p-2 border border-amber-300 font-bold text-xl text-feature hover:bg-slate-700
+        @apply m-1 p-2 border border-amber-300 font-bold text-xl text-feature hover:bg-slate-700;
     }
     
     .footer {
-        @apply text-xs text-amber-400 hover:text-amber-200
+        @apply text-xs text-amber-400 hover:text-amber-200;
     }
 
 }
