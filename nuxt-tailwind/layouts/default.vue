@@ -19,3 +19,12 @@
         </NuxtLink>
     </div>
 </template>
+
+<script setup lang="ts">
+useHead({
+    title: 'Nuxt Demos - Nuxt + Tailwind CSS',
+    htmlAttrs: {
+        lang: 'en'
+    }
+})
+</script>
