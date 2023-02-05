@@ -1,0 +1,16 @@
+{
+    "root": true,
+    "extends": [
+        "@nuxtjs/eslint-config-typescript"
+    ],
+
+    // "rules" section can follow, where you can change default eslint behaviour if needed
+    // you can adjust or even turn off some rules if you cannot or don't want to satisfy them
+    // it is no recommended to do so though
+
+    "rules": {
+        // TODO until discover how to solve this for Nuxt file structure
+        "vue/multi-word-component-names": "off"
+    }
+
+}

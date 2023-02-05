@@ -1,4 +1,4 @@
-<!-- 
+<!--
     https://nuxt.com/docs/guide/directory-structure/components
 
     Example of a reusable Nuxt component.
@@ -6,19 +6,19 @@
     Any valid .vue file inside `/components` directory is auto-imported everywhere by Nuxt
     => no need for explicit imports.
 
-    Modern Vue.js Composition API syntax is used for setup. 
+    Modern Vue.js Composition API syntax is used for setup.
     https://vuejs.org/api/sfc-script-setup.html
 
     For usage go to `/pages/index.vue`
 -->
 
 <template>
-    <div class="features">
-        <!-- "double mustache" syntax to display JS expression inside HTML template -->
-        <!-- notice you can call props directly in template section -->
-        {{ text }}
-        <IconesSmiley />
-    </div>
+  <div class="features">
+    <!-- "double mustache" syntax to display JS expression inside HTML template -->
+    <!-- notice you can call props directly in template section -->
+    {{ text }}
+    <IconesSmiley />
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -28,8 +28,8 @@
 // required - value has to be provided, otherwise an error will occur
 // default - will have this value, unless overwritten by caller
 const props = defineProps({
-    text: { type: String, required: true },
-    optionalText: { type: String, default: 'default' }
+  text: { type: String, required: true },
+  optionalText: { type: String, default: 'default' }
 })
 
 // in setup section, you have to adress properties like this
