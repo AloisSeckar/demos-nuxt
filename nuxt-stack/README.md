@@ -1,5 +1,5 @@
 ## Nuxt Stack
-This is my current setup I'd use to start new "real world" webapp. 
+This is my current setup I'd use to start new "real world" [Nuxt](https://nuxt.com/) webapp. 
 This will improve and grow together with my skills.
 I will also try to include **WHAT** and **WHY** comments.
 
@@ -10,6 +10,7 @@ I will also try to include **WHAT** and **WHY** comments.
 - Supabase for auth and DB services
 - FormKit for input forms
 - Fortawesome for providing FontAwesome icons
+- ESLint for automatic code quality check
 
 ### How to use
 1. `git checkout demos-nuxt project`

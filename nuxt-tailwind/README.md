@@ -1,5 +1,5 @@
-## Nuxt 3 + Tailwind CSS integeation
-This demo shows how to include [Tailwind](https://tailwindcss.com/) in [Nuxt 3](https://nuxtjs.org/) application
+## Nuxt 3 + Tailwind CSS
+This demo shows how to include [Tailwind](https://tailwindcss.com/) in [Nuxt](https://nuxt.com/)
 
 ### How to use
 1. `git checkout demos-nuxt project`
