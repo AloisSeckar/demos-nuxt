@@ -1,5 +1,5 @@
-## Nuxt 3 + DevExtreme integration
-This demo shows how to include [DevExtreme UI library](https://js.devexpress.com/) in [Nuxt 3](https://nuxt.com/) application
+## Nuxt 3 + DevExtreme
+This demo shows how to include [DevExtreme UI library](https://js.devexpress.com/) into [Nuxt](https://nuxt.com/)
 
 ### How to use
 1. `git checkout demos-nuxt project`
@@ -15,4 +15,4 @@ View in browser
 Currenlty bugged - button cannot be clicked in production mode.
 
 ### Tutorial article
-TBA
+https://master-coda.netlify.app/article/nuxt-dx

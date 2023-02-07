@@ -1,5 +1,7 @@
 ## Nuxt 3 minimal starter
-This demo shows how little is needed to start working with Nuxt 3
+This demo shows how little is needed to start working with [Nuxt](https://nuxt.com/)
+
+Since this is "minimal" setup, ESLint is not set-up.
 
 ### How to use
 1. `git checkout demos-nuxt project`
@@ -11,4 +13,4 @@ This demo shows how little is needed to start working with Nuxt 3
 Congratulations. You have working Nuxt 3 app. Start adding your pages, composables, styles, modules, etc. to get it growing.
 
 ### Tutorial article
-TBA
+https://master-coda.netlify.app/article/nuxt-minimal
