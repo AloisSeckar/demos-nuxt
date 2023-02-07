@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.1.2"
+  },
+  "dependencies": {
+    "devextreme": "22.2.4",
+    "devextreme-vue": "22.2.4"
+  }
+}
