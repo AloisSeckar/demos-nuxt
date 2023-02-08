@@ -11,7 +11,7 @@ const apiResponse = ref('')
 
 const handle = async () => {
     const { data } = await useFetch('/api/sample', { method: 'GET'})
-    if (data) {
+    if (data.value) {
         apiResponse.value = data.value
     } else {
         apiResponse.value = "ERROR"

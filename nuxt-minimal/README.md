@@ -1,7 +1,15 @@
 ## Nuxt 3 minimal starter
 This demo shows how little is needed to start working with [Nuxt](https://nuxt.com/)
 
-Since this is "minimal" setup, ESLint is not set-up.
+### Warning
+This setup is "minimal", thus consciously omitting some important, if not crucial, files and features.
+
+Above others:
+* `nuxt.config.ts` file for Nuxt settings
+* `tsconfig.json` file to correctly resolve aliases for Nuxt auto-imports in IDE
+* **ESLint** for static code analysis
+
+Do not use this as a starter for your real projects. Rather pick my `nuxt-stack` (with build-in integrations) or `nuxt-simple` (just plain Nuxt, but not gutted like this one).
 
 ### How to use
 1. `git checkout demos-nuxt project`
@@ -10,7 +18,7 @@ Since this is "minimal" setup, ESLint is not set-up.
 4. `npm run dev` 
 5. `localhost:3000` 
 
-Congratulations. You have working Nuxt 3 app. Start adding your pages, composables, styles, modules, etc. to get it growing.
+Congratulations. You have working Nuxt 3 app.
 
 ### Tutorial article
 https://master-coda.netlify.app/article/nuxt-minimal
