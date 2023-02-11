@@ -4,3 +4,6 @@
         <p>It just works!</p>
     </div>
 </template>
+
+<script>
+</script>
