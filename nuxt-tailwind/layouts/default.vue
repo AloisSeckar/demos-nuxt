@@ -1,5 +1,5 @@
 <!--
-    https://nuxtjs.org/docs/directory-structure/layouts/
+    https://nuxt.com/docs/guide/directory-structure/layouts
 
     layouts are useful to declare common parts of an appliction only
     once and in a dedicated place where everyone familiar with Nuxt
