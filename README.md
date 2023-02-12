@@ -6,9 +6,10 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 - [**nuxt-minimal**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-minimal) - the smallest setup required to run Nuxt
 - [**nuxt-simple**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-simple) - simple setup to start demo Nuxt app
 ### GUI integrations
-- [**nuxt-tailwind**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-tailwind) - integration with Tailwind CSS
-- [**nuxt-fa**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with Font Awesome
-- [**nuxt-dx**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-dx) - integration with DevExtreme UI
+- [**nuxt-tailwind**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-tailwind) - integration with [Tailwind CSS](https://tailwindcss.com/)
+- [**nuxt-icones**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Icônes](https://icones.js.org/)
+- [**nuxt-fa**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Font Awesome](https://fontawesome.com/)
+- [**nuxt-dx**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-dx) - integration with [DevExtreme UI](https://js.devexpress.com/)
 
 ### Server-side
 - [**nuxt-api**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-api) - showcase for Nuxt server-side API
