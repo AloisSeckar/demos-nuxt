@@ -1,5 +1,5 @@
-// https://nuxt.com/docs/guide/directory-structure/tsconfig
 {
+  // https://nuxt.com/docs/guide/directory-structure/tsconfig
   "extends": "./.nuxt/tsconfig.json",
   "compilerOptions": {
     "strict": true,

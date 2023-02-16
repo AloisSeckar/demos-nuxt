@@ -2,6 +2,7 @@
     <div>
         <h1>Nuxt 3 - API</h1>
         <button @click="handle">Make API call</button>
+        <br />
         <div>{{ apiResponse }}</div>
     </div>
 </template>
@@ -10,7 +11,7 @@
 const apiResponse = ref('')
 
 const handle = async () => {
-    const { data } = await useFetch('/api/sample', { method: 'GET'})
+    const { data } = await useFetch<string>('/api/sample', { method: 'GET'})
     if (data.value) {
         apiResponse.value = data.value
     } else {
