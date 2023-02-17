@@ -12,12 +12,12 @@
     </div>
     <div class="features-list">
       <!-- example of Nuxt components declared in `/components` directory -->
-      <Feature text="Nuxt 3 application framework atop Vue.js" />
-      <Feature text="Tailwind CSS for styling" />
-      <Feature text="Pinia for state management" />
-      <Feature text="Supabase for auth and DB services" />
-      <Feature text="FormKit for input forms" />
-      <Feature text="Icons as components with Icônes" />
+      <AppFeature text="Nuxt 3 application framework atop Vue.js" />
+      <AppFeature text="Tailwind CSS for styling" />
+      <AppFeature text="Pinia for state management" />
+      <AppFeature text="Supabase for auth and DB services" />
+      <AppFeature text="FormKit for input forms" />
+      <AppFeature text="Icons as components with Icônes" />
     </div>
   </div>
 </template>
