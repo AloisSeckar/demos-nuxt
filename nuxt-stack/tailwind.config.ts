@@ -1,7 +1,7 @@
 // https://tailwindcss.com/docs/configuration
 // https://tailwindcss.com/docs/plugins
 
-const plugin = require('tailwindcss/plugin')
+import plugin from 'tailwindcss/plugin'
 
 module.exports = {
   content: [
