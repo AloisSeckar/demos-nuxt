@@ -17,7 +17,7 @@
     <!-- "double mustache" syntax to display JS expression inside HTML template -->
     <!-- notice you can call props directly in template section -->
     {{ text }}
-    <IconesSmiley />
+    <AppIconSmiley />
   </div>
 </template>
 
@@ -36,4 +36,5 @@ const props = defineProps({
 // you cannot reach them directly unlike in template
 console.debug(props.text)
 console.debug(props.optionalText)
+// console.debug is marked as warning because of "no-console" ESLint rule
 </script>
