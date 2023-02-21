@@ -5,7 +5,7 @@ import plugin from 'tailwindcss/plugin'
 
 module.exports = {
   content: [
-    'app.vue'
+    './src/**/*.{html,js,vue}'
   ],
   theme: {
     // example of extending Tailwind CSS with custom color
