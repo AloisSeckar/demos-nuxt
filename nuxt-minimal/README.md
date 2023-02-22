@@ -20,5 +20,9 @@ Do not use this as a starter for your real projects. Rather pick my `nuxt-stack`
 
 Congratulations. You have working Nuxt 3 app.
 
+The only two required really files are:
+- `package.json` with `devDependency` on nuxt
+- `app.vue` with a simple `template` and a `script` tag (might be empty, but must be presented)
+
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-minimal
+https://master-coda.netlify.app/article/nuxt-simple#minimal
