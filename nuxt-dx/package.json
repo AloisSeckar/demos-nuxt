@@ -6,7 +6,7 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.1.2"
+    "nuxt": "3.2.2"
   },
   "dependencies": {
     "devextreme": "22.2.4",
