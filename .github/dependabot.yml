@@ -1,0 +1,103 @@
+# https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/nuxt-api"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-dx"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-fa"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-formkit"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-icones"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-minimal"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-simple"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-stack"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-tailwind"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "06:00"
+      timezone: "Europe/Prague"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
