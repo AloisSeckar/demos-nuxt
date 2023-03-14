@@ -6,6 +6,6 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.2.0"
+    "nuxt": "3.2.3"
   }
 }

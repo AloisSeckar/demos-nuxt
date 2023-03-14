@@ -1,0 +1,9 @@
+nuxt-api
+..\nuxt-dx
+..\nuxt-fa
+..\nuxt-formkit
+..\nuxt-icones
+..\nuxt-minimal
+..\nuxt-simple
+..\nuxt-stack
+..\nuxt-tailwind

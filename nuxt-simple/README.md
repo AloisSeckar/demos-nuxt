@@ -2,9 +2,7 @@
 This demo shows simple working example of [Nuxt](https://nuxt.com/)
 
 ### About
-It basically contains the same as [Nuxt Starter on StackBlitz](https://stackblitz.com/github/nuxt/starter/tree/v3-stackblitz) encouraged by Nuxt team to provide minimal bug reproduction, but without `<NuxtWelcome>` component and with two additional features I find useful:
-- [default layout](https://nuxt.com/docs/guide/directory-structure/layouts) & [default page](https://nuxt.com/docs/guide/directory-structure/pages) for better website organization
-- [ESLint](https://eslint.org/) for static JS code analysis
+It basically contains the same as [Nuxt Starter on StackBlitz](https://stackblitz.com/github/nuxt/starter/tree/v3-stackblitz) encouraged by Nuxt team to provide minimal bug reproduction, but without `<NuxtWelcome>` component and with additional [ESLint](https://eslint.org/) configuration for static JS code analysis, which I found very useful and worth adopting from your very first steps.
 
 All other demos presented in my `demos-nuxt` project (except `nuxt-minimal`) are built atop this one.
 
