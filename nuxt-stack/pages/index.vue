@@ -8,11 +8,11 @@
 <template>
   <div>
     <div>
-      Ready-to-use setup for Nuxt 3 application
+      Ready-to-use setup for Nuxt application
     </div>
     <div class="features-list">
       <!-- example of Nuxt components declared in `/components` directory -->
-      <AppFeature text="Nuxt 3 application framework atop Vue.js" />
+      <AppFeature text="Nuxt application framework atop Vue.js" />
       <AppFeature text="Tailwind CSS for styling" />
       <AppFeature text="Pinia for state management" />
       <AppFeature text="Supabase for auth and DB services" />

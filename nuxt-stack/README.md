@@ -4,7 +4,7 @@ This will improve and grow together with my skills.
 I will also try to include **WHAT** and **WHY** comments.
 
 ### Features
-- Nuxt 3 application framework atop Vue.js
+- Nuxt application framework atop Vue.js
 - Tailwind CSS for styling
 - Pinia for state management
 - Supabase for auth and DB services

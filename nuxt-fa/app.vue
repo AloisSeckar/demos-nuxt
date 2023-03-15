@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Nuxt 3 + Font Awesome</h1>
+    <h1>Nuxt + Font Awesome</h1>
     <div>
       Here you can see, how to integrate <a href="https://fontawesome.com/" title="Font Awesome">Font Awesome icons</a> into your Nuxt app via simple plugin.
     </div>

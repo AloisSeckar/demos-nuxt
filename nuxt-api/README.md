@@ -1,4 +1,4 @@
-## Nuxt 3 minimal starter
+## Nuxt API
 This demo shows how to create and consume [Nuxt](https://nuxt.com/) server-side API.
 
 ### How to use

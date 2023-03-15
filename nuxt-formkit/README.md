@@ -1,4 +1,4 @@
-## Nuxt 3 + Formkit
+## Nuxt + Formkit
 This demo shows how to include forms built and managed by [Formkit](https://formkit.com/) in [Nuxt](https://nuxt.com/)
 
 ### How to use

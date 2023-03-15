@@ -1,4 +1,4 @@
-## Nuxt 3 + Icônes
+## Nuxt + Icônes
 This demo shows how to include [icons by Icônes](https://icones.js.org/) in [Nuxt](https://nuxt.com/).
 
 Icons are defined as components with absolutely no external dependencies, which makes this my preferred way 
