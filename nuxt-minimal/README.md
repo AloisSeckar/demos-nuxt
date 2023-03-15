@@ -1,4 +1,4 @@
-## Nuxt 3 minimal starter
+## Nuxt Minimal Starter
 This demo shows how little is needed to start working with [Nuxt](https://nuxt.com/)
 
 ### Warning
@@ -18,7 +18,7 @@ Do not use this as a starter for your real projects. Rather pick my `nuxt-stack`
 4. `npm run dev` 
 5. `localhost:3000` 
 
-Congratulations. You have working Nuxt 3 app.
+Congratulations. You have working Nuxt app.
 
 The only two required really files are:
 - `package.json` with `devDependency` on nuxt

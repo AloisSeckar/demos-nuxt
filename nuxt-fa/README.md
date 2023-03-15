@@ -1,4 +1,4 @@
-## Nuxt 3 + Font Awesome
+## Nuxt + Font Awesome
 This demo shows how to include [Font Awesome icons](https://fontawesome.com/) in [Nuxt](https://nuxt.com/) using [Fort Awesome pacakage](https://github.com/FortAwesome/Font-Awesome)
 
 ### How to use

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Nuxt 3 + Icônes</h1>
+    <h1>Nuxt + Icônes</h1>
     <div>
       Here you can see, how to integrate <a href="https://icones.js.org/" title="Icônes">icons from Icônes</a>
       into your Nuxt app. Icons are defined as components with absolutely no external dependencies.

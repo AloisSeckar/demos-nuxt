@@ -1,4 +1,4 @@
-## Nuxt 3 minimal starter
+## Nuxt Starter
 This demo shows simple working example of [Nuxt](https://nuxt.com/)
 
 ### About
@@ -15,7 +15,7 @@ I recommend this setup for learning and testing purposes. As a starting point fo
 4. `npm run dev` 
 5. `localhost:3000` 
 
-Congratulations. You have working Nuxt 3 app project enhanced with ESLint.
+Congratulations. You have working Nuxt app project enhanced with ESLint.
 
 ### Tutorial article
 https://master-coda.netlify.app/article/nuxt-simple

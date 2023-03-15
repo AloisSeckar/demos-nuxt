@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Nuxt 3 + DevExtreme</h1>
+        <h1>Nuxt + DevExtreme</h1>
         <DxButton 
             text="I am the DevExtreme button"
             @click="handle">

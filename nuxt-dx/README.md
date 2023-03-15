@@ -1,4 +1,4 @@
-## Nuxt 3 + DevExtreme
+## Nuxt + DevExtreme
 This demo shows how to include [DevExtreme UI library](https://js.devexpress.com/) into [Nuxt](https://nuxt.com/)
 
 ### How to use

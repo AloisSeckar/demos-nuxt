@@ -1,4 +1,4 @@
-## Nuxt 3 + Tailwind CSS
+## Nuxt + Tailwind CSS
 This demo shows how to include [Tailwind](https://tailwindcss.com/) in [Nuxt](https://nuxt.com/)
 
 ### How to use
