@@ -3,6 +3,7 @@ nuxt-api
 ..\nuxt-fa
 ..\nuxt-formkit
 ..\nuxt-icones
+..\nuxt-middleware
 ..\nuxt-minimal
 ..\nuxt-simple
 ..\nuxt-stack
