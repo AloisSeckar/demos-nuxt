@@ -5,6 +5,7 @@ nuxt-api
 ..\nuxt-icones
 ..\nuxt-middleware
 ..\nuxt-minimal
+..\nuxt-pages
 ..\nuxt-simple
 ..\nuxt-stack
 ..\nuxt-tailwind
