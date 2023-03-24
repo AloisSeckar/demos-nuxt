@@ -1,4 +1,4 @@
- <!--
+<!--
     https://nuxt.com/docs/guide/directory-structure/pages
 
     Example of Nuxt page.
@@ -18,6 +18,11 @@
       <AppFeature text="Supabase for auth and DB services" />
       <AppFeature text="FormKit for input forms" />
       <AppFeature text="Icons as components with Icônes" />
+    </div>
+    <div class="link">
+      <NuxtLink to="/second">
+        Go to 2nd page
+      </NuxtLink>
     </div>
   </div>
 </template>

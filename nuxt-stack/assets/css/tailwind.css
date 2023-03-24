@@ -11,7 +11,7 @@
     }
 
     h1 {
-        @apply text-4xl text-amber-400 font-bold;
+        @apply mb-4 text-4xl text-amber-400 font-bold;
     }
 
     div {
@@ -29,9 +29,9 @@
     .features {
         @apply m-1 p-2 border border-amber-300 font-bold text-xl text-feature hover:bg-slate-700;
     }
-    
-    .footer {
-        @apply text-xs text-amber-400 hover:text-amber-200;
+
+    .link {
+        @apply my-2 text-amber-400 hover:text-amber-200;
     }
 
 }
