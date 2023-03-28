@@ -11,9 +11,9 @@
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.0.0",
     "@nuxtjs/supabase": "0.3.1",
-    "@nuxtjs/tailwindcss": "6.6.0",
+    "@nuxtjs/tailwindcss": "6.6.4",
     "eslint": "8.36.0",
-    "nuxt": "3.3.1",
+    "nuxt": "3.3.2",
     "tailwindcss": "3.2.7"
   },
   "dependencies": {
