@@ -11,6 +11,7 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 - [**nuxt-middleware**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-middleware) - example of middleware available in Nuxt
 ### GUI integrations
 #### Preferred by me
+- [**nuxt-pinia**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pinia) - integration with [Pinia](https://pinia.vuejs.org/)
 - [**nuxt-tailwind**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-tailwind) - integration with [Tailwind CSS](https://tailwindcss.com/)
 - [**nuxt-formkit**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-formkit) - integration with [Formkit](https://formkit.com/)
 - [**nuxt-icones**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Icônes](https://icones.js.org/)

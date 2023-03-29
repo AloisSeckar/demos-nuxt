@@ -6,6 +6,7 @@ nuxt-api
 ..\nuxt-middleware
 ..\nuxt-minimal
 ..\nuxt-pages
+..\nuxt-pinia
 ..\nuxt-simple
 ..\nuxt-stack
 ..\nuxt-tailwind
