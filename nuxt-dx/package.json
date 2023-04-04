@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "devextreme": "22.2.5",
-    "devextreme-vue": "22.2.4"
+    "devextreme-vue": "22.2.5"
   }
 }
