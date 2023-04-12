@@ -1,4 +1,5 @@
 nuxt-api
+..\nuxt-content
 ..\nuxt-dx
 ..\nuxt-fa
 ..\nuxt-formkit
