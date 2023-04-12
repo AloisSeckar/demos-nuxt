@@ -13,6 +13,16 @@ updates:
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
+    directory: "/nuxt-content"
+    schedule:
+      interval: "weekly"
+      day: "tuesday"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
     directory: "/nuxt-dx"
     schedule:
       interval: "weekly"
