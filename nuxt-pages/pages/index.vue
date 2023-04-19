@@ -5,8 +5,7 @@ import TheMenu from '~~/components/TheMenu.vue';
   <div>
     <h2>This is the index page</h2>
     <div>
-      Page specific content (TO BE REPLACED WITH COMPONENT)
+      <TextBox text-to-display="This is the content of INDEX page defined as component prop" />
     </div>
-    <TheMenu />
   </div>
 </template>
