@@ -2,8 +2,7 @@
   <div>
     <h2>This is the first sub-page</h2>
     <div>
-      Page specific content (TO BE REPLACED WITH COMPONENT)
+      <TextBox text-to-display="This is the content of FIRST sub-page defined as component prop" />
     </div>
-    <TheMenu />
   </div>
 </template>
