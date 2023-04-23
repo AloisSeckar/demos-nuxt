@@ -11,7 +11,7 @@
     "nuxt": "3.4.1"
   },
   "dependencies": {
-    "@pinia/nuxt": "0.4.8",
+    "@pinia/nuxt": "0.4.9",
     "pinia": "2.0.34"
   }
 }
