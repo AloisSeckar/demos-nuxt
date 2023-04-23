@@ -7,6 +7,7 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 - [**nuxt-simple**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-simple) - simple setup to start demo Nuxt app
 ### How Nuxt works
 - [**nuxt-pages**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pages) - example of Nuxt pages and components
+- [**nuxt-utils**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-utils) - example of Nuxt utils and composables
 - [**nuxt-api**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-api) - example of Nuxt server-side API
 - [**nuxt-middleware**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-middleware) - example of middleware available in Nuxt
 ### GUI integrations

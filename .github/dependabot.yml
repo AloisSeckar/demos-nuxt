@@ -132,3 +132,13 @@ updates:
       prefix: "npm"
     commit-message:
       prefix: "npm"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-utils"
+    schedule:
+      interval: "weekly"
+      day: "tuesday"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    commit-message:
+      prefix: "npm"

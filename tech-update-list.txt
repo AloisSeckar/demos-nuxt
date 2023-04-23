@@ -11,3 +11,4 @@ nuxt-api
 ..\nuxt-simple
 ..\nuxt-stack
 ..\nuxt-tailwind
+..\nuxt-utils
