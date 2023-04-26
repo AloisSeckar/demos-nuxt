@@ -7,11 +7,11 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.0.0",
-    "eslint": "8.38.0",
-    "nuxt": "3.4.1"
+    "eslint": "8.39.0",
+    "nuxt": "3.4.2"
   },
   "dependencies": {
-    "@pinia/nuxt": "0.4.8",
-    "pinia": "2.0.34"
+    "@pinia/nuxt": "0.4.9",
+    "pinia": "2.0.35"
   }
 }
