@@ -34,7 +34,9 @@ const props = defineProps({
 
 // in setup section, you have to adress properties like this
 // you cannot reach them directly unlike in template
+/* eslint "no-console" : "off" */
 console.debug(props.text)
 console.debug(props.optionalText)
-// console.debug is marked as warning because of "no-console" ESLint rule
+// note special inline eslint flag because normally you shouldn't use build-in console directly
+// see https://eslint.org/docs/latest/rules/no-console
 </script>
