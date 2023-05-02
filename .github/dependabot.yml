@@ -135,8 +135,7 @@ updates:
   - package-ecosystem: "npm"
     directory: "/nuxt-utils"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
