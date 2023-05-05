@@ -10,16 +10,12 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
-    commit-message:
-      prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-content"
     schedule:
       interval: "weekly"
       day: "tuesday"
       time: "05:00"
-    commit-message:
-      prefix: "npm"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
@@ -30,16 +26,12 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
-    commit-message:
-      prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-fa"
     schedule:
       interval: "weekly"
       day: "tuesday"
       time: "05:00"
-    commit-message:
-      prefix: "npm"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
@@ -50,16 +42,12 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
-    commit-message:
-      prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-icones"
     schedule:
       interval: "weekly"
       day: "tuesday"
       time: "05:00"
-    commit-message:
-      prefix: "npm"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
@@ -70,16 +58,12 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
-    commit-message:
-      prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-minimal"
     schedule:
       interval: "weekly"
       day: "tuesday"
       time: "05:00"
-    commit-message:
-      prefix: "npm"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
@@ -90,16 +74,12 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
-    commit-message:
-      prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-pinia"
     schedule:
       interval: "weekly"
       day: "tuesday"
       time: "05:00"
-    commit-message:
-      prefix: "npm"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
@@ -110,16 +90,12 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
-    commit-message:
-      prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-stack"
     schedule:
       interval: "weekly"
       day: "tuesday"
       time: "05:00"
-    commit-message:
-      prefix: "npm"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
@@ -130,14 +106,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
-    commit-message:
-      prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-utils"
     schedule:
       interval: "monthly"
       time: "05:00"
-    commit-message:
-      prefix: "npm"
     commit-message:
       prefix: "npm"
