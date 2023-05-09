@@ -5,104 +5,91 @@ updates:
   - package-ecosystem: "npm"
     directory: "/nuxt-api"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-content"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-dx"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-fa"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-formkit"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-icones"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-middleware"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-minimal"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-pages"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-pinia"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-simple"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-stack"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
     directory: "/nuxt-tailwind"
     schedule:
-      interval: "weekly"
-      day: "tuesday"
+      interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
