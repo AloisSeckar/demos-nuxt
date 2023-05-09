@@ -13,7 +13,7 @@ on:
       mustBeGreen:
         description: "Only combine PRs that are green (status is success)"
         required: true
-        default: false
+        default: "false"
       combineBranchName:
         description: "Name of the branch to combine PRs into"
         required: true
@@ -156,7 +156,7 @@ jobs:
             await github.rest.pulls.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: 'Combined PR',
+              title: 'tech update',
               head: '${{ github.event.inputs.combineBranchName || 'tech-update' }}',
               base: baseBranch,
               body: body
