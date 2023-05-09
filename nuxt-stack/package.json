@@ -19,7 +19,7 @@
   "dependencies": {
     "@formkit/nuxt": "0.16.5",
     "@pinia/nuxt": "0.4.9",
-    "pinia": "2.0.35"
+    "pinia": "2.0.36"
   },
   "overrides": {
     "vue": "latest"
