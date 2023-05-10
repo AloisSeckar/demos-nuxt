@@ -10,7 +10,7 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 - [**nuxt-utils**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-utils) - example of Nuxt utils and composables
 - [**nuxt-api**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-api) - example of Nuxt server-side API
 - [**nuxt-middleware**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-middleware) - example of middleware available in Nuxt
-### GUI integrations
+### Integrations
 #### Preferred by me
 - [**nuxt-content**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content) - creating content pages easily with [Nuxt Content module](https://content.nuxtjs.org/)
 - [**nuxt-pinia**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pinia) - integration with [Pinia](https://pinia.vuejs.org/)
@@ -18,6 +18,7 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 - [**nuxt-formkit**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-formkit) - integration with [Formkit](https://formkit.com/)
 - [**nuxt-icones**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Icônes](https://icones.js.org/)
 #### Alternatives
+- [**nuxt-bootstrap**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-bootstrap) - integration with [Bootstrap](https://getbootstrap.com/) (alternative to Tailwind)
 - [**nuxt-dx**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-dx) - integration with [DevExtreme UI](https://js.devexpress.com/) (alternative to Formkit)
 - [**nuxt-fa**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Font Awesome](https://fontawesome.com/) (alternative to Icônes)
 ### Full-stack
