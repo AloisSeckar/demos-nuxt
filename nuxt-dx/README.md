@@ -15,4 +15,4 @@ View in browser
 Currenlty bugged - button cannot be clicked in production mode.
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-dx
+https://master-coda.netlify.app/article/nuxt-forms#dx
