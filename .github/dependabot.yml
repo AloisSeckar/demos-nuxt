@@ -10,6 +10,13 @@ updates:
     commit-message:
       prefix: "npm"
   - package-ecosystem: "npm"
+    directory: "/nuxt-bootstrap"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+  - package-ecosystem: "npm"
     directory: "/nuxt-content"
     schedule:
       interval: "monthly"
