@@ -10,7 +10,7 @@
     "@types/bootstrap": "5.2.6",
     "bootstrap": "5.2.3",
     "eslint": "8.40.0",
-    "nuxt": "3.4.3",
+    "nuxt": "3.5.2",
     "sass": "1.62.1"
   }
 }
