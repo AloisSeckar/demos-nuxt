@@ -7,10 +7,10 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.0.0",
-    "eslint": "8.40.0",
-    "nuxt": "3.4.3"
+    "eslint": "8.43.0",
+    "nuxt": "3.5.3"
   },
   "dependencies": {
-    "@formkit/nuxt": "0.16.5"
+    "@formkit/nuxt": "0.17.3"
   }
 }
