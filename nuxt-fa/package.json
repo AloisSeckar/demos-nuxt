@@ -7,8 +7,8 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.0.0",
-    "eslint": "8.40.0",
-    "nuxt": "3.5.2"
+    "eslint": "8.43.0",
+    "nuxt": "3.5.3"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "6.4.0",
