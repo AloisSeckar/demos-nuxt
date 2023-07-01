@@ -9,7 +9,7 @@
     "nuxt": "3.5.3"
   },
   "dependencies": {
-    "devextreme": "22.2.6",
+    "devextreme": "22.2.7",
     "devextreme-vue": "22.2.6"
   }
 }
