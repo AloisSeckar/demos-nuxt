@@ -11,13 +11,13 @@
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.0.0",
     "@nuxtjs/supabase": "0.3.7",
-    "@nuxtjs/tailwindcss": "6.7.2",
-    "eslint": "8.43.0",
-    "nuxt": "3.5.3",
+    "@nuxtjs/tailwindcss": "6.8.0",
+    "eslint": "8.44.0",
+    "nuxt": "3.6.1",
     "tailwindcss": "3.3.2"
   },
   "dependencies": {
-    "@formkit/nuxt": "0.17.3",
+    "@formkit/nuxt": "0.17.4",
     "@pinia/nuxt": "0.4.11",
     "pinia": "2.1.4"
   },
