@@ -14,7 +14,7 @@ export default defineNuxtConfig({
   ],
   runtimeConfig: {
     public: {
-      textTitle: 'ELRHistory'
+      pageTitle: 'Nuxt Demos - Nuxt Stack'
     }
   },
   typescript: {
