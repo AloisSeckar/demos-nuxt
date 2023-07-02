@@ -11,5 +11,6 @@ nuxt-api
 ..\nuxt-pinia
 ..\nuxt-simple
 ..\nuxt-stack
+..\nuxt-supabase
 ..\nuxt-tailwind
 ..\nuxt-utils
