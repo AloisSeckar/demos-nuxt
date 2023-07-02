@@ -25,7 +25,7 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 
 #### Database
 - [**nuxt-pinia**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pinia) - integration with [Pinia](https://pinia.vuejs.org/)
-
+- [**nuxt-supabase**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-supabase) - integration with [Supabase](https://supabase.com/)
 
 ### Full-stack
 - [**nuxt-stack**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-stack) - my ideal setup for starting new real-world Nuxt app
