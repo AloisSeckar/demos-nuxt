@@ -10,7 +10,7 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'Nuxt Demos - Nuxt Stack',
+  title: useRuntimeConfig().public.pageTitle as string,
   htmlAttrs: {
     lang: 'en'
   }
