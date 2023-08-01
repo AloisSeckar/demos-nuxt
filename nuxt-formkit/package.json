@@ -11,6 +11,6 @@
     "nuxt": "3.6.1"
   },
   "dependencies": {
-    "@formkit/nuxt": "0.17.4"
+    "@formkit/nuxt": "0.17.5"
   }
 }
