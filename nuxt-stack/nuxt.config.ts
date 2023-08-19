@@ -4,13 +4,9 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/supabase',
     '@nuxtjs/tailwindcss',
+    '@vueuse/nuxt',
     '@formkit/nuxt',
-    [
-      '@pinia/nuxt',
-      {
-        autoImports: ['defineStore']
-      }
-    ]
+    ['@pinia/nuxt', { autoImports: ['defineStore'] }]
   ],
   runtimeConfig: {
     public: {
