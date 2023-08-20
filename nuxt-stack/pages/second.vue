@@ -6,12 +6,12 @@
 
 <template>
   <div>
-    <div>
-      This is a second page of the application
+    <div class="m-4">
+      {{ $t("page2") }}
     </div>
     <div class="link">
       <NuxtLink to="/">
-        Go back to index
+        {{ $t("goto1") }}
       </NuxtLink>
     </div>
   </div>

@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>Nuxt Stack</h1>
+    <h1>{{ $t("title") }}</h1>
+    <div>{{ $t("subtitle") }}</div>
     <NuxtPage />
     <p>
       Current time by <NuxtLink to="https://vueuse.org/">

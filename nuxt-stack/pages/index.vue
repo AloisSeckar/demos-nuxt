@@ -1,17 +1,14 @@
 <!--
     https://nuxt.com/docs/guide/directory-structure/pages
 
-    Example of Nuxt page.
+    An example of Nuxt page.
     Nuxt automaticaly provides routing and displays this page when user visits root URL.
 -->
 
 <template>
   <div>
-    <div>
-      Ready-to-use setup for Nuxt application
-    </div>
     <div class="features-list">
-      <!-- example of Nuxt components declared in `/components` directory -->
+      <!-- an example of Nuxt components declared in `/components` directory -->
       <AppFeature text="Nuxt application framework atop Vue.js" />
       <AppFeature text="VueUse utils available" />
       <AppFeature text="Tailwind CSS for styling" />
@@ -22,7 +19,7 @@
     </div>
     <div class="link">
       <NuxtLink to="/second">
-        Go to 2nd page
+        {{ $t("goto2") }}
       </NuxtLink>
     </div>
   </div>

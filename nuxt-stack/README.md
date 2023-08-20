@@ -6,10 +6,12 @@ I will also try to include **WHAT** and **WHY** comments.
 ### Features
 - Nuxt application framework atop Vue.js
 - Tailwind CSS for styling
+- i18n for localization
 - Pinia for state management
 - Supabase for auth and DB services
 - FormKit for input forms
 - Fortawesome for providing FontAwesome icons
+- VueUse for utility functions
 - ESLint for automatic code quality check
 
 ### How to use
