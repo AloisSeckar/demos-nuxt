@@ -13,8 +13,9 @@ export default defineNuxtConfig({
     // if required to modify i18n
   },
   runtimeConfig: {
+    // nitro-only secret env-like variables goes here
     public: {
-      pageTitle: 'Nuxt Demos - Nuxt Stack'
+      // client-exposed env-like variables goes here
     }
   },
   typescript: {

@@ -17,7 +17,7 @@
 
 <script setup lang="ts">
 useHead({
-  title: useRuntimeConfig().public.pageTitle as string,
+  title: useAppConfig().textTitle,
   htmlAttrs: {
     lang: 'en'
   }
