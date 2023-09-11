@@ -9,13 +9,15 @@
   <div>
     <div class="features-list">
       <!-- an example of Nuxt components declared in `/components` directory -->
-      <AppFeature text="Nuxt application framework atop Vue.js" />
-      <AppFeature text="VueUse utils available" />
-      <AppFeature text="Tailwind CSS for styling" />
-      <AppFeature text="Pinia for state management" />
-      <AppFeature text="Supabase for auth and DB services" />
-      <AppFeature text="FormKit for input forms" />
-      <AppFeature text="Icons as components with Icônes" />
+      <!-- the text is being loaded localized via nuxt/i18n module -->
+      <AppFeature :text="useNuxtApp().$i18n.t('features.nuxt')" />
+      <AppFeature :text="useNuxtApp().$i18n.t('features.vueuse')" />
+      <AppFeature :text="useNuxtApp().$i18n.t('features.tailwind')" />
+      <AppFeature :text="useNuxtApp().$i18n.t('features.i18n')" />
+      <AppFeature :text="useNuxtApp().$i18n.t('features.pinia')" />
+      <AppFeature :text="useNuxtApp().$i18n.t('features.supabase')" />
+      <AppFeature :text="useNuxtApp().$i18n.t('features.formkit')" />
+      <AppFeature :text="useNuxtApp().$i18n.t('features.icones')" />
     </div>
     <div class="link">
       <NuxtLink to="/second">
