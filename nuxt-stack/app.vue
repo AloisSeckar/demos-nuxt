@@ -9,7 +9,7 @@
         <NuxtLink to="https://vueuse.org/">VueUse</NuxtLink>
       </span>
       :
-      {{ useDateFormat(useNow(), 'HH:mm:ss DD.MM.YYYY').value.replace('"', '') }}
+      <!-- {{ useDateFormat(useNow(), 'HH:mm:ss DD.MM.YYYY').value.replace('"', '') }} -->
     </p>
     <div class="link text-xs">
       <NuxtLink to="https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-stack">

@@ -13,6 +13,7 @@
     "@nuxtjs/i18n": "^8.0.0-rc.3",
     "@nuxtjs/supabase": "0.3.7",
     "@nuxtjs/tailwindcss": "6.8.0",
+    "@nuxt/image": "1.0.0-rc.1",
     "@vueuse/core": "^10.3.0",
     "@vueuse/nuxt": "^10.3.0",
     "eslint": "8.46.0",

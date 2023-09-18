@@ -8,6 +8,7 @@
         "nuxt" : "Nuxt application framework atop Vue.js",
         "vueuse" : "VueUse utils available",
         "tailwind" : "Tailwind CSS for styling",
+        "image" : "NuxtImage to optimize use of images",
         "i18n" : "I18n for translations",
         "pinia" : "Pinia for state management",
         "supabase" : "Supabase for auth and DB services",

@@ -13,6 +13,7 @@
       <AppFeature :text="useNuxtApp().$i18n.t('features.nuxt')" />
       <AppFeature :text="useNuxtApp().$i18n.t('features.vueuse')" />
       <AppFeature :text="useNuxtApp().$i18n.t('features.tailwind')" />
+      <AppFeature :text="useNuxtApp().$i18n.t('features.image')" />
       <AppFeature :text="useNuxtApp().$i18n.t('features.i18n')" />
       <AppFeature :text="useNuxtApp().$i18n.t('features.pinia')" />
       <AppFeature :text="useNuxtApp().$i18n.t('features.supabase')" />
