@@ -1,4 +1,5 @@
-nuxt-api
+nuxt-animation
+..\nuxt-api
 ..\nuxt-bootstrap
 ..\nuxt-content
 ..\nuxt-dx
