@@ -20,8 +20,12 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 #### Forms
 - [**nuxt-formkit**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-formkit) - integration with [Formkit](https://formkit.com/)
 - [**nuxt-dx**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-dx) - integration with [DevExtreme UI](https://js.devexpress.com/) (alternative to Formkit)
+
 #### Content
 - [**nuxt-content**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content) - creating content pages easily with [Nuxt Content module](https://content.nuxtjs.org/)
+
+#### Image
+- [**nuxt-image**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-image) - work with images easily with [Nuxt Image module](https://image.nuxt.com/)
 
 #### Database
 - [**nuxt-pinia**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pinia) - integration with [Pinia](https://pinia.vuejs.org/)
