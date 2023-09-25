@@ -6,6 +6,7 @@ nuxt-animation
 ..\nuxt-fa
 ..\nuxt-formkit
 ..\nuxt-icones
+..\nuxt-image
 ..\nuxt-middleware
 ..\nuxt-minimal
 ..\nuxt-pages
