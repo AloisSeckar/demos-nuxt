@@ -13,9 +13,9 @@ export default defineNuxtConfig({
         // this will make all "thumb" images 100x75 pixels in WEBP format
         // Nuxt Image will create respective file from the original one during build
         modifiers: {
-          format: 'jpg',
-          width: 100,
-          height: 75
+          format: 'webp',
+          width: 150,
+          height: 100
         }
       }
     }
