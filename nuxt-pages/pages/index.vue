@@ -1,6 +1,3 @@
-
-import TheMenu from '~~/components/TheMenu.vue';
-
 <template>
   <div>
     <h2>This is the index page</h2>
