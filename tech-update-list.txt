@@ -15,4 +15,5 @@ nuxt-animation
 ..\nuxt-stack
 ..\nuxt-supabase
 ..\nuxt-tailwind
+..\nuxt-use
 ..\nuxt-utils

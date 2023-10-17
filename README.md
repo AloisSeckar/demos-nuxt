@@ -32,6 +32,7 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 - [**nuxt-supabase**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-supabase) - integration with [Supabase](https://supabase.com/)
 
 #### Other
+- [**nuxt-use**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-use) - various demos of [VueUse](https://vueuse.org/) features in Nuxt
 - [**nuxt-animation**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-animation) - displaying simple animation using [VueUse](https://vueuse.org/)
 
 ### Full-stack
