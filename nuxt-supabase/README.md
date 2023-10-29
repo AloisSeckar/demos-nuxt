@@ -11,3 +11,7 @@ This demo shows how to include [Supabase](https://supabase.com/) in [Nuxt](https
 
 ### Tutorial article
 https://master-coda.netlify.app/article/nuxt-supabase
+
+### Attributions
+- sample SQL data were created using [ChatGPT-4](https://chat.openai.com/)
+- sample images come from [https://unsplash.com/](https://unsplash.com/)
