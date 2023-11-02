@@ -1,10 +1,12 @@
-nuxt-api
+nuxt-animation
+..\nuxt-api
 ..\nuxt-bootstrap
 ..\nuxt-content
 ..\nuxt-dx
 ..\nuxt-fa
 ..\nuxt-formkit
 ..\nuxt-icones
+..\nuxt-image
 ..\nuxt-middleware
 ..\nuxt-minimal
 ..\nuxt-pages
