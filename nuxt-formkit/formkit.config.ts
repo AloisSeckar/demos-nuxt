@@ -1,6 +1,6 @@
 // https://formkit.com/getting-started/installation#configuring-nuxt
 import { en, de, cs } from '@formkit/i18n'
-import { DefaultConfigOptions } from '@formkit/vue'
+import type { DefaultConfigOptions } from '@formkit/vue'
 
 const config: DefaultConfigOptions = {
   // example of importing different message translations and set the default one
