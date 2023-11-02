@@ -6,10 +6,10 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "nuxt": "3.6.5"
+    "nuxt": "3.8.0"
   },
   "dependencies": {
-    "devextreme": "22.2.7",
-    "devextreme-vue": "22.2.6"
+    "devextreme": "23.1.6",
+    "devextreme-vue": "23.1.6"
   }
 }
