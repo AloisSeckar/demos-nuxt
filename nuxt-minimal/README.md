@@ -22,7 +22,7 @@ Congratulations. You have working Nuxt app.
 
 The only two required really files are:
 - `package.json` with `devDependency` on nuxt
-- `app.vue` with a simple `template` and a `script` tag (might be empty, but must be presented)
+- `app.vue` with a simple `template` section
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-simple#minimal
+https://master-coda.cz/article/nuxt-simple#nuxt-minimal
