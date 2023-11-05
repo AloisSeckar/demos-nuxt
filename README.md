@@ -4,7 +4,8 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 ## Available projects
 ### Starters
 - [**nuxt-minimal**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-minimal) - the smallest setup required to run Nuxt
-- [**nuxt-simple**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-simple) - simple setup to start demo Nuxt app
+- [**nuxt-simple**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-simple) - simple setup to start demo Nuxt app (also available as [standalone Git project](https://github.com/AloisSeckar/nuxt-starter) for easier forking and cloning)
+
 ### Nuxt basics
 - [**nuxt-pages**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pages) - example of Nuxt pages and components
 - [**nuxt-utils**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-utils) - example of Nuxt utils and composables
@@ -36,4 +37,4 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 - [**nuxt-animation**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-animation) - displaying simple animation using [VueUse](https://vueuse.org/)
 
 ### Full-stack
-- [**nuxt-stack**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-stack) - my ideal setup for starting new real-world Nuxt app
+- [**nuxt-stack**](https://github.com/AloisSeckar/nuxt-stack) - my ideal setup for starting new real-world Nuxt app (moved into standalone Git project for easier forking and cloning)

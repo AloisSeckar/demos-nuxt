@@ -12,7 +12,6 @@ nuxt-animation
 ..\nuxt-pages
 ..\nuxt-pinia
 ..\nuxt-simple
-..\nuxt-stack
 ..\nuxt-supabase
 ..\nuxt-tailwind
 ..\nuxt-use

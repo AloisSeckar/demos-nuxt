@@ -6,7 +6,9 @@ It basically contains the same as [Nuxt Starter on StackBlitz](https://stackblit
 
 All other demos presented in my `demos-nuxt` project (except `nuxt-minimal`) are built atop this one.
 
-I recommend this setup for learning and testing purposes. As a starting point for a real application, I'd advise you to pick `nuxt-stack` which is combined from more features and integrations.
+I recommend this setup for learning and testing purposes or for simple projects only. As a starting point for a real application, I'd advise you consider picking my [`nuxt-stack`](https://github.com/AloisSeckar/nuxt-stack) which is combined with more useful features and integrations.
+
+You can also find this starter as a [standalone GitHub project](ttps://github.com/AloisSeckar/nuxt-starter) for easier forking and cloning.
 
 ### How to use
 1. `git checkout demos-nuxt project`
