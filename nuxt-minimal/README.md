@@ -15,13 +15,13 @@ Do not use this as a starter for your real projects. Rather pick my `nuxt-stack`
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-minimal`
 3. `npm install`
-4. `npm run dev` 
+4. `npx nuxi dev` 
 5. `localhost:3000` 
 
 Congratulations. You have working Nuxt app.
 
 The only two required really files are:
-- `package.json` with `devDependency` on nuxt
+- `package.json` with `devDependency` on Nuxt
 - `app.vue` with a simple `template` section
 
 ### Tutorial article
