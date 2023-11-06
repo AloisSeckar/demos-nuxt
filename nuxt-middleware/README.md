@@ -14,4 +14,4 @@ Nuxt offers middleware both for [client side](https://nuxt.com/docs/guide/direct
 The behavior of each middleware is demonstrated by the log messages in the browser console (F12). Navigate through the app and interact with the UI to see what is happening when.
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-middleware
+https://master-coda.cz/article/nuxt-middleware

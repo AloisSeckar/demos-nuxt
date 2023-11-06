@@ -9,4 +9,4 @@ This demo shows how to include forms built and managed by [Formkit](https://form
 5. `localhost:3000` 
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-forms#formkit
+https://master-coda.cz/article/nuxt-forms#formkit

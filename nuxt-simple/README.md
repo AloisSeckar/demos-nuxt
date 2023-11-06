@@ -20,4 +20,4 @@ You can also find this starter as a [standalone GitHub project](ttps://github.co
 Congratulations. You have working Nuxt app project enhanced with ESLint.
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-simple
+https://master-coda.cz/article/nuxt-simple

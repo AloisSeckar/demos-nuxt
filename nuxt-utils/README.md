@@ -15,4 +15,4 @@ This demo shows how utils and composables work in [Nuxt](https://nuxt.com/)
 You can navigate through the links to see different pages build by using different components appear and shared functions from utils and composables being used.
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-utils
+https://master-coda.cz/article/nuxt-utils

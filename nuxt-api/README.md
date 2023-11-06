@@ -15,4 +15,4 @@ Hit "API call" button to see the dynamic response from server-side API provided 
 * **error** - `http://localhost:3000/api/error/` - returns random HTTP error 400 - 410
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-api
+https://master-coda.cz/article/nuxt-api
