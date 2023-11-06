@@ -16,4 +16,4 @@ This demo shows how pages and components work in [Nuxt](https://nuxt.com/)
 You can navigate through the links to see different pages build by using different components appear.
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-pages
+https://master-coda.cz/article/nuxt-pages

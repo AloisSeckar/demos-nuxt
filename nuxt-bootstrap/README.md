@@ -11,4 +11,4 @@ This demo shows how to include [Bootstrap](https://getbootstrap.com/) in [Nuxt](
 You can use all the Bootstrap css classes and JS features.
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-ui#bootstrap
+https://master-coda.cz/article/nuxt-ui#bootstrap

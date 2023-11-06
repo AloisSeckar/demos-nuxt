@@ -9,7 +9,7 @@ This demo shows how to include [Font Awesome icons](https://fontawesome.com/) in
 5. `localhost:3000` 
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-ui#fa
+https://master-coda.cz/article/nuxt-ui#fa
 
 ### Current limits/gotchas
 - only work correctly with `ssr: false` setting

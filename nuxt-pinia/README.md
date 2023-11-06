@@ -9,4 +9,4 @@ This demo shows how to include [Pinia](https://pinia.vuejs.org/) in [Nuxt](https
 5. `localhost:3000` 
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-pinia
+https://master-coda.cz/article/nuxt-pinia

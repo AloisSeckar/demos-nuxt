@@ -9,4 +9,4 @@ This demo shows how [Nuxt Content](https://content.nuxtjs.org/) module can help 
 5. `localhost:3000` 
 
 ### Tutorial article
-https://master-coda.netlify.app/article/nuxt-content
+https://master-coda.cz/article/nuxt-content
