@@ -11,6 +11,7 @@ nuxt-animation
 ..\nuxt-minimal
 ..\nuxt-pages
 ..\nuxt-pinia
+..\nuxt-plugins
 ..\nuxt-simple
 ..\nuxt-supabase
 ..\nuxt-tailwind
