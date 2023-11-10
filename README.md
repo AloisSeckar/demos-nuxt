@@ -11,6 +11,8 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 - [**nuxt-utils**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-utils) - example of Nuxt utils and composables
 - [**nuxt-api**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-api) - example of Nuxt server-side API
 - [**nuxt-middleware**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-middleware) - example of middleware available in Nuxt
+- [**nuxt-plugins**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-plugins) - example of creating plugins in Nuxt
+
 ### Advanced topics
 #### UI integrations
 - [**nuxt-tailwind**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-tailwind) - integration with [Tailwind CSS](https://tailwindcss.com/)

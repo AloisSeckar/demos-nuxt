@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "start": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "12.1.0",
+    "eslint": "8.52.0",
+    "nuxt": "3.8.0"
+  },
+  "dependencies": {
+    "v-viewer": "3.0.11"
+  }
+}
