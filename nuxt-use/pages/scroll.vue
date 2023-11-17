@@ -1,6 +1,10 @@
 <template>
   <div>
-    <p><pre style="display: inline-block;">useInfiniteScroll</pre> allows user to keep scrolling down and new items will be dynamically loaded</p>
+    <NuxtLink to="/" title="Back to index">
+      &lt;&lt;
+    </NuxtLink>
+    &nbsp;
+    <pre style="display: inline-block;">useInfiniteScroll</pre> allows user to keep scrolling down and new items will be dynamically loaded
     <div ref="list" style="border: 1px solid black; height: 180px; overflow: auto;">
       <div v-for="item in data" :key="item">
         {{ item }}
