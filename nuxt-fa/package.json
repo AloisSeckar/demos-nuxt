@@ -7,12 +7,12 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.1.0",
-    "eslint": "8.52.0",
+    "eslint": "8.54.0",
     "nuxt": "3.8.2"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "6.5.1",
-    "@fortawesome/free-solid-svg-icons": "6.4.0",
+    "@fortawesome/free-solid-svg-icons": "6.5.1",
     "@fortawesome/vue-fontawesome": "3.0.5"
   }
 }

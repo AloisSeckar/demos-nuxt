@@ -7,9 +7,9 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.1.0",
-    "@vueuse/core": "10.5.0",
-    "@vueuse/nuxt": "10.5.0",
-    "eslint": "8.52.0",
-    "nuxt": "3.8.0"
+    "@vueuse/core": "10.6.1",
+    "@vueuse/nuxt": "10.6.1",
+    "eslint": "8.54.0",
+    "nuxt": "3.8.2"
   }
 }
