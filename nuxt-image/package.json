@@ -7,10 +7,10 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.1.0",
-    "eslint": "8.52.0",
-    "nuxt": "3.8.0"
+    "eslint": "8.54.0",
+    "nuxt": "3.8.2"
   },
   "dependencies": {
-    "@nuxt/image": "1.0.0"
+    "@nuxt/image": "1.1.0"
   }
 }
