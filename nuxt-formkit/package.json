@@ -8,7 +8,7 @@
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.1.0",
     "eslint": "8.52.0",
-    "nuxt": "3.8.0"
+    "nuxt": "3.8.2"
   },
   "dependencies": {
     "@formkit/nuxt": "1.2.2"
