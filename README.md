@@ -1,6 +1,9 @@
 # demos-nuxt
 A showcase of what I have learned on my journey with Nuxt so far. Feel free to explore them and use them as you'll see fit. Also don't hesitate to ask for more info or to correct me if you'd find something I messed up or should have been done better.
 
+## Vue & Nuxt news
+See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig articles maintained since 11/2023.
+
 ## Available projects
 ### Starters
 - [**nuxt-minimal**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-minimal) - the smallest setup required to run Nuxt
