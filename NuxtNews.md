@@ -1,6 +1,12 @@
 # VUE & NUXT NEWS
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
+## 2023 - December
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2023-12-02`** | [PreVue 3.0](https://dev.to/greenteaisgreat/prevue-30-vues-most-visual-prototyping-tool-yet-39lh) - introduction of visual prototyping tool for **Vue** components |
+
 ## 2023 - November
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
