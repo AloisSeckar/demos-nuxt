@@ -1,6 +1,11 @@
 # VUE & NUXT NEWS
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
+## Upcomming events
+- [Vue.js Nation 2024](https://vuejsnation.com/) - **24th and 25th January, 2024** 
+- [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - **28th and 29th February, 2024** 
+- [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**
+
 ## 2023 - December
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
