@@ -6,9 +6,9 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@formkit/nuxt": "1.3.2",
+    "@formkit/nuxt": "1.4.0",
     "@nuxtjs/eslint-config-typescript": "12.1.0",
-    "eslint": "8.54.0",
+    "eslint": "8.55.0",
     "nuxt": "3.8.2"
   }
 }
