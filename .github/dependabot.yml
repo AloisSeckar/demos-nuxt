@@ -1,7 +1,19 @@
 # https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+# https://github.blog/2023-08-24-a-faster-way-to-manage-version-updates-with-dependabot/
 
 version: 2
 updates:
+  - package-ecosystem: "npm"
+    directory: "/nuxt-animation"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-api"
     schedule:
@@ -9,6 +21,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-bootstrap"
     schedule:
@@ -16,6 +32,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-content"
     schedule:
@@ -23,6 +43,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-dx"
     schedule:
@@ -30,6 +54,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-fa"
     schedule:
@@ -37,6 +65,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-formkit"
     schedule:
@@ -44,6 +76,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-icones"
     schedule:
@@ -51,6 +87,21 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-image"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-middleware"
     schedule:
@@ -58,6 +109,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-minimal"
     schedule:
@@ -65,6 +120,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-pages"
     schedule:
@@ -72,6 +131,10 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-pinia"
     schedule:
@@ -79,6 +142,21 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-plugins"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-simple"
     schedule:
@@ -86,13 +164,21 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
-    directory: "/nuxt-stack"
+    directory: "/nuxt-supabase"
     schedule:
       interval: "monthly"
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-tailwind"
     schedule:
@@ -100,6 +186,21 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-use"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-utils"
     schedule:
@@ -107,3 +208,7 @@ updates:
       time: "05:00"
     commit-message:
       prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
