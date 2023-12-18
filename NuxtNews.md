@@ -2,14 +2,16 @@
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
 ## Upcomming events
-- [Vue.js Nation 2024](https://vuejsnation.com/) - **24th and 25th January, 2024** 
-- [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - **28th and 29th February, 2024** 
-- [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**
+- [Vue.js Nation 2024](https://vuejsnation.com/) - **24th and 25th January, 2024**, Online
+- [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - **28th and 29th February, 2024**, NED
+- [Vueconf US 2024](https://vueconf.us/) - **22nd - 24th May, 2024**, USA
+- [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
 ## 2023 - December
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2023-12-08`** | [Understanding and Measuring Nuxt Performance – Vue.js 3 Performance](https://vueschool.io/articles/vuejs-tutorials/understanding-and-measuring-nuxt-performance-vue-js-3-performance) - a few useful things to know when being concerned about Nuxt application performance |
 | **`2023-12-02`** | [PreVue 3.0](https://dev.to/greenteaisgreat/prevue-30-vues-most-visual-prototyping-tool-yet-39lh) - introduction of visual prototyping tool for **Vue** components |
 
 ## 2023 - November
