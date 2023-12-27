@@ -12,7 +12,11 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2023-12-25`** | [Nuxt 3.9](https://github.com/nuxt/nuxt/releases/tag/v3.9.0) - **Nuxt** minor release |
+| **`2023-12-24`** | [Vue 2.7.16](https://github.com/vuejs/vue/releases/tag/v2.7.16) - **Vue 2** last and final release, code name _"Swan Song"_ |
+| **`2023-12-23`** | [Nuxt Monorepo for Large-Scale Vue Web Application](https://serko.dev/post/nuxt-3-monorepo) - practical tutorial about building up monorepo using Nuxt Layers |
 | **`2023-12-19`** | [Vue 3.3.13](https://github.com/vuejs/core/releases/tag/v3.3.13) - **Vue** patch release |
+| **`2023-12-18`** | [Vue Query vs. Pinia: A Clarity Comparison](https://medium.com/@yah.emam/vue-query-vs-pinia-a-clarity-comparison-1002c8a5e7f5) - meet Vue Query, an alternative to Vuex and Pinia |
+| **`2023-12-15`** | [Vue 2 is Approaching End Of Life](https://blog.vuejs.org/posts/vue-2-eol) - an offical reminder that **Vue 2** will be deprecated after 31th December 2023 |
 | **`2023-12-12`** | [Vue 3.3.12](https://github.com/vuejs/core/releases/tag/v3.3.12) - **Vue** patch release |
 | **`2023-12-13`** | [What Vue’s Creator Learned the Hard Way with Vue 3](https://thenewstack.io/what-vues-creator-learned-the-hard-way-with-vue-3/) - what didn't go too well when moving from Vue 2 to Vue 3 according to its creator Evan You |
 | **`2023-12-08`** | [Understanding and Measuring Nuxt Performance – Vue.js 3 Performance](https://vueschool.io/articles/vuejs-tutorials/understanding-and-measuring-nuxt-performance-vue-js-3-performance) - a few useful things to know when being concerned about Nuxt application performance |
