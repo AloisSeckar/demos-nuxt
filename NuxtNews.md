@@ -11,6 +11,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2023-12-28`** | [Vue 3.4](https://blog.vuejs.org/posts/vue-3-4) - **Vue** minor release, code name _"Slam Dunk"_. See the new features in the linked announcement. |
 | **`2023-12-25`** | [Nuxt 3.9](https://github.com/nuxt/nuxt/releases/tag/v3.9.0) - **Nuxt** minor release |
 | **`2023-12-24`** | [Vue 2.7.16](https://github.com/vuejs/vue/releases/tag/v2.7.16) - **Vue 2** last and final release, code name _"Swan Song"_ |
 | **`2023-12-23`** | [Nuxt Monorepo for Large-Scale Vue Web Application](https://serko.dev/post/nuxt-3-monorepo) - practical tutorial about building up monorepo using Nuxt Layers |
