@@ -11,6 +11,6 @@
     "@fortawesome/vue-fontawesome": "3.0.5",
     "@nuxtjs/eslint-config-typescript": "12.1.0",
     "eslint": "8.56.0",
-    "nuxt": "3.9.0"
+    "nuxt": "3.9.1"
   }
 }
