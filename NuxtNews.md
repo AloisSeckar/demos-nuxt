@@ -7,6 +7,13 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 - [Vueconf US 2024](https://vueconf.us/) - **22nd - 24th May, 2024**, USA
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
+## 2024 - January
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-01-08`** | [Taking Nuxt to the Backend with Supabase](https://dev.to/jacobandrewsky/taking-nuxt-to-the-backend-with-supabase-2obn) - yes, Nuxt can be a backend microservice! |
+| **`2024-01-05`** | [Nuxt 3.9.1](https://github.com/nuxt/nuxt/releases/tag/v3.9.1) - **Nuxt** patch release |
+
 ## 2023 - December
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
