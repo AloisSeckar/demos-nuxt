@@ -25,6 +25,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2023-12-25`** | [Nuxt 3.9](https://github.com/nuxt/nuxt/releases/tag/v3.9.0) - **Nuxt** minor release |
 | **`2023-12-24`** | [Vue 2.7.16](https://github.com/vuejs/vue/releases/tag/v2.7.16) - **Vue 2** last and final release, code name _"Swan Song"_ |
 | **`2023-12-23`** | [Nuxt Monorepo for Large-Scale Vue Web Application](https://serko.dev/post/nuxt-3-monorepo) - practical tutorial about building up monorepo using Nuxt Layers |
+| **`2023-12-21`** | [VueFire is now stable](https://firebase.blog/posts/2023/12/vuefire-nuxt-is-now-stable) - interesting preview of the new **Vue** - **Firebase** integration |
 | **`2023-12-18`** | [More secure Vue & Nuxt apps -> by default!](https://dev.to/jacobandrewsky/more-secure-vue-nuxt-apps-by-default-3nhi) - introduction of **Nuxt Security** module by its author |
 | **`2023-12-18`** | [Vue Query vs. Pinia: A Clarity Comparison](https://medium.com/@yah.emam/vue-query-vs-pinia-a-clarity-comparison-1002c8a5e7f5) - meet Vue Query, an alternative to Vuex and Pinia |
 | **`2023-12-15`** | [Vue 2 is Approaching End Of Life](https://blog.vuejs.org/posts/vue-2-eol) - an offical reminder that **Vue 2** will be deprecated after 31th December 2023 |
