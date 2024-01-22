@@ -11,6 +11,9 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-01-17`** | [Nuxt 3.9.3](https://github.com/nuxt/nuxt/releases/tag/v3.9.3) - **Nuxt** patch release |
+| **`2024-01-16`** | [Nuxt 3.9.2](https://github.com/nuxt/nuxt/releases/tag/v3.9.2) - **Nuxt** patch release |
+| **`2024-01-12`** | [Vue 3.4 is here — defineModel and why it matters!](https://javascript.plainenglish.io/vue-3-4-is-here-definemodel-and-why-it-matters-50ead5d3d1c1) - closer look to one of the new features of **Vue 3.4** |
 | **`2024-01-08`** | [Taking Nuxt to the Backend with Supabase](https://dev.to/jacobandrewsky/taking-nuxt-to-the-backend-with-supabase-2obn) - yes, Nuxt can be a backend microservice! |
 | **`2024-01-05`** | [Nuxt 3.9.1](https://github.com/nuxt/nuxt/releases/tag/v3.9.1) - **Nuxt** patch release |
 
