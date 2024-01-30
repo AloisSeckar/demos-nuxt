@@ -10,6 +10,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-01-28`** | [How to Write Clean Vue Components](https://dev.to/alexanderop/how-to-write-clean-vue-components-5bl) - approach to organizing code logic via **_"Functional Core, Imperative Shell"_** pattern |
 | **`2024-01-26`** | [Insights and Trends in Vue.js from Evan You 2024](https://medium.com/@leonidshvab1996/insights-and-trends-in-vue-js-from-evan-you-2024-695ed1feef5d) - sort of a summary of what was told during **Vue.js Nation** |
 | **`2024-01-25`** | [Vue.js Nation 2024](https://vuejsnation.com/2024) - online conference took place **24th and 25th January, 2024** |
 | **`2024-01-17`** | [Nuxt 3.9.3](https://github.com/nuxt/nuxt/releases/tag/v3.9.3) - **Nuxt** patch release |
