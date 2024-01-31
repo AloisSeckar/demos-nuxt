@@ -10,6 +10,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-01-30`** | [Nuxt 3.10](https://github.com/nuxt/nuxt/releases/tag/v3.10.0) - **Nuxt** minor release with new features |
 | **`2024-01-28`** | [How to Write Clean Vue Components](https://dev.to/alexanderop/how-to-write-clean-vue-components-5bl) - approach to organizing code logic via **_"Functional Core, Imperative Shell"_** pattern |
 | **`2024-01-26`** | [Insights and Trends in Vue.js from Evan You 2024](https://medium.com/@leonidshvab1996/insights-and-trends-in-vue-js-from-evan-you-2024-695ed1feef5d) - sort of a summary of what was told during **Vue.js Nation** |
 | **`2024-01-25`** | [Vue.js Nation 2024](https://vuejsnation.com/2024) - online conference took place **24th and 25th January, 2024** |
@@ -28,7 +29,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2023-12-28`** | [Vue 3.4](https://blog.vuejs.org/posts/vue-3-4) - **Vue** minor release, code name _"Slam Dunk"_. See the new features in the linked announcement. |
 | **`2023-12-27`** | [Exploring Nuxt Devtools](https://vueschool.io/articles/vuejs-tutorials/exploring-nuxt-devtools/) - how to improve your DX with **Nuxt Devtools** |
 | **`2023-12-25`** | [Nuxt I18n 8.0](https://github.com/nuxt-modules/i18n/releases/tag/v8.0.0) - a milestone release for **Nuxt** module providing internalization via Vue-based `i18`. Version 8 finally leaves development stage to support Nuxt 3. |
-| **`2023-12-25`** | [Nuxt 3.9](https://github.com/nuxt/nuxt/releases/tag/v3.9.0) - **Nuxt** minor release |
+| **`2023-12-25`** | [Nuxt 3.9](https://github.com/nuxt/nuxt/releases/tag/v3.9.0) - **Nuxt** minor release with new features |
 | **`2023-12-24`** | [Vue 2.7.16](https://github.com/vuejs/vue/releases/tag/v2.7.16) - **Vue 2** last and final release, code name _"Swan Song"_ |
 | **`2023-12-23`** | [Nuxt Monorepo for Large-Scale Vue Web Application](https://serko.dev/post/nuxt-3-monorepo) - practical tutorial about building up monorepo using Nuxt Layers |
 | **`2023-12-21`** | [VueFire is now stable](https://firebase.blog/posts/2023/12/vuefire-nuxt-is-now-stable) - interesting preview of the new **Vue** - **Firebase** integration |
