@@ -14,6 +14,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2024-01-28`** | [How to Write Clean Vue Components](https://dev.to/alexanderop/how-to-write-clean-vue-components-5bl) - approach to organizing code logic via **_"Functional Core, Imperative Shell"_** pattern |
 | **`2024-01-26`** | [Insights and Trends in Vue.js from Evan You 2024](https://medium.com/@leonidshvab1996/insights-and-trends-in-vue-js-from-evan-you-2024-695ed1feef5d) - sort of a summary of what was told during **Vue.js Nation** |
 | **`2024-01-25`** | [Vue.js Nation 2024](https://vuejsnation.com/2024) - online conference took place **24th and 25th January, 2024** |
+| **`2024-01-23`** | [Lazy Hydration and Server Components in Nuxt](https://vueschool.io/articles/vuejs-tutorials/lazy-hydration-and-server-components-in-nuxt-vue-js-3-performance/) - Filip Rakowski about ways of optimizing client hydration process to achieve better UX |
 | **`2024-01-17`** | [Nuxt 3.9.3](https://github.com/nuxt/nuxt/releases/tag/v3.9.3) - **Nuxt** patch release |
 | **`2024-01-16`** | [Nuxt 3.9.2](https://github.com/nuxt/nuxt/releases/tag/v3.9.2) - **Nuxt** patch release |
 | **`2024-01-15`** | [Using shared data when generating pages](https://dev.to/danielroe/using-shared-data-when-generating-pages-45ok) - Daniel Roe about the option of prefetching and using API data via a Nuxt server plugin |
