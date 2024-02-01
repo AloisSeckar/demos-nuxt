@@ -10,6 +10,6 @@
   "devDependencies": {
     "devextreme": "23.2.3",
     "devextreme-vue": "23.2.3",
-    "nuxt": "3.9.1"
+    "nuxt": "3.10.0"
   }
 }
