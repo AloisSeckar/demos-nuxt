@@ -3,6 +3,6 @@
 FOR /F %%G IN (.\tech-update-list.txt) DO (
   echo tech-update %%G
   cd %%G
-  npm install
-  npm audit fix
+  pnpm install
+  pnpm audit fix
 )

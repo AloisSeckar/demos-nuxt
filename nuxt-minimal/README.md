@@ -14,7 +14,7 @@ Do not use this as a starter for your real projects. Rather pick my `nuxt-stack`
 ### How to use
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-minimal`
-3. `npm install`
+3. `pnpm install`
 4. `npx nuxi dev` 
 5. `localhost:3000` 
 

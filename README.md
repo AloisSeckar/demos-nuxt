@@ -5,6 +5,8 @@ A showcase of what I have learned on my journey with Nuxt so far. Feel free to e
 See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig articles maintained since 11/2023.
 
 ## Available projects
+**NOTE:** This project is maintainted using `pnpm` as package manager due to excessive amount of disc space consumed by overlapping `node_modules` directories created by good ol' `npm`. However, there is no problem for you to keep using `npm`, if you are used to. Just use respective version of command.
+
 ### Starters
 - [**nuxt-minimal**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-minimal) - the smallest setup required to run Nuxt
 - [**nuxt-simple**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-simple) - simple setup to start demo Nuxt app (also available as [standalone Git project](https://github.com/AloisSeckar/nuxt-starter) for easier forking and cloning)
