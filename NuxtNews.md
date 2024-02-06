@@ -6,6 +6,12 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 - [Vueconf US 2024](https://vueconf.us/) - **22nd - 24th May, 2024**, USA
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
+## 2024 - February
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-02-05`** | [Nuxt 3.10.1](https://github.com/nuxt/nuxt/releases/tag/v3.10.1) - **Nuxt** patch release |
+
 ## 2024 - January
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
