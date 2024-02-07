@@ -18,6 +18,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | --- | :--  |
 | **`2024-01-30`** | [Nuxt 3.10](https://github.com/nuxt/nuxt/releases/tag/v3.10.0) - **Nuxt** minor release with new features |
 | **`2024-01-28`** | [How to Write Clean Vue Components](https://dev.to/alexanderop/how-to-write-clean-vue-components-5bl) - approach to organizing code logic via **_"Functional Core, Imperative Shell"_** pattern |
+| **`2024-01-26`** | [Top UI Libraries for Building Stunning UIs in Vue 3 and Nuxt 3](https://vuejsdevelopers.com/2024/01/26/top-ui-libraries-for-building-stunning-uis-in-vue3-and-nuxt3/) - an overview of a couple of most prominent UI frameworks in current Vue ecosystem |
 | **`2024-01-26`** | [Insights and Trends in Vue.js from Evan You 2024](https://medium.com/@leonidshvab1996/insights-and-trends-in-vue-js-from-evan-you-2024-695ed1feef5d) - sort of a summary of what was told during **Vue.js Nation** |
 | **`2024-01-25`** | [Vue.js Nation 2024](https://vuejsnation.com/2024) - online conference took place **24th and 25th January, 2024** |
 | **`2024-01-23`** | [Lazy Hydration and Server Components in Nuxt](https://vueschool.io/articles/vuejs-tutorials/lazy-hydration-and-server-components-in-nuxt-vue-js-3-performance/) - Filip Rakowski about ways of optimizing client hydration process to achieve better UX |
