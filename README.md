@@ -25,7 +25,8 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 - [**nuxt-icones**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Icônes](https://icones.js.org/)
 - [**nuxt-fa**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Font Awesome](https://fontawesome.com/) (alternative to Icônes)
 
-#### Forms
+#### UI and Forms libraries
+- [**nuxt-ui**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-ui) - integration with [Nuxt UI](https://ui.nuxt.com/)
 - [**nuxt-formkit**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-formkit) - integration with [Formkit](https://formkit.com/)
 - [**nuxt-dx**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-dx) - integration with [DevExtreme UI](https://js.devexpress.com/) (alternative to Formkit)
 
