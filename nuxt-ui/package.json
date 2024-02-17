@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "nuxt-simple",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "start": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxt/ui": "2.13.0",
+    "@nuxtjs/eslint-config-typescript": "12.1.0",
+    "eslint": "8.56.0",
+    "nuxt": "3.10.2"
+  }
+}
