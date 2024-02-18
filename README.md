@@ -1,5 +1,8 @@
 # demos-nuxt
-A showcase of what I have learned on my journey with Nuxt so far. Feel free to explore them and use them as you'll see fit. Also don't hesitate to ask for more info or to correct me if you'd find something I messed up or should have been done better.
+
+![demos-nuxt](https://github.com/AloisSeckar/demos-nuxt/blob/main/nuxt-simple/public/favicon.ico)
+
+This is a showcase of what I have learned on my journey with Nuxt so far. Each sub-project shows some Nuxt principles and functionality or an integration to an external tool. Feel free to explore them and use them as you'll see fit. Also don't hesitate to ask for more info or to correct me if you'd find something I messed up or should have been done better.
 
 ## Vue & Nuxt news
 See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig articles maintained since 11/2023.
