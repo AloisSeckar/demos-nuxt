@@ -17,6 +17,7 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 ### Nuxt basics
 - [**nuxt-pages**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pages) - example of Nuxt pages and components
 - [**nuxt-utils**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-utils) - example of Nuxt utils and composables
+- [**nuxt-layouts**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-layouts) - example of Nuxt layouts
 - [**nuxt-api**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-api) - example of Nuxt server-side API
 - [**nuxt-middleware**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-middleware) - example of middleware available in Nuxt
 - [**nuxt-plugins**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-plugins) - example of creating plugins in Nuxt

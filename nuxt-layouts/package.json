@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "nuxt-layouts",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "start": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "12.1.0",
+    "eslint": "8.56.0",
+    "nuxt": "3.10.0"
+  }
+}
