@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "nuxt-simple",
+  "name": "nuxt-ui",
   "version": "1.0.0",
   "scripts": {
     "build": "nuxt build",
