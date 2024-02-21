@@ -1,21 +1,19 @@
-<!--
-    https://nuxt.com/docs/guide/directory-structure/layouts
-
-    layouts are useful to declare common parts of an appliction only
-    once and in a dedicated place where everyone familiar with Nuxt
-    will look for them
-
-    Unless your app really is a "single page", and probably even then,
-    it is considered best practice to use default layout instead of
-    polluting app.vue with any header/footer/menu logic.
--->
-
 <template>
   <div>
     <h1 class="text-4xl text-amber-400 font-bold">
       Nuxt + Tailwind CSS
     </h1>
-    <NuxtPage />
+    <div>
+      <div>
+        This demo shows how to include Tailwind in Nuxt application
+      </div>
+      <div class="p-1 bg-amber-300 text-red-700">
+        div element customized with Tailwind inline classes
+      </div>
+      <div class="customized">
+        div element customized with Tailwind @apply
+      </div>
+    </div>
     <NuxtLink to="https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind" class="footer">
       https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind
     </NuxtLink>
