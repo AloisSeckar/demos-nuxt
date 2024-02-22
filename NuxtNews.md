@@ -10,6 +10,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-02-22`** | [Nuxt 3.10.3](https://github.com/nuxt/nuxt/releases/tag/v3.10.3) - **Nuxt** patch release |
 | **`2024-02-14`** | [Nuxt 3.10.2](https://github.com/nuxt/nuxt/releases/tag/v3.10.2) - **Nuxt** patch release |
 | **`2024-02-12`** | [Improve Build Performance of Nuxt](https://dev.to/jacobandrewsky/improve-build-performance-of-nuxt-2bmn) - Jakub Andrzejewski introducing new `nuxt-build-cache` module |
 | **`2024-02-06`** | [Unlocking the Power of v-for Loops](https://mokkapps.de/blog/unlocking-the-power-of-v-for-loops-in-vue-with-these-useful-tips?source=weeklyVueNews&campaign=132) - couple of good tips about using `v-for` in Vue from Michael Hoffmann |
