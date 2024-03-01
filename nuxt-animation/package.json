@@ -10,10 +10,10 @@
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.1.0",
     "@pinia/nuxt": "0.5.1",
-    "@vueuse/core": "10.7.2",
-    "@vueuse/nuxt": "10.7.2",
-    "eslint": "8.56.0",
-    "nuxt": "3.10.0",
+    "@vueuse/core": "10.9.0",
+    "@vueuse/nuxt": "10.9.0",
+    "eslint": "8.57.0",
+    "nuxt": "3.10.3",
     "pinia": "2.1.7"
   }
 }
