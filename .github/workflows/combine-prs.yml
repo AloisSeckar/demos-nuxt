@@ -17,7 +17,7 @@ on:
       combineBranchName:
         description: "Name of the branch to combine PRs into"
         required: true
-        default: " tech-update"
+        default: "tech-update"
       ignoreLabel:
         description: "Exclude PRs with this label"
         required: true
