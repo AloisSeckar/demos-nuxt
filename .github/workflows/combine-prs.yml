@@ -17,7 +17,7 @@ on:
       combineBranchName:
         description: "Name of the branch to combine PRs into"
         required: true
-        default: "chore: tech-update"
+        default: " tech-update"
       ignoreLabel:
         description: "Exclude PRs with this label"
         required: true
@@ -119,7 +119,7 @@ jobs:
               await github.rest.git.createRef({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                ref: 'refs/heads/' + '${{ github.event.inputs.combineBranchName || 'chore: tech-update' }}',
+                ref: 'refs/heads/' + '${{ github.event.inputs.combineBranchName || 'tech-update' }}',
                 sha: baseBranchSHA
               });
             } catch (error) {
@@ -135,7 +135,7 @@ jobs:
                 await github.rest.repos.merge({
                   owner: context.repo.owner,
                   repo: context.repo.repo,
-                  base: '${{ github.event.inputs.combineBranchName || 'chore: tech-update' }}',
+                  base: '${{ github.event.inputs.combineBranchName || 'tech-update' }}',
                   head: branch,
                 });
                 console.log('Merged branch ' + branch);
@@ -156,8 +156,8 @@ jobs:
             await github.rest.pulls.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: 'tech update',
-              head: '${{ github.event.inputs.combineBranchName || 'chore: tech-update' }}',
+              title: 'chore:tech update',
+              head: '${{ github.event.inputs.combineBranchName || 'tech-update' }}',
               base: baseBranch,
               body: body
             });
