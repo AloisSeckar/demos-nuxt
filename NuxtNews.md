@@ -2,8 +2,9 @@
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
 ## Upcomming events
-- [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - **28th and 29th February, 2024**, NED
+- [Vue.js Live 2024](https://vuejslive.com/) - **25th and 26th April, 2024**, Online
 - [Vueconf US 2024](https://vueconf.us/) - **22nd - 24th May, 2024**, USA
+- [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn, Germany
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
 ## 2024 - February
@@ -11,6 +12,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-02-29`** | [The CJS build of Vite’s Node API is deprecated](https://vueschool.io/articles/vuejs-tutorials/the-cjs-build-of-vites-node-api-is-deprecated/) - practical tip from **VueSchool.io** about how to fix a warning that a number of devs have found in their terminal lately |
+| **`2024-02-28`** | [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - conference took place **28th and 29th February, 2024**
 | **`2024-02-22`** | [Nuxt 3.10.3](https://github.com/nuxt/nuxt/releases/tag/v3.10.3) - **Nuxt** patch release |
 | **`2024-02-14`** | [Nuxt 3.10.2](https://github.com/nuxt/nuxt/releases/tag/v3.10.2) - **Nuxt** patch release |
 | **`2024-02-12`** | [Improve Build Performance of Nuxt](https://dev.to/jacobandrewsky/improve-build-performance-of-nuxt-2bmn) - Jakub Andrzejewski introducing new `nuxt-build-cache` module |
@@ -28,6 +30,8 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2024-01-26`** | [Insights and Trends in Vue.js from Evan You 2024](https://medium.com/@leonidshvab1996/insights-and-trends-in-vue-js-from-evan-you-2024-695ed1feef5d) - sort of a summary of what was told during **Vue.js Nation** |
 | **`2024-01-25`** | [Vue.js Nation 2024](https://vuejsnation.com/2024) - online conference took place **24th and 25th January, 2024** |
 | **`2024-01-23`** | [Lazy Hydration and Server Components in Nuxt](https://vueschool.io/articles/vuejs-tutorials/lazy-hydration-and-server-components-in-nuxt-vue-js-3-performance/) - Filip Rakowski about ways of optimizing client hydration process to achieve better UX |
+| **`2024-01-22`** | [Handling Supabase admin requests in Nuxt](https://dev.to/jacobandrewsky/handling-supabase-admin-requests-in-nuxt-1eod) - how to work with admin requests using Supabase in Nuxt |
+| **`2024-01-20`** | [A Conceptual Model of State in Vue 3.4](https://chrlschn.dev/blog/2024/01/a-conceptual-model-of-state-in-vue-34-using-definemodel/) - closer look to the new `defineModel` macro hailing in `Vue 3.4` |
 | **`2024-01-17`** | [Nuxt 3.9.3](https://github.com/nuxt/nuxt/releases/tag/v3.9.3) - **Nuxt** patch release |
 | **`2024-01-16`** | [Nuxt 3.9.2](https://github.com/nuxt/nuxt/releases/tag/v3.9.2) - **Nuxt** patch release |
 | **`2024-01-15`** | [Using shared data when generating pages](https://dev.to/danielroe/using-shared-data-when-generating-pages-45ok) - Daniel Roe about the option of prefetching and using API data via a Nuxt server plugin |
