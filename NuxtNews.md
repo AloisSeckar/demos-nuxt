@@ -7,6 +7,12 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 - [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn, Germany
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
+## 2024 - March
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-03-06`** | [E2E Typesafety in Nuxt Fullstack Application](https://www.codybontecou.com/e2e-typesafety-in-nuxt-fullstack-application.html) - how to keep server/client TS types in sync  |
+
 ## 2024 - February
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
