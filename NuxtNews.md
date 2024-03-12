@@ -20,6 +20,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2024-02-29`** | [The CJS build of Vite’s Node API is deprecated](https://vueschool.io/articles/vuejs-tutorials/the-cjs-build-of-vites-node-api-is-deprecated/) - practical tip from **VueSchool.io** about how to fix a warning that a number of devs have found in their terminal lately |
 | **`2024-02-28`** | [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - conference took place **28th and 29th February, 2024**
 | **`2024-02-22`** | [Nuxt 3.10.3](https://github.com/nuxt/nuxt/releases/tag/v3.10.3) - **Nuxt** patch release |
+| **`2024-02-14`** | [Common Mistakes in Vue.js](https://vueschool.io/articles/vuejs-tutorials/common-mistakes-in-vue-js) - what you really shouldn't do when dealing with Vue.js |
 | **`2024-02-14`** | [Nuxt 3.10.2](https://github.com/nuxt/nuxt/releases/tag/v3.10.2) - **Nuxt** patch release |
 | **`2024-02-12`** | [Improve Build Performance of Nuxt](https://dev.to/jacobandrewsky/improve-build-performance-of-nuxt-2bmn) - Jakub Andrzejewski introducing new `nuxt-build-cache` module |
 | **`2024-02-06`** | [Unlocking the Power of v-for Loops](https://mokkapps.de/blog/unlocking-the-power-of-v-for-loops-in-vue-with-these-useful-tips?source=weeklyVueNews&campaign=132) - couple of good tips about using `v-for` in Vue from Michael Hoffmann |
