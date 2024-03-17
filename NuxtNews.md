@@ -11,6 +11,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-03-17`** | [Nuxt 3.11](https://github.com/nuxt/nuxt/releases/tag/v3.11.0) - **Nuxt** minor release with many new features. Announced as probably last 3.x version. |
 | **`2024-03-06`** | [E2E Typesafety in Nuxt Fullstack Application](https://www.codybontecou.com/e2e-typesafety-in-nuxt-fullstack-application.html) - how to keep server/client TS types in sync  |
 
 ## 2024 - February
