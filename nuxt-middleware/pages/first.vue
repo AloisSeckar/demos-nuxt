@@ -13,11 +13,6 @@
 <script setup lang="ts">
 const fetchedData = ref('')
 async function fetchAPI () {
-  const { data } = await useFetch<string>('/api/data')
-  if (data.value) {
-    fetchedData.value = data.value
-  } else {
-    fetchedData.value = 'Failed to fetch'
-  }
+  fetchedData.value = await $fetch<string>('/api/data')
 }
 </script>

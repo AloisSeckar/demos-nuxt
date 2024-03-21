@@ -13,5 +13,10 @@
         Second
       </NuxtLink>
     </div>
+    <div>
+      <NuxtLink to="/third" :internal="true">
+        Third
+      </NuxtLink>
+    </div>
   </div>
 </template>
