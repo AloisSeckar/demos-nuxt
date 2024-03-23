@@ -11,9 +11,13 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-03-21`** | [Announcing VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0) - static site generator powered by Vue + Vite finally reached official 1.0 released |
 | **`2024-03-19`** | [Nuxt 3.11.1](https://github.com/nuxt/nuxt/releases/tag/v3.11.1) - **Nuxt** patch release |
 | **`2024-03-17`** | [Nuxt 3.11](https://github.com/nuxt/nuxt/releases/tag/v3.11.0) - **Nuxt** minor release with many new features. Announced as probably last 3.x version. |
-| **`2024-03-06`** | [E2E Typesafety in Nuxt Fullstack Application](https://www.codybontecou.com/e2e-typesafety-in-nuxt-fullstack-application.html) - how to keep server/client TS types in sync  |
+| **`2024-03-13`** | [Decoding 14 Vue.js errors: A Vue.js debugging guide](https://dev.to/zipy/decoding-14-vuejs-errors-a-vuejs-debugging-guide-7nn) - quite exhaustive list of common problems you may encounter while developing Vue apps |
+| **`2024-03-12`** | [Build a Nuxt app with Azure serverless REST API](https://dev.to/mayashavin/build-a-nuxt-app-with-azure-serverless-rest-api-2ci7) - how to connect static Nuxt frontend to a serverless backend |
+| **`2024-03-11`** | [How to create private state in stores](https://masteringpinia.com/blog/how-to-create-private-state-in-stores) - an idea for achieving private state from **Pinia** author himself |
+| **`2024-03-06`** | [E2E Typesafety in Nuxt Fullstack Application](https://www.codybontecou.com/e2e-typesafety-in-nuxt-fullstack-application.html) - how to keep server/client TS types in sync |
 
 ## 2024 - February
 
@@ -21,6 +25,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | --- | :--  |
 | **`2024-02-29`** | [The CJS build of Vite’s Node API is deprecated](https://vueschool.io/articles/vuejs-tutorials/the-cjs-build-of-vites-node-api-is-deprecated/) - practical tip from **VueSchool.io** about how to fix a warning that a number of devs have found in their terminal lately |
 | **`2024-02-28`** | [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - conference took place **28th and 29th February, 2024**
+| **`2024-02-23`** | [Nuxt - how to create a sitemap Google Search will like!](https://bartmartin.com/nuxt-how-to-create-a-sitemap-google-search-will-like) - tutorial for building a sitemap with Nuxt including I18N for translations |
 | **`2024-02-22`** | [Nuxt 3.10.3](https://github.com/nuxt/nuxt/releases/tag/v3.10.3) - **Nuxt** patch release |
 | **`2024-02-14`** | [Common Mistakes in Vue.js](https://vueschool.io/articles/vuejs-tutorials/common-mistakes-in-vue-js) - what you really shouldn't do when dealing with Vue.js |
 | **`2024-02-14`** | [Nuxt 3.10.2](https://github.com/nuxt/nuxt/releases/tag/v3.10.2) - **Nuxt** patch release |
