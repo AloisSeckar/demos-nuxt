@@ -5,11 +5,14 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
-    "start": "nuxt preview"
+    "start": "nuxt preview",
+    "eslint": "eslint \"**/*.vue\" \"**/*.ts\""
   },
   "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "12.1.0",
     "devextreme": "23.2.4",
     "devextreme-vue": "23.2.4",
+    "eslint": "8.57.0",
     "nuxt": "3.10.3"
   }
 }
