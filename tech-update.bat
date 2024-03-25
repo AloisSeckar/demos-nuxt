@@ -1,6 +1,6 @@
 @echo off
 
-FOR /F %%G IN (.\tech-update-list.txt) DO (
+FOR /F %%G IN (.\project-list.txt) DO (
   echo tech-update %%G
   cd %%G
   pnpm install
