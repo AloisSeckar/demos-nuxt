@@ -9,7 +9,7 @@ Above others:
 * `tsconfig.json` file to correctly resolve aliases for Nuxt auto-imports in IDE
 * **ESLint** for static code analysis
 
-Do not use this as a starter for your real projects. Rather pick my `nuxt-stack` (with build-in integrations) or `nuxt-simple` (just plain Nuxt, but not gutted like this one).
+Do not use this as a starter for your real projects. Rather pick my [`nuxt-stack`](https://github.com/AloisSeckar/nuxt-stack) (with build-in integrations) or [`nuxt-simple`](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-simple) (just plain Nuxt, but not gutted like this one).
 
 ### How to use
 1. `git checkout demos-nuxt project`
