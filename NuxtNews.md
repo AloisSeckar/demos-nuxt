@@ -11,6 +11,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-03-28`** | [Nuxt: Looking forward](https://nuxt.com/blog/looking-forward-2024) - summary of 2023 and plans for 2024 from the Nuxt team |
 | **`2024-03-21`** | [Announcing VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0) - static site generator powered by Vue + Vite finally reached official 1.0 released |
 | **`2024-03-19`** | [Nuxt 3.11.1](https://github.com/nuxt/nuxt/releases/tag/v3.11.1) - **Nuxt** patch release |
 | **`2024-03-17`** | [Nuxt 3.11](https://github.com/nuxt/nuxt/releases/tag/v3.11.0) - **Nuxt** minor release with many new features. Announced as probably last 3.x version. |
