@@ -156,7 +156,7 @@ jobs:
             await github.rest.pulls.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: 'chore:tech update',
+              title: 'chore: tech update',
               head: '${{ github.event.inputs.combineBranchName || 'tech-update' }}',
               base: baseBranch,
               body: body
