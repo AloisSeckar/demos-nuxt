@@ -10,9 +10,9 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.1.0",
-    "devextreme": "23.2.4",
-    "devextreme-vue": "23.2.4",
+    "devextreme": "23.2.5",
+    "devextreme-vue": "23.2.5",
     "eslint": "8.57.0",
-    "nuxt": "3.10.3"
+    "nuxt": "3.11.1"
   }
 }
