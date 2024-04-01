@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "@nuxtjs/eslint-config-typescript": "12.1.0",
-    "@nuxtjs/supabase": "1.1.6",
+    "@nuxtjs/supabase": "1.2.0",
     "eslint": "8.57.0",
-    "nuxt": "3.10.3"
+    "nuxt": "3.11.1"
   }
 }
