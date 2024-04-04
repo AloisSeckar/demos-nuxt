@@ -7,6 +7,12 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 - [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn, Germany
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
+## 2024 - April
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-04-01`** | [Use Nitro as Mock Server](https://mokkapps.de/blog/use-nitro-as-mock-server) - tip to enhance your E2E testing by leveraging **Nitro** JS server |
+
 ## 2024 - March
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
