@@ -11,6 +11,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-04-08`** | [How Nuxi helps Nuxt deliver great DX?](https://dev.to/jacobandrewsky/how-nuxi-helps-nuxt-deliver-great-dx-5hn9) - quick tip about using `nuxi` command to speed up adding modules into Nuxt |
 | **`2024-04-01`** | [Use Nitro as Mock Server](https://mokkapps.de/blog/use-nitro-as-mock-server) - tip to enhance your E2E testing by leveraging **Nitro** JS server |
 
 ## 2024 - March
