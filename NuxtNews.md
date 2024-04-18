@@ -11,7 +11,10 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-04-10`** | [Refreshed Nuxt ESLint Integrations](https://nuxt.com/blog/eslint-module) - using **ESLint** is now much easier to setup in Nuxt using dedicated **@nuxt/eslint** module |
 | **`2024-04-08`** | [How Nuxi helps Nuxt deliver great DX?](https://dev.to/jacobandrewsky/how-nuxi-helps-nuxt-deliver-great-dx-5hn9) - quick tip about using `nuxi` command to speed up adding modules into Nuxt |
+| **`2024-04-07`** | [Ref vs Reactive in Stores](https://masteringpinia.com/blog/ref-vs-reactive-in-stores) - usage of those two ReactivityAPI functions from the **Pinia** perspective by the library author |
+| **`2024-04-04`** | [Nuxt 3.11.2](https://github.com/nuxt/nuxt/releases/tag/v3.11.2) - **Nuxt** patch release |
 | **`2024-04-01`** | [Use Nitro as Mock Server](https://mokkapps.de/blog/use-nitro-as-mock-server) - tip to enhance your E2E testing by leveraging **Nitro** JS server |
 
 ## 2024 - March
