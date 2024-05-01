@@ -12,8 +12,8 @@
     "@nuxtjs/eslint-config-typescript": "12.1.0",
     "@types/bootstrap": "5.2.10",
     "bootstrap": "5.3.3",
-    "eslint": "8.57.0",
-    "nuxt": "3.11.1",
-    "sass": "1.72.0"
+    "eslint": "9.1.1",
+    "nuxt": "3.11.2",
+    "sass": "1.76.0"
   }
 }
