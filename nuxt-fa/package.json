@@ -9,11 +9,11 @@
     "eslint": "eslint \"**/*.vue\" \"**/*.ts\""
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-svg-core": "6.5.1",
-    "@fortawesome/free-solid-svg-icons": "6.5.1",
+    "@fortawesome/fontawesome-svg-core": "6.5.2",
+    "@fortawesome/free-solid-svg-icons": "6.5.2",
     "@fortawesome/vue-fontawesome": "3.0.6",
     "@nuxtjs/eslint-config-typescript": "12.1.0",
-    "eslint": "8.57.0",
-    "nuxt": "3.11.1"
+    "eslint": "9.1.1",
+    "nuxt": "3.11.2"
   }
 }
