@@ -2,15 +2,19 @@
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
 ## Upcomming events
-- [Vue.js Live 2024](https://vuejslive.com/) - **25th and 26th April, 2024**, Online
-- [Vueconf US 2024](https://vueconf.us/) - **22nd - 24th May, 2024**, USA
-- [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn, Germany
+- [Vueconf US 2024](https://vueconf.us/) - **22nd - 24th May, 2024**, New Orleans [USA]
+- [JSNation 2024](https://jsnation.com/) - **13th - 17th June, 2024**, Amsterdam [NED] / Online
+- [PragVue 2024](https://pragvue.com/) - **17th September, 2024**, Prague [CZE]
+- [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn [GER]
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
 ## 2024 - April
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-04-25`** | [Vue.js Live 2024](https://vuejslive.com/) - online conference took place **25th and 26th April, 2024**
+| **`2024-04-23`** | [Official Nuxt Certification Arrives!](https://dev.to/anaamarijaa/official-nuxt-certification-arrives-early-bird-pre-orders-are-open-45e7) - it is now possible to get certified for Nuxt via **certificates.dev** |
+| **`2024-04-12`** | [Fixing Nuxt Hydration Mismatches in the Real World](https://ryanclements.dev/posts/fixing-nuxt-hydration-mismatches-in-the-real-world) - how to deal with kind of a typical error you may encounter using Nuxt with SSR |
 | **`2024-04-10`** | [Refreshed Nuxt ESLint Integrations](https://nuxt.com/blog/eslint-module) - using **ESLint** is now much easier to setup in Nuxt using dedicated **@nuxt/eslint** module |
 | **`2024-04-08`** | [How Nuxi helps Nuxt deliver great DX?](https://dev.to/jacobandrewsky/how-nuxi-helps-nuxt-deliver-great-dx-5hn9) - quick tip about using `nuxi` command to speed up adding modules into Nuxt |
 | **`2024-04-07`** | [Ref vs Reactive in Stores](https://masteringpinia.com/blog/ref-vs-reactive-in-stores) - usage of those two ReactivityAPI functions from the **Pinia** perspective by the library author |
