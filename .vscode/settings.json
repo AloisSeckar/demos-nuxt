@@ -1,5 +1,9 @@
 {
+    // Enable ESlint flat config support
+    "eslint.experimental.useFlatConfig": true,
+    // enable auto-linting
     "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": "explicit"
+        "source.fixAll": "explicit",
+        "source.fixAll.eslint": "explicit"
     }
 }

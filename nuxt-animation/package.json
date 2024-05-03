@@ -1,19 +1,18 @@
 {
   "private": true,
   "name": "nuxt-animation",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
-    "build": "nuxt build",
+    "eslint": "eslint .",
     "dev": "nuxt dev",
-    "start": "nuxt preview",
-    "eslint": "eslint \"**/*.vue\" \"**/*.ts\""
+    "build": "nuxt build",
+    "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config-typescript": "12.1.0",
+    "@nuxt/eslint": "0.3.10",
     "@pinia/nuxt": "0.5.1",
     "@vueuse/core": "10.9.0",
     "@vueuse/nuxt": "10.9.0",
-    "eslint": "9.1.1",
     "nuxt": "3.11.2",
     "pinia": "2.1.7"
   }

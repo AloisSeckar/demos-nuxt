@@ -1,8 +1,15 @@
+// Nuxt project configuration like modules or runtime variables goes here
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: [
-    '@nuxt/image'
+    '@nuxt/eslint',
+    '@nuxt/image',
   ],
+  eslint: {
+    config: {
+      stylistic: true,
+    },
+  },
   image: {
     // check https://image.nuxt.com/get-started/configuration for all options
     presets: {
