@@ -103,6 +103,17 @@ updates:
         patterns:
           - "*"
   - package-ecosystem: "npm"
+    directory: "/nuxt-layouts"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
     directory: "/nuxt-middleware"
     schedule:
       interval: "monthly"
