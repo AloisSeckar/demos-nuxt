@@ -1,18 +1,17 @@
 {
   "private": true,
   "name": "nuxt-bootstrap",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
-    "build": "nuxt build",
+    "eslint": "eslint .",
     "dev": "nuxt dev",
-    "start": "nuxt preview",
-    "eslint": "eslint \"**/*.vue\" \"**/*.ts\""
+    "build": "nuxt build",
+    "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config-typescript": "12.1.0",
+    "@nuxt/eslint": "0.3.10",
     "@types/bootstrap": "5.2.10",
     "bootstrap": "5.3.3",
-    "eslint": "9.1.1",
     "nuxt": "3.11.2",
     "sass": "1.76.0"
   }
