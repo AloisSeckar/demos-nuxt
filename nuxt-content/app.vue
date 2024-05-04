@@ -3,7 +3,7 @@
     <h1>nuxt-content</h1>
     <div>
       The following page content is rendered with help of
-      <a href="https://content.nuxtjs.org/" title="Nuxt">Nuxt Content</a> module:
+      <a href="https://content.nuxtjs.org/">Nuxt Content</a> module:
     </div>
     <hr>
     <div>

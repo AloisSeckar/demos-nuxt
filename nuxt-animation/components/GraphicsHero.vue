@@ -11,10 +11,10 @@ const hero = useHeroStore()
 hero.init(width.value, height.value)
 
 type ControlSet = {
-  ArrowDown: Function,
-  ArrowUp: Function,
-  ArrowRight: Function,
-  ArrowLeft: Function,
+  ArrowDown: () => void
+  ArrowUp: () => void
+  ArrowRight: () => void
+  ArrowLeft: () => void
 }
 
 const controls: ControlSet = {
@@ -45,7 +45,7 @@ const controls: ControlSet = {
     }
     hero.direction = 'l'
     hero.offset.y = 64
-  }
+  },
 }
 
 useIntervalFn(() => {

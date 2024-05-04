@@ -13,9 +13,5 @@
 </template>
 
 <script setup lang="ts">
-const {
-  getCount,
-  incCount,
-  reset
-} = useCounter()
+const { getCount, incCount, reset } = useCounter()
 </script>

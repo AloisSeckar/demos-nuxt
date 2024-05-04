@@ -1,12 +1,21 @@
 <template>
   <div>
-    <NuxtLink to="/" title="Back to index">
+    <NuxtLink
+      to="/"
+      title="Back to index"
+    >
       &lt;&lt;
     </NuxtLink>
     &nbsp;
     <pre style="display: inline-block;">useInfiniteScroll</pre> allows user to keep scrolling down and new items will be dynamically loaded
-    <div ref="list" style="border: 1px solid black; height: 180px; overflow: auto;">
-      <div v-for="item in data" :key="item">
+    <div
+      ref="list"
+      style="border: 1px solid black; height: 180px; overflow: auto;"
+    >
+      <div
+        v-for="item in data"
+        :key="item"
+      >
         {{ item }}
       </div>
     </div>
@@ -24,10 +33,10 @@ useInfiniteScroll(
   () => {
     data.value.push(...getMoreData(data.value.length))
   },
-  { distance: 10 }
+  { distance: 10 },
 )
 
-function getMoreData (start: number) {
+function getMoreData(start: number) {
   const values: number[] = []
   for (let i = start + 1; i <= start + 10; i++) {
     values.push(i)

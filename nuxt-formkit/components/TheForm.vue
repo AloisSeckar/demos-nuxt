@@ -1,6 +1,11 @@
 <template>
   <div>
-    <FormKit v-slot="{ value }" type="form" submit-label="Odeslat" @submit="saveForm">
+    <FormKit
+      v-slot="{ value }"
+      type="form"
+      submit-label="Odeslat"
+      @submit="saveForm"
+    >
       Current form data:
       <pre>{{ value }}</pre>
       <br>
@@ -28,7 +33,7 @@
         name="gender"
         type="radio"
         label="Gender:"
-        :options="{m: 'male', f: 'female', x: 'other'}"
+        :options="{ m: 'male', f: 'female', x: 'other' }"
         validation="required"
         help="Pick one"
       />
@@ -54,13 +59,13 @@
 </template>
 
 <script setup lang="ts">
-import Bio from '@/types/Bio'
+import type { Bio } from '@/types/Bio'
 
 // reactive property for the form values
 const bio = ref({} as Bio)
 
 // detect and handle form submission event
-const emit = defineEmits<{(e: 'save', data: Bio): void }>()
+const emit = defineEmits<{ (e: 'save', data: Bio): void }>()
 const saveForm = (input: Bio) => {
   // export as new object to disconnect from reactivity
   // this might or might not be a desired behaviour

@@ -15,10 +15,10 @@ export default defineNuxtConfig({
   routeRules: {
     '/third': {
       appMiddleware: {
-        'only-third': true
+        'only-third': true,
         // can be also "false" to surpress a middleware triggered by another "group" rule
         // it is not applicable for "global" middleware
-      }
-    }
-  }
+      },
+    },
+  },
 })

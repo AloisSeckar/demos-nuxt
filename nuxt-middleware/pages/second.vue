@@ -12,11 +12,11 @@
 
 <script setup lang="ts">
 definePageMeta({
-  middleware: 'only-second'
+  middleware: 'only-second',
 })
 
 const fetchedData = ref('')
-async function fetchAPI () {
+async function fetchAPI() {
   fetchedData.value = await $fetch<string>('/api/data')
 }
 </script>

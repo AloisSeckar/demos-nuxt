@@ -9,7 +9,7 @@
 useHead({
   title: 'Nuxt Demos - Nuxt + Formkit',
   htmlAttrs: {
-    lang: 'en'
-  }
+    lang: 'en',
+  },
 })
 </script>

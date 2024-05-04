@@ -1,3 +1,5 @@
+type PiniaData = string | number | boolean
+
 export const usePiniaDemoStore = defineStore({
   id: 'pinia-demo',
   state: () => {
@@ -5,21 +7,21 @@ export const usePiniaDemoStore = defineStore({
       demoBoolean: false,
       demoNumber: -1,
       demoString: '',
-      demoArray: [] as any[]
+      demoArray: [] as PiniaData[],
     }
   },
   getters: {
     getDouble: (state) => {
       return () => state.demoNumber * 2
-    }
+    },
   },
   actions: {
-    fillWithRandomValues (): void {
+    fillWithRandomValues(): void {
       this.demoBoolean = true
       this.demoNumber = Math.floor(Math.random() * 100)
       this.demoString = this.demoNumber.toString()
       this.demoArray = []
       this.demoArray.push(this.demoBoolean, this.demoNumber, this.demoString)
-    }
-  }
+    },
+  },
 })

@@ -12,7 +12,7 @@
 
 <script setup lang="ts">
 const fetchedData = ref('')
-async function fetchAPI () {
+async function fetchAPI() {
   fetchedData.value = await $fetch<string>('/api/data')
 }
 </script>

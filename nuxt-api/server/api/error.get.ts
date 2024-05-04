@@ -15,6 +15,6 @@ export default defineEventHandler(() => {
   const code = 400 + Math.floor(Math.random() * 10)
   throw createError({
     statusCode: code,
-    message: code.toString()
+    message: code.toString(),
   })
 })

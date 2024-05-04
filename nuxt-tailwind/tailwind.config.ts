@@ -2,13 +2,13 @@
 
 module.exports = {
   content: [
-    './src/**/*.{html,js,vue}'
+    './src/**/*.{html,js,vue}',
   ],
   theme: {
     fontFamily: {
       header: ['"Courier New"'],
       body: ['"Open Sans"'],
-      code: ['"Courier New"']
-    }
-  }
+      code: ['"Courier New"'],
+    },
+  },
 }

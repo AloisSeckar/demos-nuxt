@@ -2,7 +2,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   css: [
-    '~/assets/main.scss'
+    '~/assets/main.scss',
   ],
   modules: [
     '@nuxt/eslint',

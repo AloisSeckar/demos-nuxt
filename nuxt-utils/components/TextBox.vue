@@ -6,6 +6,6 @@
 
 <script setup lang="ts">
 defineProps({
-  textToDisplay: { type: String, required: true }
+  textToDisplay: { type: String, required: true },
 })
 </script>
