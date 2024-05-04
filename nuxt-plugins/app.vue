@@ -8,8 +8,16 @@
     <!-- this has to be client-only because of hydraton mismatch -->
     <h2>v-viewer gallery</h2>
     <ClientOnly>
-      <VueViewer :images="images" class="images clearfix">
-        <img v-for="src in images" :key="src" :src="src" class="image">
+      <VueViewer
+        :images="images"
+        class="images clearfix"
+      >
+        <img
+          v-for="src in images"
+          :key="src"
+          :src="src"
+          class="image"
+        >
       </VueViewer>
     </ClientOnly>
 
@@ -34,7 +42,7 @@ const images = ['01.jpg', '02.jpg', '03.jpg', '04.jpg', '05.jpg']
 const viewerFromApi = () => {
   const viewerApi = useNuxtApp().vueApp.directive('viewerApi')
   viewerApi({
-    images
+    images,
   })
 }
 </script>

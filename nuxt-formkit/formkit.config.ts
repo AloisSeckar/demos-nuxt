@@ -7,7 +7,7 @@ const config: DefaultConfigOptions = {
   locales: { en, de, cs },
   locale: 'en',
   // use default css styling https://formkit.com/essentials/styling
-  theme: 'genesis'
+  theme: 'genesis',
 }
 
 export default config

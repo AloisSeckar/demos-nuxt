@@ -2,7 +2,7 @@
   <div>
     <h1>Nuxt + Supabase</h1>
     <div>
-      Here you can see, how to integrate <a href="https://supabase.com/" title="Supabase">Supabase</a> cloud DB into your application.
+      Here you can see, how to integrate <a href="https://supabase.com/">Supabase</a> cloud DB into your application.
     </div>
     <div>
       This app is connected to test database hosted on Supabase and starts fetching data via provided JavaScript client on startup. Once data are successfully retrieved, they will be displayed.

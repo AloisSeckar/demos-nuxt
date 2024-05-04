@@ -13,10 +13,10 @@
 
 <script setup lang="ts">
 definePageMeta({
-  layout: 'default'
+  layout: 'default',
 })
 
-function toggleLayout () {
+function toggleLayout() {
   // get current layout name via `useRoute` composable
   const layout = useRoute().meta.layout === 'default' ? 'special' : 'default'
   // built-in function for dynamic layout changes

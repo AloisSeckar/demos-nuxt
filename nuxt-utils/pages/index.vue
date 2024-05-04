@@ -12,7 +12,10 @@
         <!-- instead of defining array manually, we use JS generator            -->
         <!-- see `generateSequence` definition in `/utils/utils.ts` for details -->
         <!-- note special `of` keyword instead of typical `in` in the for-cycle -->
-        <li v-for="value of generator" :key="value">
+        <li
+          v-for="value of generator"
+          :key="value"
+        >
           <strong>{{ value }}</strong> is a prime number: <strong>{{ isPrime(value) }}</strong>
         </li>
       </ul>
@@ -24,5 +27,6 @@
 // because `generateSequence` is not a regular function, but a generator (function*),
 // we cannot benefit from auto-import here and we have to explicitly import it
 import { generateSequence } from '@/utils/utils'
+
 const generator = generateSequence()
 </script>

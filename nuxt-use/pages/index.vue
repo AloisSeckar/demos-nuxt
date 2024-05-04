@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div>Various demos of <a href="https://vueuse.org/" title="VueUse">VueUse</a> features in Nuxt</div>
+    <div>Various demos of <a href="https://vueuse.org/">VueUse</a> features in Nuxt</div>
     <ul>
       <li>
         <NuxtLink to="/mouse">

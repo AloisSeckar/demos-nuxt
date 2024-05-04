@@ -1,6 +1,6 @@
-export function useCounter () {
+export function useCounter() {
   const counterData = reactive({
-    count: 0
+    count: 0,
   })
 
   const getCount = computed(() => counterData.count)
@@ -17,6 +17,6 @@ export function useCounter () {
     counterData,
     getCount,
     incCount,
-    reset
+    reset,
   }
 }

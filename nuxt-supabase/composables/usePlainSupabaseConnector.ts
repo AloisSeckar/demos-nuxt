@@ -1,6 +1,6 @@
 import type { NuxtItem } from '@/db/dbTypes'
 
-export async function usePlainSelectListOfItems (): Promise<NuxtItem[] | undefined> {
+export async function usePlainSelectListOfItems(): Promise<NuxtItem[] | undefined> {
   let results
   // client can be easilly type-inferred with <T>
   await useSupabaseClient<NuxtItem>()
@@ -20,7 +20,7 @@ export async function usePlainSelectListOfItems (): Promise<NuxtItem[] | undefin
   return results
 }
 
-export async function usePlainSelectItem (id: number): Promise<NuxtItem | undefined> {
+export async function usePlainSelectItem(id: number): Promise<NuxtItem | undefined> {
   let result
   // client can be easilly type-inferred with <T>
   await useSupabaseClient<NuxtItem>()

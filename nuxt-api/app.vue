@@ -6,7 +6,7 @@
 useHead({
   title: 'Nuxt Demos - Nuxt API',
   htmlAttrs: {
-    lang: 'en'
-  }
+    lang: 'en',
+  },
 })
 </script>

@@ -22,9 +22,9 @@ export default defineNuxtConfig({
         modifiers: {
           format: 'webp',
           width: 150,
-          height: 100
-        }
-      }
-    }
-  }
+          height: 100,
+        },
+      },
+    },
+  },
 })

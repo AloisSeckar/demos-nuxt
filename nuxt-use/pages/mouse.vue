@@ -1,6 +1,9 @@
 <template>
   <div>
-    <NuxtLink to="/" title="Back to index">
+    <NuxtLink
+      to="/"
+      title="Back to index"
+    >
       &lt;&lt;
     </NuxtLink>
     &nbsp;

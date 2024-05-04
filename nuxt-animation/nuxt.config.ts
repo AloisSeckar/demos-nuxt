@@ -3,7 +3,7 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxt/eslint',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
   ],
   eslint: {
     config: {

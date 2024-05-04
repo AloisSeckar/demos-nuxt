@@ -6,6 +6,6 @@
 
 <script setup lang="ts">
 definePageMeta({
-  layout: 'special'
+  layout: 'special',
 })
 </script>

@@ -16,8 +16,6 @@ const handle = async () => {
   const { data } = await useFetch<string>('/api/sample', { method: 'GET' })
   if (data.value) {
     apiResponse.value = data.value
-  } else {
-    apiResponse.value = 'ERROR'
   }
 }
 </script>

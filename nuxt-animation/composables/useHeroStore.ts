@@ -1,6 +1,6 @@
 type Coords = {
-    x: number,
-    y: number
+  x: number
+  y: number
 }
 type Direction = 'u' | 'd' | 'l' | 'r'
 type Phase = 1 | 2 | 3
@@ -18,15 +18,15 @@ export const useHeroStore = defineStore({
       frames: 0,
       phase: 2 as Phase,
       lastKeyDown: 0,
-      lastKeyUp: 0
+      lastKeyUp: 0,
     }
   },
   getters: {
   },
   actions: {
-    init (width: number, height: number) {
+    init(width: number, height: number) {
       this.position.x = Math.round(width / 2 - this.heroWidth / 2)
       this.position.y = Math.round(height / 2 - this.heroHeight / 2)
-    }
-  }
+    },
+  },
 })
