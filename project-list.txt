@@ -4,6 +4,7 @@ nuxt-animation
 ..\nuxt-content
 ..\nuxt-dx
 ..\nuxt-fa
+..\nuxt-fonts
 ..\nuxt-formkit
 ..\nuxt-icones
 ..\nuxt-image
