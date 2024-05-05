@@ -8,7 +8,7 @@ over e.g. Font Awesome integration (shown in `nuxt-fa`).
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-icones`
 3. `pnpm install`
-4. `pnpm run dev` 
+4. `pnpm dev` 
 5. `localhost:3000` 
 
 ### Tutorial article

@@ -5,7 +5,7 @@ This demo shows how to include [Bootstrap](https://getbootstrap.com/) in [Nuxt](
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-bootstrap`
 3. `pnpm install`
-4. `pnpm run dev` 
+4. `pnpm dev` 
 5. `localhost:3000` 
 
 You can use all the Bootstrap css classes and JS features.
