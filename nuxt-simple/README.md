@@ -14,7 +14,7 @@ You can also find this starter as a [standalone GitHub project](https://github.c
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-simple`
 3. `pnpm install`
-4. `pnpm run dev` 
+4. `pnpm dev` 
 5. `localhost:3000` 
 
 Congratulations. You have working Nuxt app project enhanced with ESLint.
