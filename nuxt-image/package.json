@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@nuxt/eslint": "0.3.10",
-    "@nuxt/image": "1.6.0",
+    "@nuxt/image": "1.7.0",
     "nuxt": "3.11.2"
   }
 }
