@@ -70,6 +70,17 @@ updates:
         patterns:
           - "*"
   - package-ecosystem: "npm"
+    directory: "/nuxt-fonts"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
     directory: "/nuxt-formkit"
     schedule:
       interval: "monthly"

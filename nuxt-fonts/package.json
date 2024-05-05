@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "nuxt-fonts",
+  "version": "1.0.0",
+  "scripts": {
+    "eslint": "eslint .",
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-fonts": "3.2.0",
+    "@nuxt/eslint": "0.3.10",
+    "nuxt": "3.11.2"
+  }
+}
