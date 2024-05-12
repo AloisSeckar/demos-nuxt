@@ -1,9 +1,6 @@
 ## Nuxt Image
 This demo shows how to work with images easily with [Nuxt Image module](https://image.nuxt.com/)
 
-### About
-TODO
-
 ### How to use
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-image`
