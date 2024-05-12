@@ -10,9 +10,5 @@ This demo shows how to include [DevExtreme UI library](https://js.devexpress.com
 
 View in browser
 
-### TODO
-
-Currenlty bugged - button cannot be clicked in production mode.
-
 ### Tutorial article
 https://master-coda.cz/article/nuxt-forms#dx
