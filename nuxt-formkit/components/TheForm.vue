@@ -22,6 +22,7 @@
         id="age"
         v-model="bio.age"
         type="number"
+        number="integer"
         name="age"
         label="Age:"
         validation="required"
