@@ -9,7 +9,10 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@formkit/nuxt": "1.6.2",
+    "@formkit/i18n": "1.6.3",
+    "@formkit/icons": "1.6.3",
+    "@formkit/nuxt": "1.6.3",
+    "@formkit/vue": "1.6.3",
     "@nuxt/eslint": "0.3.10",
     "nuxt": "3.11.2"
   }
