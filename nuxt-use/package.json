@@ -9,7 +9,7 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "0.3.10",
+    "@nuxt/eslint": "0.3.13",
     "@vueuse/core": "10.9.0",
     "@vueuse/nuxt": "10.9.0",
     "nuxt": "3.11.2"

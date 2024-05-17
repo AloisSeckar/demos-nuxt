@@ -18,14 +18,17 @@
 const { x, y } = useMouse()
 </script>
 
-  <style scoped>
-  .mouse-follower {
-    position: absolute;
-    width: 50px;
-    height: 50px;
-    background-color: red;
-    top: v-bind('y + "px"');
-    left: v-bind('x + "px"');
-    z-index: -1;
-  }
-  </style>
+<style scoped>
+.mouse-follower {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background-color: red;
+  z-index: -1;
+  /* NOTE: this v-bind won't work in SSR */
+  /* because `useMouse` doesn't return   */
+  /* valid coords when called on server  */
+  top: v-bind('y + "px"');
+  left: v-bind('x + "px"');
+}
+</style>
