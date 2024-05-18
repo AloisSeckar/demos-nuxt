@@ -8,6 +8,11 @@
         </NuxtLink>
       </li>
       <li>
+        <NuxtLink to="/date">
+          useDate
+        </NuxtLink>
+      </li>
+      <li>
         <NuxtLink to="/scroll">
           useInfiniteScroll
         </NuxtLink>
