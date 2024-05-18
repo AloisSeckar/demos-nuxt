@@ -1,12 +1,6 @@
 <template>
   <div>
-    <NuxtLink
-      to="/"
-      title="Back to index"
-    >
-      &lt;&lt;
-    </NuxtLink>
-    &nbsp;
+    <BackLink />
     <pre style="display: inline-block;">useInfiniteScroll</pre> allows user to keep scrolling down and new items will be dynamically loaded
     <div
       ref="list"

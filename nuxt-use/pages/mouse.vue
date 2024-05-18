@@ -1,12 +1,6 @@
 <template>
   <div>
-    <NuxtLink
-      to="/"
-      title="Back to index"
-    >
-      &lt;&lt;
-    </NuxtLink>
-    &nbsp;
+    <BackLink />
     <pre style="display: inline-block;">useMouse</pre> returns reactive coordinates of current mouse position:
     <pre style="display: inline-block;">{{ x }}:{{ y }}</pre>
     <br>Here it is used in conjunction with `v-bind` to CSS `top` and `left` attributes to create an element that always follows the cursor.
