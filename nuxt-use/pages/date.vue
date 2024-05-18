@@ -1,12 +1,6 @@
 <template>
   <div>
-    <NuxtLink
-      to="/"
-      title="Back to index"
-    >
-      &lt;&lt;
-    </NuxtLink>
-    &nbsp;
+    <BackLink />
     <div>
       <pre style="display: inline-block;">useNow</pre> returns reactive Date instance to get current date and time
     </div>
