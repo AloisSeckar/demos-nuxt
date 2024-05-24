@@ -13,6 +13,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-05-12`** | [How to Structure Vue Projects](https://dev.to/alexanderop/how-to-structure-vue-projects-20i4) - discussing a couple of possible approaches to organizing files in Vue |
+| **`2024-05-02`** | [Handling Async Components' loading errors](https://logaretm.com/blog/handling-async-component-loading-errors/) - tutorial worth reading if you work with Vue async components |
 | **`2024-05-02`** | [The Vue Ecosystem in 2024](https://frontendmasters.com/blog/the-vue-ecosystem-in-2024/) - up-to-date summary of what is available in Vue world |
 
 ## 2024 - April
