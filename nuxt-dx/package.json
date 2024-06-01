@@ -9,9 +9,9 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "0.3.10",
-    "devextreme": "23.2.5",
-    "devextreme-vue": "23.2.5",
+    "@nuxt/eslint": "0.3.13",
+    "devextreme": "23.2.6",
+    "devextreme-vue": "23.2.6",
     "nuxt": "3.11.2"
   }
 }
