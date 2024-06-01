@@ -2,17 +2,21 @@
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
 ## Upcomming events
-- [Vueconf US 2024](https://vueconf.us/) - **22nd - 24th May, 2024**, New Orleans [USA]
+- [Frontend Nation 2024](https://frontendnation.com/) - **4th - 7th June, 2024**, Online
 - [JSNation 2024](https://jsnation.com/) - **13th - 17th June, 2024**, Amsterdam [NED] / Online
+- [VueConf CN 2024](https://vueconf.cn/) - **6th July, 2024**, Shenzen [CHN]
 - [PragVue 2024](https://pragvue.com/) - **17th September, 2024**, Prague [CZE]
 - [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn [GER]
+- [Vue Fes Japan 2024](https://vueconf.us/) - **19th October, 2024**, Tokyo [JPN]
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
 ## 2024 - May
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
-| **`2024-05-¨27`** | [Lazy load components in Nuxt to improve performance](https://dev.to/jacobandrewsky/lazy-load-components-in-nuxt-to-improve-performance-4lg6) - a brief intro to "lazy" components concept |
+| **`2024-05-27`** | [Lazy load components in Nuxt to improve performance](https://dev.to/jacobandrewsky/lazy-load-components-in-nuxt-to-improve-performance-4lg6) - a brief intro to "lazy" components concept |
+| **`2024-05-24`** | [Vueconf US 2024](https://vueconf.us/) conference took place in New Orleans, USA |
+| **`2024-05-18`** | [Using Nuxt-auth-utils to implement a magic link login](https://eventuallymaking.io/2024/05/nuxt-auth-magic-link) - useful tutorial if you need to deal with login process in Nuxt |
 | **`2024-05-12`** | [How to Structure Vue Projects](https://dev.to/alexanderop/how-to-structure-vue-projects-20i4) - discussing a couple of possible approaches to organizing files in Vue |
 | **`2024-05-02`** | [Handling Async Components' loading errors](https://logaretm.com/blog/handling-async-component-loading-errors/) - tutorial worth reading if you work with Vue async components |
 | **`2024-05-02`** | [The Vue Ecosystem in 2024](https://frontendmasters.com/blog/the-vue-ecosystem-in-2024/) - up-to-date summary of what is available in Vue world |
