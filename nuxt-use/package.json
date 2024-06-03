@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "@nuxt/eslint": "0.3.13",
-    "@vueuse/core": "10.9.0",
-    "@vueuse/nuxt": "10.9.0",
+    "@vueuse/core": "10.10.0",
+    "@vueuse/nuxt": "10.10.0",
     "nuxt": "3.11.2",
     "nuxt-time": "0.1.3"
   }

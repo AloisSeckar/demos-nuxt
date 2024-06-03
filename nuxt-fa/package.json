@@ -11,8 +11,8 @@
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "6.5.2",
     "@fortawesome/free-solid-svg-icons": "6.5.2",
-    "@fortawesome/vue-fontawesome": "3.0.6",
-    "@nuxt/eslint": "0.3.10",
+    "@fortawesome/vue-fontawesome": "3.0.8",
+    "@nuxt/eslint": "0.3.13",
     "nuxt": "3.11.2"
   }
 }
