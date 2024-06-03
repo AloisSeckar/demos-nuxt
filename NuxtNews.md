@@ -15,6 +15,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-05-27`** | [Lazy load components in Nuxt to improve performance](https://dev.to/jacobandrewsky/lazy-load-components-in-nuxt-to-improve-performance-4lg6) - a brief intro to "lazy" components concept |
+| **`2024-05-25`** | [Want Out of React Complexity? Try Vue’s Progressive Framework](https://thenewstack.io/want-out-of-react-complexity-try-vues-progressive-framework/) - a case against **React** - and for **Vue**! |
 | **`2024-05-24`** | [Vueconf US 2024](https://vueconf.us/) - conference took place in New Orleans, USA |
 | **`2024-05-18`** | [Using Nuxt-auth-utils to implement a magic link login](https://eventuallymaking.io/2024/05/nuxt-auth-magic-link) - useful tutorial if you need to deal with login process in Nuxt |
 | **`2024-05-12`** | [How to Structure Vue Projects](https://dev.to/alexanderop/how-to-structure-vue-projects-20i4) - discussing a couple of possible approaches to organizing files in Vue |
