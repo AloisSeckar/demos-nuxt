@@ -10,6 +10,12 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 - [Vue Fes Japan 2024](https://vueconf.us/) - **19th October, 2024**, Tokyo [JPN]
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
+## 2024 - June
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-06-03`** | [Introducing NuxtHub Beta](https://hub.nuxt.com/blog/beta) - **Nuxt** teamed up with **Cloudflare** to provide even easier way to create and deploy webapps |
+
 ## 2024 - May
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
@@ -18,6 +24,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2024-05-25`** | [Want Out of React Complexity? Try Vue’s Progressive Framework](https://thenewstack.io/want-out-of-react-complexity-try-vues-progressive-framework/) - a case against **React** - and for **Vue**! |
 | **`2024-05-24`** | [Vueconf US 2024](https://vueconf.us/) - conference took place in New Orleans, USA |
 | **`2024-05-18`** | [Using Nuxt-auth-utils to implement a magic link login](https://eventuallymaking.io/2024/05/nuxt-auth-magic-link) - useful tutorial if you need to deal with login process in Nuxt |
+| **`2024-05-16`** | [How to Structure a Large Scale Vue Application](https://vueschool.io/articles/vuejs-tutorials/how-to-structure-a-large-scale-vue-application/) - another look to the problem of maintaining larger Vue projects |
 | **`2024-05-12`** | [How to Structure Vue Projects](https://dev.to/alexanderop/how-to-structure-vue-projects-20i4) - discussing a couple of possible approaches to organizing files in Vue |
 | **`2024-05-02`** | [Handling Async Components' loading errors](https://logaretm.com/blog/handling-async-component-loading-errors/) - tutorial worth reading if you work with Vue async components |
 | **`2024-05-02`** | [The Vue Ecosystem in 2024](https://frontendmasters.com/blog/the-vue-ecosystem-in-2024/) - up-to-date summary of what is available in Vue world |
