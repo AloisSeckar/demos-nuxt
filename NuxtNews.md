@@ -33,7 +33,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
-| **`2024-04-23`** | [Domain Driven Design With Nuxt Layers](https://vueschool.io/articles/vuejs-tutorials/domain-driven-design-with-nuxt-layers/) - how to use **Nuxt** concept called "Layers" to support better organization of your codebase |
+| **`2024-04-29`** | [Domain Driven Design With Nuxt Layers](https://vueschool.io/articles/vuejs-tutorials/domain-driven-design-with-nuxt-layers/) - how to use **Nuxt** concept called "Layers" to support better organization of your codebase |
 | **`2024-04-25`** | [Vue.js Live 2024](https://vuejslive.com/) - online conference took place **25th and 26th April, 2024** |
 | **`2024-04-23`** | [Official Nuxt Certification Arrives!](https://dev.to/anaamarijaa/official-nuxt-certification-arrives-early-bird-pre-orders-are-open-45e7) - it is now possible to get certified for Nuxt via **certificates.dev** |
 | **`2024-04-12`** | [Fixing Nuxt Hydration Mismatches in the Real World](https://ryanclements.dev/posts/fixing-nuxt-hydration-mismatches-in-the-real-world) - how to deal with kind of a typical error you may encounter using Nuxt with SSR |
