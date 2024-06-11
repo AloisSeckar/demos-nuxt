@@ -2,7 +2,6 @@
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
 ## Upcomming events
-- [Frontend Nation 2024](https://frontendnation.com/) - **4th - 7th June, 2024**, Online
 - [JSNation 2024](https://jsnation.com/) - **13th - 17th June, 2024**, Amsterdam [NED] / Online
 - [VueConf CN 2024](https://vueconf.cn/) - **6th July, 2024**, Shenzen [CHN]
 - [PragVue 2024](https://pragvue.com/) - **17th September, 2024**, Prague [CZE]
@@ -14,7 +13,9 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-06-11`** | [Nuxt 3.12.1](https://github.com/nuxt/nuxt/releases/tag/v3.12.1) - quick patch release to address recently discovered issues |
 | **`2024-06-11`** | [Nuxt 3.12](https://github.com/nuxt/nuxt/releases/tag/v3.12.0) - **Nuxt** minor release with a number of new features, most notably allowing the optional forward-compatibility with upcomming **Nuxt 4** |
+| **`2024-06-07`** | [Frontend Nation 2024](https://frontendnation.com/) - big online conference for frontend devs took place between **4th - 7th June, 2024** |
 | **`2024-06-03`** | [Introducing NuxtHub Beta](https://hub.nuxt.com/blog/beta) - **Nuxt** teamed up with **Cloudflare** to provide even easier way to create and deploy webapps |
 
 ## 2024 - May
