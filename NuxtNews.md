@@ -14,6 +14,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-06-11`** | [Nuxt 3.12](https://github.com/nuxt/nuxt/releases/tag/v3.12.0) - **Nuxt** minor release with a number of new features, most notably allowing the optional forward-compatibility with upcomming **Nuxt 4** |
 | **`2024-06-03`** | [Introducing NuxtHub Beta](https://hub.nuxt.com/blog/beta) - **Nuxt** teamed up with **Cloudflare** to provide even easier way to create and deploy webapps |
 
 ## 2024 - May
