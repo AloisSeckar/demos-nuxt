@@ -13,6 +13,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-06-14`** | [Nuxt 2.17.4](https://github.com/nuxt/nuxt/releases/tag/v2.17.4) - small patch release for **v2** legacy branch |
 | **`2024-06-11`** | [Nuxt 3.12.1](https://github.com/nuxt/nuxt/releases/tag/v3.12.1) - quick patch release to address recently discovered issues |
 | **`2024-06-11`** | [Nuxt 3.12](https://github.com/nuxt/nuxt/releases/tag/v3.12.0) - **Nuxt** minor release with a number of new features, most notably allowing the optional forward-compatibility with upcomming **Nuxt 4** |
 | **`2024-06-07`** | [Frontend Nation 2024](https://frontendnation.com/) - big online conference for frontend devs took place between **4th - 7th June, 2024** |
@@ -90,6 +91,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2024-01-16`** | [Nuxt 3.9.2](https://github.com/nuxt/nuxt/releases/tag/v3.9.2) - **Nuxt** patch release |
 | **`2024-01-15`** | [Using shared data when generating pages](https://dev.to/danielroe/using-shared-data-when-generating-pages-45ok) - Daniel Roe about the option of prefetching and using API data via a Nuxt server plugin |
 | **`2024-01-12`** | [Vue 3.4 is here — defineModel and why it matters!](https://javascript.plainenglish.io/vue-3-4-is-here-definemodel-and-why-it-matters-50ead5d3d1c1) - closer look to one of the new features of **Vue 3.4** |
+| **`2024-01-12`** | [Nuxt 2.17.3](https://github.com/nuxt/nuxt/releases/tag/v2.17.3) - small patch release for **v2** legacy branch |
 | **`2024-01-08`** | [Taking Nuxt to the Backend with Supabase](https://dev.to/jacobandrewsky/taking-nuxt-to-the-backend-with-supabase-2obn) - yes, Nuxt can be a backend microservice! |
 | **`2024-01-05`** | [Nuxt 3.9.1](https://github.com/nuxt/nuxt/releases/tag/v3.9.1) - **Nuxt** patch release |
 | **`2024-01-04`** | [Managing Permissions with Permit.io in Nuxt 3](https://guillaumeduhan.hashnode.dev/managing-permissions-with-permitio-in-nuxt-3-nodejs-2024) - practical tutorial about handling permissions in Nuxt using **Permit.io** |
