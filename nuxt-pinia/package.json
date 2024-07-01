@@ -11,7 +11,7 @@
   "devDependencies": {
     "@nuxt/eslint": "0.3.13",
     "@pinia/nuxt": "0.5.1",
-    "nuxt": "3.11.2",
+    "nuxt": "3.12.2",
     "pinia": "2.1.7"
   }
 }
