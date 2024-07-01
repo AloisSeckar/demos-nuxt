@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "@nuxt/eslint": "0.3.13",
-    "devextreme": "23.2.6",
-    "devextreme-vue": "23.2.6",
-    "nuxt": "3.11.2"
+    "devextreme": "24.1.3",
+    "devextreme-vue": "24.1.3",
+    "nuxt": "3.12.2"
   }
 }
