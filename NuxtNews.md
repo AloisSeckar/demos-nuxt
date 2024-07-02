@@ -8,6 +8,12 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 - [Vue Fes Japan 2024](https://vueconf.us/) - **19th October, 2024**, Tokyo [JPN]
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
+## 2024 - July
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-07-02`** | [Nuxt 3.12.3](https://github.com/nuxt/nuxt/releases/tag/v3.12.3) - scheduled patch release with a number of fixes |
+
 ## 2024 - June
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
