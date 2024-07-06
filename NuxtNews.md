@@ -19,6 +19,8 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-06-27`** | [Nuxt 2.18.0](https://github.com/nuxt/nuxt/releases/tag/v2.18.0) - minor release for **v2** legacy branch |
+| **`2024-06-24`** | [Upgrading to Nuxt 4](https://medium.com/vue-mastery/upgrading-to-nuxt-4-98966f148f25) - as **Nuxt 4** is getting close, here is the info for migration from **v3** |
+| **`2024-06-18`** | [Introducing Prisma Nuxt](https://www.prisma.io/blog/introducing-prisma-nuxt) - new module for simple integration of Prisma ORM into Nuxt |
 | **`2024-06-16`** | [Nuxt 3.12.2](https://github.com/nuxt/nuxt/releases/tag/v3.12.2) - scheduled patch release with a number of fixes |
 | **`2024-06-14`** | [Nuxt 2.17.4](https://github.com/nuxt/nuxt/releases/tag/v2.17.4) - small patch release for **v2** legacy branch |
 | **`2024-06-14`** | [Nuxt 2 End-of-Life (EOL)](https://nuxt.com/blog/nuxt2-eol) - reminder that **Nuxt 2** will only be maintainted until **30th June 2024** |
