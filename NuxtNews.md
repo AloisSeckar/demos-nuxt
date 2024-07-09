@@ -2,7 +2,6 @@
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
 ## Upcomming events
-- [VueConf CN 2024](https://vueconf.cn/) - **6th July, 2024**, Shenzen [CHN]
 - [PragVue 2024](https://pragvue.com/) - **17th September, 2024**, Prague [CZE]
 - [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn [GER]
 - [Vue Fes Japan 2024](https://vueconf.us/) - **19th October, 2024**, Tokyo [JPN]
@@ -12,6 +11,8 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-07-08`** | [Optimized Videos in Nuxt with Cloudinary](https://dev.to/jacobandrewsky/optimized-videos-in-nuxt-with-cloudinary-29m1) - **Cloudinary** video player + Nuxt = simple, but nice videos |
+| **`2024-07-0`** | [VueConf CN 2024](https://vueconf.cn/) - conference took place in Shenzen, CHN |
 | **`2024-07-02`** | [Nuxt 3.12.3](https://github.com/nuxt/nuxt/releases/tag/v3.12.3) - scheduled patch release with a number of fixes |
 
 ## 2024 - June
@@ -20,6 +21,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | --- | :--  |
 | **`2024-06-27`** | [Nuxt 2.18.0](https://github.com/nuxt/nuxt/releases/tag/v2.18.0) - minor release for **v2** legacy branch |
 | **`2024-06-24`** | [Upgrading to Nuxt 4](https://medium.com/vue-mastery/upgrading-to-nuxt-4-98966f148f25) - as **Nuxt 4** is getting close, here is the info for migration from **v3** |
+| **`2024-06-27`** | [Nuxt Icon 1.0.0](https://github.com/nuxt/icon/releases/tag/v1.0.0) - Nuxt module for easy working with icons is now released in **1.0.0** version |
 | **`2024-06-18`** | [Introducing Prisma Nuxt](https://www.prisma.io/blog/introducing-prisma-nuxt) - new module for simple integration of Prisma ORM into Nuxt |
 | **`2024-06-16`** | [Nuxt 3.12.2](https://github.com/nuxt/nuxt/releases/tag/v3.12.2) - scheduled patch release with a number of fixes |
 | **`2024-06-14`** | [Nuxt 2.17.4](https://github.com/nuxt/nuxt/releases/tag/v2.17.4) - small patch release for **v2** legacy branch |
