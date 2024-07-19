@@ -11,6 +11,8 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-07-19`** | [Nuxt 3.12.4](https://github.com/nuxt/nuxt/releases/tag/v3.12.4) - scheduled patch release with a number of fixes and refactors |
+| **`2024-07-16`** | [Top 10 must use Nuxt modules](https://dev.to/leamsigc/top-10-must-use-nuxt-modules-dmo) - some inspiration for your projects in case you don't know these yet |
 | **`2024-07-08`** | [Optimized Videos in Nuxt with Cloudinary](https://dev.to/jacobandrewsky/optimized-videos-in-nuxt-with-cloudinary-29m1) - **Cloudinary** video player + Nuxt = simple, but nice videos |
 | **`2024-07-07`** | [VueConf CN 2024](https://vueconf.cn/) - conference took place in Shenzen, CHN |
 | **`2024-07-02`** | [Nuxt 3.12.3](https://github.com/nuxt/nuxt/releases/tag/v3.12.3) - scheduled patch release with a number of fixes |
@@ -36,6 +38,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-05-29`** | [Real-World Nuxt — Shadcn-vue and Nuxt Layers](https://muozalp.com/real-world-nuxt-shadcn-vue-and-nuxt-layers-641b0e994930) - step-by-step tutorial about setting up a **shadcn-vue** in Nuxt Layer project |
 | **`2024-05-27`** | [Lazy load components in Nuxt to improve performance](https://dev.to/jacobandrewsky/lazy-load-components-in-nuxt-to-improve-performance-4lg6) - a brief intro to "lazy" components concept |
 | **`2024-05-25`** | [Want Out of React Complexity? Try Vue’s Progressive Framework](https://thenewstack.io/want-out-of-react-complexity-try-vues-progressive-framework/) - a case against **React** - and for **Vue**! |
 | **`2024-05-24`** | [Vueconf US 2024](https://vueconf.us/) - conference took place in New Orleans, USA |
