@@ -22,7 +22,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-06-27`** | [Nuxt 2.18.0](https://github.com/nuxt/nuxt/releases/tag/v2.18.0) - minor release for **v2** legacy branch |
-| **`2024-06-24`** | [Upgrading to Nuxt 4](https://medium.com/vue-mastery/upgrading-to-nuxt-4-98966f148f25) - as **Nuxt 4** is getting close, here is the info for migration from **v3** |
+| **`2024-06-24`** | [Upgrading to Nuxt 4](https://www.vuemastery.com/blog/upgrading-to-nuxt-4/) - as **Nuxt 4** is getting close, here is the info for migration from **v3** |
 | **`2024-06-27`** | [Nuxt Icon 1.0.0](https://github.com/nuxt/icon/releases/tag/v1.0.0) - Nuxt module for easy working with icons is now released in **1.0.0** version |
 | **`2024-06-18`** | [Announcing Orion: A Community-Driven Collection of Templates for Your Nuxt Project](https://soubiran.dev/posts/announcing-orion-a-community-driven-collection-of-templates-for-your-nuxt-project) - from **NuxtHub** to a new portal for project templates |
 | **`2024-06-18`** | [Introducing Prisma Nuxt](https://www.prisma.io/blog/introducing-prisma-nuxt) - new module for simple integration of Prisma ORM into Nuxt |
