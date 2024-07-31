@@ -11,6 +11,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-07-19`** | [Nuxt & Codemod Announcement](https://codemod.com/blog/nuxt-announcement) - **Codemod** platform will help with migration from Nuxt 3 to upcomming Nuxt 4 |
 | **`2024-07-19`** | [Nuxt 3.12.4](https://github.com/nuxt/nuxt/releases/tag/v3.12.4) - scheduled patch release with a number of fixes and refactors |
 | **`2024-07-16`** | [Top 10 must use Nuxt modules](https://dev.to/leamsigc/top-10-must-use-nuxt-modules-dmo) - some inspiration for your projects in case you don't know these yet |
 | **`2024-07-08`** | [Optimized Videos in Nuxt with Cloudinary](https://dev.to/jacobandrewsky/optimized-videos-in-nuxt-with-cloudinary-29m1) - **Cloudinary** video player + Nuxt = simple, but nice videos |
