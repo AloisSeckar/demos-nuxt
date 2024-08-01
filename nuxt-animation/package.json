@@ -9,11 +9,11 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "0.3.13",
-    "@pinia/nuxt": "0.5.1",
+    "@nuxt/eslint": "0.4.0",
+    "@pinia/nuxt": "0.5.2",
     "@vueuse/core": "10.11.0",
     "@vueuse/nuxt": "10.11.0",
-    "nuxt": "3.12.3",
-    "pinia": "2.1.7"
+    "nuxt": "3.12.4",
+    "pinia": "2.2.0"
   }
 }
