@@ -3,6 +3,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 ## Upcomming events
 - [PragVue 2024](https://pragvue.com/) - **17th September, 2024**, Prague [CZE]
+- [ViteConf 2024](https://viteconf.org/) - **3rd - 4th October, 2024**, Online
 - [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn [GER]
 - [Vue Fes Japan 2024](https://vueconf.us/) - **19th October, 2024**, Tokyo [JPN]
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
