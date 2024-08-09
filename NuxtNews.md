@@ -8,10 +8,17 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 - [Vue Fes Japan 2024](https://vueconf.us/) - **19th October, 2024**, Tokyo [JPN]
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **TBA, 2024**, Online
 
+- ## 2024 - August
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-08-06`** | [Seamless Contact Form experience with Netlify Form in Nuxt 3](https://mayashavin.com/articles/contact-form-netlify-form-nuxt-3-static) - leverage **Netlify** features to create forms in Nuxt with ease |
+
 ## 2024 - July
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-07-23`** | [Migration to Nuxt: where are we Today?](https://blog.malt.engineering/migration-to-nuxt-where-are-we-today-9f98c2ad9b58) - practical experiences from migrating a big project |
 | **`2024-07-19`** | [Nuxt & Codemod Announcement](https://codemod.com/blog/nuxt-announcement) - **Codemod** platform will help with migration from Nuxt 3 to upcomming Nuxt 4 |
 | **`2024-07-19`** | [Nuxt 3.12.4](https://github.com/nuxt/nuxt/releases/tag/v3.12.4) - scheduled patch release with a number of fixes and refactors |
 | **`2024-07-16`** | [Top 10 must use Nuxt modules](https://dev.to/leamsigc/top-10-must-use-nuxt-modules-dmo) - some inspiration for your projects in case you don't know these yet |
