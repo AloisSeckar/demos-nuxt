@@ -13,6 +13,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-08-22`** | [Nuxt 3.13](https://github.com/nuxt/nuxt/releases/tag/v3.13.0) - another **Nuxt** 3.x minor version with yet another bunch of updates, including features ported from upcomming **Nuxt 4** |
+| **`2024-08-20`** | [Introducing Nuxt Scripts](https://nuxt.com/blog/nuxt-scripts) - working with exteral scripts will be easier in Nuxt with this new module (currently in public beta) |
 | **`2024-08-19`** | [Nuxt Tips Collection](https://dev.to/jacobandrewsky/nuxt-tips-collection-2j2d) - affiliated introduction of (paid) collection of useful Nuxt features, techniques and tricks put together by **Michael Thiessen** |
 | **`2024-08-15`** | [Introducing: KickStart — a form builder for developers](https://dev.to/justinschroeder/introducing-kickstart-a-form-builder-for-developers-7k9) - new SaaS to ease-up building forms in apps based on **FormKit** |
 | **`2024-08-12`** | [AI Powered Image Transformations in Nuxt with Cloudinary](https://dev.to/jacobandrewsky/ai-powered-image-transformations-in-nuxt-with-cloudinary-4ghc) - it is not possible to use API for modifying images hosted on **Cloudinary** with module for **Nuxt** |
