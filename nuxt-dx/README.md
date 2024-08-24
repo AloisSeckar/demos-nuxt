@@ -11,4 +11,7 @@ This demo shows how to include [DevExtreme UI library](https://js.devexpress.com
 View in browser
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-forms#dx
+https://master-coda.cz/article/nuxt-gui#devextreme
+
+### Current limits/gotchas
+- only work correctly with `ssr: false` setting

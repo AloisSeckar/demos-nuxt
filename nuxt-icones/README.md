@@ -12,4 +12,4 @@ over e.g. Font Awesome integration (shown in `nuxt-fa`).
 5. `localhost:3000` 
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-ui#icones
+https://master-coda.cz/article/nuxt-gui#ic%C3%B4nes
