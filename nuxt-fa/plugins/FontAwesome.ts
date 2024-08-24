@@ -6,6 +6,6 @@ library.add(faEnvelope)
 library.add(faFaceSmile)
 library.add(faHouse)
 
-export default defineNuxtPlugin(() => {
-  useNuxtApp().vueApp.component('fa', FontAwesomeIcon)
+export default defineNuxtPlugin((nuxtApp) => {
+  nuxtApp.vueApp.component('fa', FontAwesomeIcon)
 })
