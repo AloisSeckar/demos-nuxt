@@ -9,6 +9,6 @@
 
 import { DxButton } from 'devextreme-vue/button'
 
-export default defineNuxtPlugin(() => {
-  useNuxtApp().vueApp.component('DxButton', DxButton)
+export default defineNuxtPlugin((nuxtApp) => {
+  nuxtApp.vueApp.component('DxButton', DxButton)
 })
