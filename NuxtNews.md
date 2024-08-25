@@ -16,7 +16,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2024-08-20`** | [Introducing Nuxt Scripts](https://nuxt.com/blog/nuxt-scripts) - working with exteral scripts will be easier in Nuxt with this new module (currently in public beta) |
 | **`2024-08-19`** | [Nuxt Tips Collection](https://dev.to/jacobandrewsky/nuxt-tips-collection-2j2d) - affiliated introduction of (paid) collection of useful Nuxt features, techniques and tricks put together by **Michael Thiessen** |
 | **`2024-08-15`** | [Introducing: KickStart — a form builder for developers](https://dev.to/justinschroeder/introducing-kickstart-a-form-builder-for-developers-7k9) - new SaaS to ease-up building forms in apps based on **FormKit** |
-| **`2024-08-12`** | [AI Powered Image Transformations in Nuxt with Cloudinary](https://dev.to/jacobandrewsky/ai-powered-image-transformations-in-nuxt-with-cloudinary-4ghc) - it is not possible to use API for modifying images hosted on **Cloudinary** with module for **Nuxt** |
+| **`2024-08-12`** | [AI Powered Image Transformations in Nuxt with Cloudinary](https://dev.to/jacobandrewsky/ai-powered-image-transformations-in-nuxt-with-cloudinary-4ghc) - it is now possible to use API for modifying images hosted on **Cloudinary** with module for **Nuxt** |
 | **`2024-08-06`** | [Seamless Contact Form experience with Netlify Form in Nuxt 3](https://mayashavin.com/articles/contact-form-netlify-form-nuxt-3-static) - leverage **Netlify** features to create forms in Nuxt with ease |
 | **`2024-08-01`** | [How To Build A Multilingual Website With Nuxt.js](https://www.smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/) - tutorial for using **nuxt-i18n** module to support different language variants |
 
