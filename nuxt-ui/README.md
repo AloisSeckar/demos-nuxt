@@ -9,4 +9,4 @@ This demo shows using [Nuxt UI](https://ui.nuxt.com/) module in [Nuxt](https://n
 5. `localhost:3000` 
 
 ### Tutorial article
-NOT YET
+https://master-coda.cz/article/nuxt-ui
