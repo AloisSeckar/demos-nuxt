@@ -2,7 +2,7 @@
 FOR /F %%G IN (.\project-list.txt) DO (
   @echo off
   if not "%%G"=="..\nuxt-minimal" (
-    echo tech-update %%G
+    echo eslint check %%G
     cd %%G
     pnpm eslint
   )
