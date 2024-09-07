@@ -1,6 +1,6 @@
 {
-    // Enable ESlint flat config support
-    "eslint.experimental.useFlatConfig": true,
+    // ESlint flat config support
+    "eslint.useFlatConfig": true,
     "eslint.workingDirectories": [{ "mode": "auto" }],
     // enable auto-linting
     "editor.codeActionsOnSave": {
