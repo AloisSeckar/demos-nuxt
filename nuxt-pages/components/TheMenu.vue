@@ -12,6 +12,10 @@
     <NuxtLink to="/second">
       Second
     </NuxtLink>
+    &#x2022;
+    <NuxtLink to="/third">
+      Third
+    </NuxtLink>
     <hr>
   </div>
 </template>
