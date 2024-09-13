@@ -13,11 +13,13 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-09-04`** | [Nuxt 3.13.1](https://github.com/nuxt/nuxt/releases/tag/v3.13.1) - Nuxt patch release with handful of updates/fixes, among others update to **Vue 3.5** |
+| **`2024-09-01`** | [Announcing Vue 3.5](https://blog.vuejs.org/posts/vue-3-5) - New version of **Vue 3.5** bringing in a number of new features |
 
 - ## 2024 - August
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-08-27`** | [Easy RPC with Nuxt: Making a Todo App](https://blog.doseofted.me/easy-rpc-with-nuxt-making-a-todo-app) - an interesting integration between Nuxt and Prim+RPC tool for remote procedure calls in JavaScript |
 | **`2024-08-22`** | [Nuxt 3.13](https://github.com/nuxt/nuxt/releases/tag/v3.13.0) - another **Nuxt** 3.x minor version with yet another bunch of updates, including features ported from upcomming **Nuxt 4** |
 | **`2024-08-20`** | [Introducing Nuxt Scripts](https://nuxt.com/blog/nuxt-scripts) - working with exteral scripts will be easier in Nuxt with this new module (currently in public beta) |
 | **`2024-08-19`** | [Nuxt Tips Collection](https://dev.to/jacobandrewsky/nuxt-tips-collection-2j2d) - affiliated introduction of (paid) collection of useful Nuxt features, techniques and tricks put together by **Michael Thiessen** |
