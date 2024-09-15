@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>nuxt-plugin</h1>
-    <div>How to use plugins in Nuxt 3</div>
+    <div>How to use plugins in Nuxt</div>
     <div><a href="https://github.com/mirari/v-viewer/tree/v3">v-viewer</a> is added through a plugin here</div>
 
     <!-- v-viewer component incorporated into page -->

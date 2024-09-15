@@ -6,7 +6,7 @@
     </div>
     <div>
       See <a href="https://github.com/AloisSeckar/demos-nuxt">project home</a>
-      for more details and my Nuxt 3 tutorial and examples.
+      for more details and my Nuxt tutorial and examples.
     </div>
     <div>
       Start editing <strong>app.vue</strong> file to get started with your Nuxt application
