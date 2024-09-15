@@ -25,7 +25,7 @@
         number="integer"
         name="age"
         label="Age:"
-        validation="required"
+        validation="required|min:18|max:99"
         help="Select number"
       />
       <FormKit
