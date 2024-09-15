@@ -16,7 +16,7 @@
           Bootstrap integration
         </h5>
         <p class="card-text">
-          Bootstrap 5 available in Nuxt 3 easilly via SASS style and a plugin.
+          Bootstrap 5 available in Nuxt easilly via SASS style and a plugin.
         </p>
         <a
           href="https://github.com/AloisSeckar/demos-nuxt"
