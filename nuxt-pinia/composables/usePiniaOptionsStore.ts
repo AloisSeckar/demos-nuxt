@@ -1,7 +1,9 @@
 type PiniaData = string | number | boolean
 
-export const usePiniaDemoStore = defineStore({
-  id: 'pinia-demo',
+export const usePiniaOptionsStore = defineStore({
+  // internal ID of the store
+  id: 'pinia-options-store',
+  // default values
   state: () => {
     return {
       demoBoolean: false,
@@ -10,11 +12,15 @@ export const usePiniaDemoStore = defineStore({
       demoArray: [] as PiniaData[],
     }
   },
+  // composed getters for more complex calculations WITHOUT SIDE EFFECTS
+  // note: variables from state can - and should - be accessed directly on instance
   getters: {
     getDouble: (state) => {
-      return () => state.demoNumber * 2
+      const num = state.demoNumber
+      return () => `${num} * 2 = ${num * 2}`
     },
   },
+  // methods with side effects (mutating state)
   actions: {
     fillWithRandomValues(): void {
       this.demoBoolean = true
