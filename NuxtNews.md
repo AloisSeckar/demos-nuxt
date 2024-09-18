@@ -2,7 +2,6 @@
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
 ## Upcomming events
-- [PragVue 2024](https://pragvue.com/) - **17th September, 2024**, Prague [CZE]
 - [ViteConf 2024](https://viteconf.org/) - **3rd - 4th October, 2024**, Online
 - [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn [GER]
 - [Vue Fes Japan 2024](https://vueconf.us/) - **19th October, 2024**, Tokyo [JPN]
@@ -12,6 +11,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-09-17`** | [PragVue 2024](https://pragvue.com/) took place in Prague [CZE] |
 | **`2024-09-15`** | [Nuxt 3.13.2](https://github.com/nuxt/nuxt/releases/tag/v3.13.2) - Nuxt patch release with a couple of fixes |
 | **`2024-09-04`** | [Nuxt 3.13.1](https://github.com/nuxt/nuxt/releases/tag/v3.13.1) - Nuxt patch release with handful of updates/fixes, among others update to **Vue 3.5** |
 | **`2024-09-01`** | [Announcing Vue 3.5](https://blog.vuejs.org/posts/vue-3-5) - New version of **Vue 3.5** bringing in a number of new features |
