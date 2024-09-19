@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "nuxt-simple",
+  "version": "1.1.0",
+  "scripts": {
+    "eslint": "eslint .",
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt preview"
+  },
+  "devDependencies": {
+    "@neondatabase/serverless": "0.9.5",
+    "@nuxt/eslint": "0.5.6",
+    "nuxt": "3.13.1",
+    "typescript": "5.5.4"
+  }
+}

@@ -46,6 +46,7 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 #### Database
 - [**nuxt-pinia**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pinia) - integration with [Pinia](https://pinia.vuejs.org/)
 - [**nuxt-supabase**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-supabase) - integration with [Supabase](https://supabase.com/)
+- [**nuxt-neon**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-neon) - integration with [Neon](https://neon.tech/)
 
 #### Other
 - [**nuxt-use**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-use) - various demos of [VueUse](https://vueuse.org/) features in Nuxt

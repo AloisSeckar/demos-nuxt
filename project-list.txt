@@ -11,6 +11,7 @@ nuxt-animation
 ..\nuxt-layouts
 ..\nuxt-middleware
 ..\nuxt-minimal
+..\nuxt-neon
 ..\nuxt-pages
 ..\nuxt-pinia
 ..\nuxt-plugins
