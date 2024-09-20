@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nuxt-use",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
