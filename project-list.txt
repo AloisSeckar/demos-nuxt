@@ -12,6 +12,7 @@ nuxt-animation
 ..\nuxt-middleware
 ..\nuxt-minimal
 ..\nuxt-neon
+..\nuxt-openprops
 ..\nuxt-pages
 ..\nuxt-pinia
 ..\nuxt-plugins

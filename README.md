@@ -26,6 +26,7 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 #### UI integrations
 - [**nuxt-tailwind**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-tailwind) - integration with [Tailwind CSS](https://tailwindcss.com/)
 - [**nuxt-bootstrap**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-bootstrap) - integration with [Bootstrap](https://getbootstrap.com/) (alternative to Tailwind)
+- [**nuxt-openprops**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-openprops) - integration with [Open Props](https://open-props.style/) (alternative to Tailwind)
 - [**nuxt-icones**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Icônes](https://icones.js.org/)
 - [**nuxt-fa**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Font Awesome](https://fontawesome.com/) (alternative to Icônes)
 
