@@ -13,6 +13,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | --- | :--  |
 | **`2024-09-17`** | [PragVue 2024](https://pragvue.com/) - Vue/Nuxt conference took place in Prague [CZE] |
 | **`2024-09-15`** | [Nuxt 3.13.2](https://github.com/nuxt/nuxt/releases/tag/v3.13.2) - Nuxt patch release with a couple of fixes |
+| **`2024-09-04`** | [Behind the scenes of Nuxt Studio's visual editor](https://nuxt.studio/blog/visual-editor) - an article to help understanding **Nuxt studio** editor better |
 | **`2024-09-04`** | [Nuxt 3.13.1](https://github.com/nuxt/nuxt/releases/tag/v3.13.1) - Nuxt patch release with handful of updates/fixes, among others update to **Vue 3.5** |
 | **`2024-09-01`** | [Announcing Vue 3.5](https://blog.vuejs.org/posts/vue-3-5) - New version of **Vue 3.5** bringing in a number of new features |
 
@@ -55,6 +56,7 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 | **`2024-06-16`** | [Nuxt 3.12.2](https://github.com/nuxt/nuxt/releases/tag/v3.12.2) - scheduled patch release with a number of fixes |
 | **`2024-06-14`** | [Nuxt 2.17.4](https://github.com/nuxt/nuxt/releases/tag/v2.17.4) - small patch release for **v2** legacy branch |
 | **`2024-06-14`** | [Nuxt 2 End-of-Life (EOL)](https://nuxt.com/blog/nuxt2-eol) - reminder that **Nuxt 2** will only be maintainted until **30th June 2024** |
+| **`2024-06-13`** | [Introducing Nuxt Studio v2](https://nuxt.studio/blog/v2) - this tool will help you maintaing websites with **Nuxt Content** |
 | **`2024-06-11`** | [Nuxt 3.12.1](https://github.com/nuxt/nuxt/releases/tag/v3.12.1) - quick patch release to address recently discovered issues |
 | **`2024-06-11`** | [Nuxt 3.12](https://nuxt.com/blog/v3-12) - **Nuxt** minor release with a number of new features, most notably allowing the optional forward-compatibility with upcomming **Nuxt 4** |
 | **`2024-06-07`** | [Frontend Nation 2024](https://frontendnation.com/) - big online conference for frontend devs took place between **4th - 7th June, 2024** |
