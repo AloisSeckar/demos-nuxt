@@ -9,9 +9,9 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "0.5.6",
-    "nuxt": "3.13.1",
-    "typescript": "5.5.4",
-    "v-viewer": "3.0.13"
+    "@nuxt/eslint": "0.5.7",
+    "nuxt": "3.13.2",
+    "typescript": "5.6.2",
+    "v-viewer": "3.0.20"
   }
 }
