@@ -1,6 +1,13 @@
 # VUE & NUXT NEWS
 What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community recently up to?
 
+## Sources
+Stay up-to-date with the following even more dedicated websites:
+- https://nuxt.com/blog
+- https://weekly-vue.news/
+- https://michaelnthiessen.com/
+- https://dejavue.fm/
+
 ## Upcomming events
 - [ViteConf 2024](https://viteconf.org/) - **3rd - 4th October, 2024**, Online
 - [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn [GER]
