@@ -9,9 +9,9 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@neondatabase/serverless": "0.9.5",
-    "@nuxt/eslint": "0.5.6",
-    "nuxt": "3.13.1",
-    "typescript": "5.5.4"
+    "@neondatabase/serverless": "0.10.1",
+    "@nuxt/eslint": "0.6.0",
+    "nuxt": "3.13.2",
+    "typescript": "5.6.3"
   }
 }
