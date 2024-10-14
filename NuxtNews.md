@@ -9,12 +9,19 @@ Stay up-to-date with the following even more dedicated websites:
 - https://dejavue.fm/
 
 ## Upcomming events
-- [ViteConf 2024](https://viteconf.org/) - **3rd - 4th October, 2024**, Online
-- [vuejs.de Conf 2024](https://vueconf.us/) - **8th - 9th October, 2024**, Bonn [GER]
-- [Vue Fes Japan 2024](https://vueconf.us/) - **19th October, 2024**, Tokyo [JPN]
-- [Nuxt Nation 2024](https://nuxtnation.com/) - **12th - 13th November, 2024**, Online
+- [Vue Fes Japan 2024](https://vueconf.us/) - **19th October 2024**, Tokyo [JPN]
+- [Nuxt Nation 2024](https://nuxtnation.com/) - **12th - 13th November 2024**, Online
+- [VueConf Toronto](https://www.vuetoronto.com/) - **18 - 20 November 2024**, Toronto, [CAN]
+- [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
 
-- ## 2024 - September
+## 2024 - October
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-10-09`** | [vuejs.de Conf 2024](https://conf.vuejs.de/) - **Vue** conference took place in Bonn [GER] |
+| **`2024-10-04`** | [ViteConf 2024](https://viteconf.org/) - big **Vite**-centered conference took place online |
+
+## 2024 - September
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
@@ -24,7 +31,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2024-09-04`** | [Nuxt 3.13.1](https://github.com/nuxt/nuxt/releases/tag/v3.13.1) - Nuxt patch release with handful of updates/fixes, among others update to **Vue 3.5** |
 | **`2024-09-01`** | [Announcing Vue 3.5](https://blog.vuejs.org/posts/vue-3-5) - New version of **Vue 3.5** bringing in a number of new features |
 
-- ## 2024 - August
+## 2024 - August
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
