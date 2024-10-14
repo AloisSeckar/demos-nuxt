@@ -147,6 +147,28 @@ updates:
         patterns:
           - "*"
   - package-ecosystem: "npm"
+    directory: "/nuxt-neon"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-openprops"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
     directory: "/nuxt-pages"
     schedule:
       interval: "monthly"
