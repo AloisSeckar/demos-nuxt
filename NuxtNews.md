@@ -19,6 +19,7 @@ Stay up-to-date with the following even more dedicated websites:
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-10-09`** | [vuejs.de Conf 2024](https://conf.vuejs.de/) - **Vue** conference took place in Bonn [GER] |
+| **`2024-10-08`** | [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) - suggestion about how to design and organize components in your apps |
 | **`2024-10-04`** | [ViteConf 2024](https://viteconf.org/) - big **Vite**-centered conference took place online |
 
 ## 2024 - September
@@ -81,6 +82,7 @@ Stay up-to-date with the following even more dedicated websites:
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-05-29`** | [Real-World Nuxt — Shadcn-vue and Nuxt Layers](https://muozalp.com/real-world-nuxt-shadcn-vue-and-nuxt-layers-641b0e994930) - step-by-step tutorial about setting up a **shadcn-vue** in Nuxt Layer project |
+| **`2024-05-28`** | [How we tackled our major front-end migration to Nuxt 3](https://blog.funda.nl/migrating-our-frontend-to-nuxt-3/) - practical experience with Nuxt 3 |
 | **`2024-05-27`** | [Lazy load components in Nuxt to improve performance](https://dev.to/jacobandrewsky/lazy-load-components-in-nuxt-to-improve-performance-4lg6) - a brief intro to "lazy" components concept |
 | **`2024-05-25`** | [Want Out of React Complexity? Try Vue’s Progressive Framework](https://thenewstack.io/want-out-of-react-complexity-try-vues-progressive-framework/) - a case against **React** - and for **Vue**! |
 | **`2024-05-24`** | [Vueconf US 2024](https://vueconf.us/) - conference took place in New Orleans, USA |
