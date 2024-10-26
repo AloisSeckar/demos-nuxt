@@ -9,7 +9,6 @@ Stay up-to-date with the following even more dedicated websites:
 - https://dejavue.fm/
 
 ## Upcomming events
-- [Vue Fes Japan 2024](https://vueconf.us/) - **19th October 2024**, Tokyo [JPN]
 - [Nuxt Nation 2024](https://nuxtnation.com/) - **12th - 13th November 2024**, Online
 - [VueConf Toronto](https://www.vuetoronto.com/) - **18 - 20 November 2024**, Toronto, [CAN]
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
@@ -18,6 +17,8 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-10-21`** | [Performant Images with Nuxt Image and Cloudinary](https://dev.to/jacobandrewsky/performant-images-with-nuxt-image-and-cloudinary-5e2) - using **Cloudinary** image provider to speed up your applications |
+| **`2024-10-19`** | [Vue Fes Japan 2024](https://vueconf.us/) - **Vue** conference took place in Tokyo [JPN] |
 | **`2024-10-09`** | [vuejs.de Conf 2024](https://conf.vuejs.de/) - **Vue** conference took place in Bonn [GER] |
 | **`2024-10-08`** | [Atomic Architecture: Revolutionizing Vue and Nuxt Project Structure](https://alexop.dev/posts/atomic-design-vue-or-nuxt/) - suggestion about how to design and organize components in your apps |
 | **`2024-10-04`** | [ViteConf 2024](https://viteconf.org/) - big **Vite**-centered conference took place online |
