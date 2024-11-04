@@ -18,6 +18,7 @@ Stay up-to-date with the following even more dedicated websites:
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-11-04`** | [Using Cache Control in Nuxt to improve Performance](https://dev.to/jacobandrewsky/using-cache-control-in-nuxt-to-improve-performance-565o) - caching headers and possible strategies for Nuxt explained |
+| **`2024-11-04`** | [Nuxt 3.14](https://github.com/nuxt/nuxt/releases/tag/v3.14.0) - another **Nuxt** 3.x minor version with couple of new features |
 
 ## 2024 - October
 
