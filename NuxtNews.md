@@ -13,6 +13,12 @@ Stay up-to-date with the following even more dedicated websites:
 - [VueConf Toronto](https://www.vuetoronto.com/) - **18 - 20 November 2024**, Toronto, [CAN]
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
 
+## 2024 - November
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-11-04`** | [Using Cache Control in Nuxt to improve Performance](https://dev.to/jacobandrewsky/using-cache-control-in-nuxt-to-improve-performance-565o) - caching headers and possible strategies for Nuxt explained |
+
 ## 2024 - October
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
