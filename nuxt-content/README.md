@@ -1,5 +1,5 @@
 ## Nuxt Content
-This demo shows how [Nuxt Content](https://content.nuxtjs.org/) module can help creating content pages in [Nuxt](https://nuxt.com/)
+This demo shows how [Nuxt Content](https://content.nuxt.com/) module can help creating content pages in [Nuxt](https://nuxt.com/)
 
 ### How to use
 1. `git checkout demos-nuxt project`
