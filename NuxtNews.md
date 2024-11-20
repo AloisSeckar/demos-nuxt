@@ -5,13 +5,22 @@ What is the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community
 Stay up-to-date with the following even more dedicated websites:
 - https://nuxt.com/blog
 - https://weekly-vue.news/
+- https://masteringnuxt.com/blog/
 - https://michaelnthiessen.com/
 - https://dejavue.fm/
 
 ## Upcomming events
-- [Nuxt Nation 2024](https://nuxtnation.com/) - **12th - 13th November 2024**, Online
 - [VueConf Toronto](https://www.vuetoronto.com/) - **18 - 20 November 2024**, Toronto, [CAN]
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
+- [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
+
+## 2024 - November
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2024-11-13`** | [Nuxt Nation 2024](https://nuxtnation.com/) - biggest **Nuxt** conference took place online on 12th and 13th November |
+| **`2024-11-04`** | [Using Cache Control in Nuxt to improve Performance](https://dev.to/jacobandrewsky/using-cache-control-in-nuxt-to-improve-performance-565o) - caching headers and possible strategies for Nuxt explained |
+| **`2024-11-04`** | [Nuxt 3.14](https://github.com/nuxt/nuxt/releases/tag/v3.14.0) - another **Nuxt** 3.x minor version with couple of new features |
 
 ## 2024 - October
 
