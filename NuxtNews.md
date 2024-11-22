@@ -11,6 +11,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 ## Upcomming events
 - [VueConf Toronto](https://www.vuetoronto.com/) - **18 - 20 November 2024**, Toronto, [CAN]
+- [Vuejs Nation 2025](https://vuejsnation.com/) - **29 - 30 January 2025**, Online
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 
@@ -18,7 +19,11 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-11-19`** | [Nuxt 3.14.1592](https://github.com/nuxt/nuxt/releases/tag/v3.14.1592) - latest **Nuxt** 3.x patch version with bugfixes |
+| **`2024-11-18`** | [What’s New in Nuxt 4](https://vueschool.io/articles/news/whats-new-in-nuxt-4/) - Nuxt 4 is comming, what to expect? |
+| **`2024-11-14`** | [Developing a Full Stack Nuxt App with Bolt.new](https://vueschool.io/articles/vuejs-tutorials/developing-a-full-stack-nuxt-app-with-bolt-new-an-ai-experiment/) - can AI scaffold an app? |
 | **`2024-11-13`** | [Nuxt Nation 2024](https://nuxtnation.com/) - biggest **Nuxt** conference took place online on 12th and 13th November |
+| **`2024-11-06`** | [Nuxt 3.14.159](https://github.com/nuxt/nuxt/releases/tag/v3.14.159) - **Nuxt** 3.x patch version with bugfixes |
 | **`2024-11-04`** | [Using Cache Control in Nuxt to improve Performance](https://dev.to/jacobandrewsky/using-cache-control-in-nuxt-to-improve-performance-565o) - caching headers and possible strategies for Nuxt explained |
 | **`2024-11-04`** | [Nuxt 3.14](https://github.com/nuxt/nuxt/releases/tag/v3.14.0) - another **Nuxt** 3.x minor version with couple of new features |
 
@@ -84,6 +89,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2024-06-13`** | [Introducing Nuxt Studio v2](https://nuxt.studio/blog/v2) - this tool will help you maintaing websites with **Nuxt Content** |
 | **`2024-06-11`** | [Nuxt 3.12.1](https://github.com/nuxt/nuxt/releases/tag/v3.12.1) - quick patch release to address recently discovered issues |
 | **`2024-06-11`** | [Nuxt 3.12](https://nuxt.com/blog/v3-12) - **Nuxt** minor release with a number of new features, most notably allowing the optional forward-compatibility with upcomming **Nuxt 4** |
+| **`2024-06-09`** | [Nuxt Going Full-Stack: How to Handle Authorization?](https://soubiran.dev/posts/nuxt-going-full-stack-how-to-handle-authorization) - how to work with authorization using Nuxt |
 | **`2024-06-07`** | [Frontend Nation 2024](https://frontendnation.com/) - big online conference for frontend devs took place between **4th - 7th June, 2024** |
 | **`2024-06-03`** | [Introducing NuxtHub Beta](https://hub.nuxt.com/blog/beta) - **Nuxt** teamed up with **Cloudflare** to provide even easier way to create and deploy webapps |
 
