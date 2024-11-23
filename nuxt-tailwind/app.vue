@@ -15,7 +15,7 @@
         div element customized with Tailwind @apply
       </div>
     </div>
-    <div class="footer">
+    <div class="hover:text-amber-200 hover:font-bold">
       <NuxtLink to="https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind">
         https://github.com/AloisSeckar/demos-nuxt/tree/master/nuxt-tailwind
       </NuxtLink>
@@ -29,5 +29,10 @@ useHead({
   htmlAttrs: {
     lang: 'en',
   },
+  // NOTE: this has priority before /assets/css/tailwind.css @apply directives
+  // and it is better and clearer way of applying CSS styles on body-wide level
+  bodyAttrs: {
+    class: 'bg-slate-800'
+  }
 })
 </script>

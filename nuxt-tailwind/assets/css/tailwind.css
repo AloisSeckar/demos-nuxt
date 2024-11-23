@@ -1,22 +1,40 @@
+/* 
+    Use @apply if you don't want to define style for each element separately
+    https://tailwindcss.com/docs/reusing-styles#extracting-classes-with-apply
+    https://tailwindcss.com/docs/functions-and-directives#apply
+
+    Use correct @layer to keep your Tailwind CSS organized
+    https://bloggie.io/@kinopyo/organize-your-css-in-the-tailwind-style-with-layer-directive
+
+    And most importantly: THINK TWICE before using this approach!
+*/
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* 
-    use @apply if you don't want to define style for each element separately
-    https://tailwindcss.com/docs/reusing-styles#extracting-classes-with-apply
-    https://tailwindcss.com/docs/functions-and-directives#apply
-
-    use correct @layer to keep your Tailwind CSS organized
-    https://bloggie.io/@kinopyo/organize-your-css-in-the-tailwind-style-with-layer-directive
-*/
-
 @layer base {
+    
+    /* Tailwind CSS classes might be auto-applied to all respective elements like this. */
+    /* However, I recommend NOT to use it like that, because this obsfucates code logic */
+    /* and makes maintaing harder (even you should soon forgot styles are defined here) */
 
+    /* For setting "body" tag attributes, it is better to use useHead() composable - @see `app.vue` */
     body {
         @apply bg-slate-800;
     }
 
+    /* 
+      NOTE: I have once created this in a good faith, but it backlashed. 
+      I am keeping it here as a BAD EXAMPLE that is NOT ABOUT TO BE FOLLOWED!
+
+      This is accidentally good example of not using @apply visely.
+      For current appearance of this demo, this definition suits pretty well. 
+      However, it is now pretty hard to make any changes, as ALL divs in the app
+      rely on this setting and all future divs will inherit it. 
+      
+      Imagine having to deal with this in larger codebase...
+    */
     div {
         @apply mx-16 my-4 text-center text-white;
     }
@@ -25,12 +43,17 @@
 
 @layer components {
 
+    /* 
+      Following classes are available to use throughout the app as shorthands.
+      Although still discouraged by Tailwind CSS authors, this usage makes more sense, 
+      because the class name is visible and trackable in SFC templates.
+      
+      One advantage of defining re-usable class like this is that Tailwind CSS IntelliSense
+      VS code plugin can work with definitions here and give you hover-hints and auto-completion.
+    */
+
     .customized {
         @apply p-2 border bg-green-200 border-green-700 text-xl text-sky-700 font-bold hover:bg-sky-400;
-    }
-
-    .footer {
-        @apply hover:text-amber-200 hover:font-bold;
     }
 
 }
