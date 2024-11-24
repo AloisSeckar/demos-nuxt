@@ -1,5 +1,5 @@
 /**
- * http://localhost:3000/api/sample/
+ * http://localhost:3000/api/sample
  *
  * Simple server-side getter method
  */

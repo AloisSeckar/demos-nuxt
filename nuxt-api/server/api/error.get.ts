@@ -1,6 +1,6 @@
 /**
  *
- * http://localhost:3000/api/error/
+ * http://localhost:3000/api/error
  *
  * This method demonstrates the behaviour of 'createError' method in Nuxt.
  * It just throws a error with random HTTP code 400-410.
