@@ -27,6 +27,7 @@ Stay up-to-date with the following even more dedicated websites:
 | --- | :--  |
 | **`2024-11-29`** | [What Does the Vueniverse Look Like in 2025?](https://vueschool.io/articles/news/what-does-the-vueniverse-look-like-in-2025-predictions-for-the-vue-ecosystem-in-the-year-ahead/) - predictions for the Vue Ecosystem in the next year |
 | **`2024-11-26`** | [Vite 6.0 is out!](https://vite.dev/blog/announcing-vite6.html) - new major version of #1 build engine for (not only) Vue and Nuxt apps |
+| **`2024-11-25`** | [Introducing Nuxt Icon v1](https://nuxt.com/blog/nuxt-icon-v1-0) - Anthony Fu explains the road to the current version of Nuxt solution for displaying icons |
 | **`2024-11-19`** | [Nuxt 3.14.1592](https://github.com/nuxt/nuxt/releases/tag/v3.14.1592) - latest **Nuxt** 3.x patch version with bugfixes |
 | **`2024-11-18`** | [What’s New in Nuxt 4](https://vueschool.io/articles/news/whats-new-in-nuxt-4/) - Nuxt 4 is comming, what to expect? |
 | **`2024-11-14`** | [Developing a Full Stack Nuxt App with Bolt.new](https://vueschool.io/articles/vuejs-tutorials/developing-a-full-stack-nuxt-app-with-bolt-new-an-ai-experiment/) - can AI scaffold an app? |
