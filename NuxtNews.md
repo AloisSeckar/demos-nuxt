@@ -10,15 +10,20 @@ Stay up-to-date with the following even more dedicated websites:
 - https://dejavue.fm/
 
 ## Upcomming events
-- [VueConf Toronto](https://www.vuetoronto.com/) - **18 - 20 November 2024**, Toronto, [CAN]
+- 
 - [Vuejs Nation 2025](https://vuejsnation.com/) - **29 - 30 January 2025**, Online
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
+- [VueConf US 2025](https://vueconf.us/) - **13 - 15 May 2025**, Tampa [USA]
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 
 ## 2024 - December
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-12-09`** | [Streamlining Data Fetching in Nuxt with Pinia Colada](https://vueschool.io/articles/news/streamlining-data-fetching-in-nuxt-with-pinia-colada-insights-from-eduardo-s-m-morotes-nuxt-nation-2024-talk/) - VueSchool's insights from a **Nuxt Nation** talk by **Eduardo S.M. Morote** |
+| **`2024-12-09`** | [An Introduction to Nuxt Scripts](https://vueschool.io/articles/news/an-introduction-to-nuxt-scripts-insights-from-harlan-wiltons-nuxt-nation-2024-talk/) - VueSchool's insights from a **Nuxt Nation** talk by **Harlan Wilton** |
+| **`2024-12-05`** | [Diving Deep into Nitro: The Server Engine Behind Nuxt](https://vueschool.io/articles/news/diving-deep-into-nitro-the-server-engine-behind-nuxt-insights-from-pooya-parsa-at-nuxt-nation-2024/) - VueSchool's insights from a **Nuxt Nation** talk by **Pooya Parsa** |
+| **`2024-12-05`** | [Magically Enhancing Your Nuxt.js Web Fonts](https://vueschool.io/articles/news/magically-enhancing-your-nuxt-js-web-fonts-insights-from-daniel-roes-nuxt-nation-2024-talk/) - VueSchool's insights from a **Nuxt Nation** talk by **Daniel Roe** |
 | **`2024-12-04`** | [Database Seeds with the Nuxt Task Runner](https://vueschool.io/articles/vuejs-tutorials/database-seeds-with-the-nuxt-task-runner/) - tools for working with databases in Nuxt |
 
 ## 2024 - November
@@ -26,8 +31,10 @@ Stay up-to-date with the following even more dedicated websites:
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2024-11-29`** | [What Does the Vueniverse Look Like in 2025?](https://vueschool.io/articles/news/what-does-the-vueniverse-look-like-in-2025-predictions-for-the-vue-ecosystem-in-the-year-ahead/) - predictions for the Vue Ecosystem in the next year |
+| **`2024-11-28`** | [How To Optimize Performance In Nuxt Apps](https://www.debugbear.com/blog/optimize-nuxt-performance) - practical tips for making Nuxt faster, less memory and bandwidth consuming, etc. |
 | **`2024-11-26`** | [Vite 6.0 is out!](https://vite.dev/blog/announcing-vite6.html) - new major version of #1 build engine for (not only) Vue and Nuxt apps |
 | **`2024-11-25`** | [Introducing Nuxt Icon v1](https://nuxt.com/blog/nuxt-icon-v1-0) - Anthony Fu explains the road to the current version of Nuxt solution for displaying icons |
+| **`2024-11-20`** | [VueConf Toronto](https://www.vuetoronto.com/) - Vue conference took place in Toronto [CAN] between 18th and 20th November |
 | **`2024-11-19`** | [Nuxt 3.14.1592](https://github.com/nuxt/nuxt/releases/tag/v3.14.1592) - latest **Nuxt** 3.x patch version with bugfixes |
 | **`2024-11-18`** | [What’s New in Nuxt 4](https://vueschool.io/articles/news/whats-new-in-nuxt-4/) - Nuxt 4 is comming, what to expect? |
 | **`2024-11-14`** | [Developing a Full Stack Nuxt App with Bolt.new](https://vueschool.io/articles/vuejs-tutorials/developing-a-full-stack-nuxt-app-with-bolt-new-an-ai-experiment/) - can AI scaffold an app? |
@@ -98,6 +105,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2024-06-13`** | [Introducing Nuxt Studio v2](https://nuxt.studio/blog/v2) - this tool will help you maintaing websites with **Nuxt Content** |
 | **`2024-06-11`** | [Nuxt 3.12.1](https://github.com/nuxt/nuxt/releases/tag/v3.12.1) - quick patch release to address recently discovered issues |
 | **`2024-06-11`** | [Nuxt 3.12](https://nuxt.com/blog/v3-12) - **Nuxt** minor release with a number of new features, most notably allowing the optional forward-compatibility with upcomming **Nuxt 4** |
+| **`2024-06-10`** | [Nuxt 3 useFetch — Are you using it correctly?](https://medium.com/@dimeji.ogunleye20/nuxt-3-usefetch-are-you-using-it-correctly-baf193dcf40b) - how to work with **useFetch** composable properly |
 | **`2024-06-09`** | [Nuxt Going Full-Stack: How to Handle Authorization?](https://soubiran.dev/posts/nuxt-going-full-stack-how-to-handle-authorization) - how to work with authorization using Nuxt |
 | **`2024-06-07`** | [Frontend Nation 2024](https://frontendnation.com/) - big online conference for frontend devs took place between **4th - 7th June, 2024** |
 | **`2024-06-03`** | [Introducing NuxtHub Beta](https://hub.nuxt.com/blog/beta) - **Nuxt** teamed up with **Cloudflare** to provide even easier way to create and deploy webapps |
