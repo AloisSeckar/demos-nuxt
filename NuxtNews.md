@@ -10,7 +10,6 @@ Stay up-to-date with the following even more dedicated websites:
 - https://dejavue.fm/
 
 ## Upcomming events
-- 
 - [Vuejs Nation 2025](https://vuejsnation.com/) - **29 - 30 January 2025**, Online
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
 - [VueConf US 2025](https://vueconf.us/) - **13 - 15 May 2025**, Tampa [USA]
