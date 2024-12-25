@@ -20,6 +20,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-12-24`** | [Nuxt 3.15](https://github.com/nuxt/nuxt/releases/tag/v3.15.0) - Christmas' **Nuxt** 3.x minor version with couple of new features |
 | **`2024-12-09`** | [Streamlining Data Fetching in Nuxt with Pinia Colada](https://vueschool.io/articles/news/streamlining-data-fetching-in-nuxt-with-pinia-colada-insights-from-eduardo-s-m-morotes-nuxt-nation-2024-talk/) - VueSchool's insights from a **Nuxt Nation** talk by **Eduardo S.M. Morote** |
 | **`2024-12-09`** | [An Introduction to Nuxt Scripts](https://vueschool.io/articles/news/an-introduction-to-nuxt-scripts-insights-from-harlan-wiltons-nuxt-nation-2024-talk/) - VueSchool's insights from a **Nuxt Nation** talk by **Harlan Wilton** |
 | **`2024-12-05`** | [Diving Deep into Nitro: The Server Engine Behind Nuxt](https://vueschool.io/articles/news/diving-deep-into-nitro-the-server-engine-behind-nuxt-insights-from-pooya-parsa-at-nuxt-nation-2024/) - VueSchool's insights from a **Nuxt Nation** talk by **Pooya Parsa** |
