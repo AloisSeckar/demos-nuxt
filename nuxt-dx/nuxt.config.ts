@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
   ],
   // for some reason DevExtreme only works client-side only in production build
-  ssr: false, compatibilityDate: '2024-09-07',
+  ssr: false, compatibilityDate: '2024-12-27',
   eslint: {
     config: {
       stylistic: true,
