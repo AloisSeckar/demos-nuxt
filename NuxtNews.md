@@ -15,6 +15,14 @@ Stay up-to-date with the following even more dedicated websites:
 - [VueConf US 2025](https://vueconf.us/) - **13 - 15 May 2025**, Tampa [USA]
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 
+## 2025 - January
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-01-06`** | [Building a multi-lingual web app with Nuxt 3 and Nuxt i18n](https://dev.to/logrocket/building-a-multi-lingual-web-app-with-nuxt-3-and-nuxt-i18n-7f2) - detailed guide for simplified localization and translation with **i18n** |
+| **`2025-01-05`** | [Nuxt 3.15](https://github.com/nuxt/nuxt/releases/tag/v3.15.1) - First **Nuxt** 3.15 patch version delivering couple of updates and fixes |
+| **`2025-01-03`** | [Navigation guards in Nuxt 3 with defineNuxtRouteMiddleware](https://dev.to/logrocket/navigation-guards-in-nuxt-3-with-definenuxtroutemiddleware-56h3) - comprehensive overview of using route middleware in Nuxt |
+
 ## 2024 - December
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
