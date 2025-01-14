@@ -7,6 +7,7 @@ What was the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) communit
 | --- | :--  |
 | **`2024-12-24`** | [Nuxt 3.15](https://nuxt.com/blog/v3-15) - Christmas' **Nuxt** 3.x minor version with couple of new features |
 | **`2024-12-21`** | [The Perfect Guide to Setting Up a New Nuxt Project](https://soubiran.dev/posts/the-perfect-guide-to-setting-up-a-new-nuxt-project) - check out Estéban Soubiran's current ideal setup for Nuxt applications |
+| **`2024-12-14`** | [Building A Persistent Multilingual Toast Component In Nuxt](https://www.codybontecou.com/building-a-persistent-multilingual-toast-component-in-nuxt) - step-by-step tutorial for working with _toast_ notifications from **shadcn** and **i18n** module |
 | **`2024-12-09`** | [Streamlining Data Fetching in Nuxt with Pinia Colada](https://vueschool.io/articles/news/streamlining-data-fetching-in-nuxt-with-pinia-colada-insights-from-eduardo-s-m-morotes-nuxt-nation-2024-talk/) - VueSchool's insights from a **Nuxt Nation** talk by **Eduardo S.M. Morote** |
 | **`2024-12-09`** | [An Introduction to Nuxt Scripts](https://vueschool.io/articles/news/an-introduction-to-nuxt-scripts-insights-from-harlan-wiltons-nuxt-nation-2024-talk/) - VueSchool's insights from a **Nuxt Nation** talk by **Harlan Wilton** |
 | **`2024-12-05`** | [Diving Deep into Nitro: The Server Engine Behind Nuxt](https://vueschool.io/articles/news/diving-deep-into-nitro-the-server-engine-behind-nuxt-insights-from-pooya-parsa-at-nuxt-nation-2024/) - VueSchool's insights from a **Nuxt Nation** talk by **Pooya Parsa** |
