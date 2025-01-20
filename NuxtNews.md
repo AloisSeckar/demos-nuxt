@@ -13,13 +13,16 @@ Stay up-to-date with the following even more dedicated websites:
 - [Vuejs Nation 2025](https://vuejsnation.com/) - **29 - 30 January 2025**, Online
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
 - [VueConf US 2025](https://vueconf.us/) - **13 - 15 May 2025**, Tampa [USA]
+- [MadVue 2025](https://madvue.es/) - **29 May 2025**, Madrid [ESP]
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 
 ## 2025 - January
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-01-16`** | [Announcing Nuxt Content v3](https://content.nuxt.com/blog/v3) - new, redesigned version of favorite Nuxt module for displaying static page content has been released |
 | **`2025-01-15`** | [Nuxt 3.15.2](https://github.com/nuxt/nuxt/releases/tag/v3.15.1) - Second Nuxt **3.15** patch version delivering couple of updates and fixes |
+| **`2025-01-08`** | [Fixing Cumulative Layout Shift (CLS) in Nuxt 3](https://kylev.dev/blog/fixing-cumulative-layout-shift-nuxt-3/) - a little tip that can improve Nuxt page performance |
 | **`2025-01-06`** | [Building a multi-lingual web app with Nuxt 3 and Nuxt i18n](https://dev.to/logrocket/building-a-multi-lingual-web-app-with-nuxt-3-and-nuxt-i18n-7f2) - detailed guide for simplified localization and translation with **i18n** |
 | **`2025-01-05`** | [Nuxt 3.15.1](https://github.com/nuxt/nuxt/releases/tag/v3.15.1) - First Nuxt **3.15** patch version delivering couple of updates and fixes |
 | **`2025-01-03`** | [Navigation guards in Nuxt 3 with defineNuxtRouteMiddleware](https://dev.to/logrocket/navigation-guards-in-nuxt-3-with-definenuxtroutemiddleware-56h3) - comprehensive overview of using route middleware in Nuxt |
