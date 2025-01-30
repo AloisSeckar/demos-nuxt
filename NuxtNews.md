@@ -24,6 +24,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2025-01-28`** | [Nuxt state management and hydration with useState](https://dev.to/logrocket/nuxt-state-management-and-hydration-with-usestate-23lf) - very detailed article covering the **useState** composable available in Nuxt |
 | **`2025-01-25`** | [Nuxt 3.15.3](https://github.com/nuxt/nuxt/releases/tag/v3.15.3) - third Nuxt **3.15** patch version delivering couple of updates and fixes. The update includes **one breaking security-related change** for CORS handling on dev server. |
 | **`2025-01-17`** | [Best VS Code Extensions for Vue.js and Nuxt Developers](https://vueschool.io/articles/vuejs-tutorials/best-vs-code-extensions-for-vue-js-and-nuxt-developers/) - make your Nuxt dev's life easier with the right tooling |
+| **`2025-01-17`** | [Vitest 3.0 is out!](https://vitest.dev/blog/vitest-3) - new version of major testing framework for Vue is out |
 | **`2025-01-16`** | [Announcing Nuxt Content v3](https://content.nuxt.com/blog/v3) - new, redesigned version of favorite Nuxt module for displaying static page content has been released |
 | **`2025-01-15`** | [Resolving Auto-Scroll issues for overflow container in a Nuxt app](https://dev.to/mayashavin/resolving-auto-scroll-issues-for-overflow-container-in-a-nuxt-app-ikn) - a tip to make your Nuxt app scrolling better by Maya Shavin |
 | **`2025-01-15`** | [Nuxt 3.15.2](https://github.com/nuxt/nuxt/releases/tag/v3.15.1) - second Nuxt **3.15** patch version delivering couple of updates and fixes |
