@@ -12,14 +12,14 @@ importers:
         specifier: 1.0.1
         version: 1.0.1(@vue/compiler-sfc@3.5.13)(eslint@9.20.0(jiti@2.4.2))(magicast@0.3.5)(typescript@5.7.3)(vite@6.1.0(@types/node@22.13.1)(jiti@2.4.2)(terser@5.38.1)(yaml@2.7.0))
       '@nuxtjs/tailwindcss':
-        specifier: 6.12.2
-        version: 6.12.2(magicast@0.3.5)
+        specifier: 6.13.1
+        version: 6.13.1(magicast@0.3.5)
       nuxt:
         specifier: 3.15.4
         version: 3.15.4(@parcel/watcher@2.5.1)(@types/node@22.13.1)(db0@0.2.3)(eslint@9.20.0(jiti@2.4.2))(ioredis@5.5.0)(magicast@0.3.5)(optionator@0.9.4)(rollup@4.34.6)(terser@5.38.1)(typescript@5.7.3)(vite@6.1.0(@types/node@22.13.1)(jiti@2.4.2)(terser@5.38.1)(yaml@2.7.0))(yaml@2.7.0)
       tailwindcss:
-        specifier: 3.4.17
-        version: 3.4.17
+        specifier: 4.0.4
+        version: 4.0.4
       typescript:
         specifier: latest
         version: 5.7.3
@@ -587,8 +587,8 @@ packages:
     peerDependencies:
       vue: ^3.3.4
 
-  '@nuxtjs/tailwindcss@6.12.2':
-    resolution: {integrity: sha512-qPJiFH67CkTj/2kBGBzqXihOD1rQXMsbVS4vdQvfBxOBLPfGhU1yw7AATdhPl2BBjO2krjJLuZj39t7dnDYOwg==}
+  '@nuxtjs/tailwindcss@6.13.1':
+    resolution: {integrity: sha512-atL2SaPsxLfMTlXUQvr1UpDYdz6ocNOhH35H+t7M++g4r79QiQScJ7XuyyMR9AyBN19lkPA3nw7NXxazXmYxlA==}
 
   '@parcel/watcher-android-arm64@2.5.1':
     resolution: {integrity: sha512-KF8+j9nNbUN8vzOFDpRMsaKBHZ/mcjEjMToVMJOhTozkDonQFFrRcfdLWn6yWKCmJKmdVxSgHiYvTCef4/qcBA==}
@@ -3492,6 +3492,9 @@ packages:
     engines: {node: '>=14.0.0'}
     hasBin: true
 
+  tailwindcss@4.0.4:
+    resolution: {integrity: sha512-/ezDLEkOLf1lXkr9F2iI5BHJbexJpty5zkV2B8bGHCqAdbc9vk85Jgdkq+ZOvNkNPa3yAaqJ8DjRt584Bc84kw==}
+
   tapable@2.2.1:
     resolution: {integrity: sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ==}
     engines: {node: '>=6'}
@@ -4784,15 +4787,16 @@ snapshots:
       - vue-tsc
       - yaml
 
-  '@nuxtjs/tailwindcss@6.12.2(magicast@0.3.5)':
+  '@nuxtjs/tailwindcss@6.13.1(magicast@0.3.5)':
     dependencies:
       '@nuxt/kit': 3.15.4(magicast@0.3.5)
       autoprefixer: 10.4.20(postcss@8.5.1)
+      c12: 2.0.1(magicast@0.3.5)
       consola: 3.4.0
       defu: 6.1.4
       h3: 1.15.0
       klona: 2.0.6
-      pathe: 1.1.2
+      pathe: 2.0.2
       postcss: 8.5.1
       postcss-nesting: 13.0.1(postcss@8.5.1)
       tailwind-config-viewer: 2.0.4(tailwindcss@3.4.17)
@@ -8012,6 +8016,8 @@ snapshots:
       sucrase: 3.35.0
     transitivePeerDependencies:
       - ts-node
+
+  tailwindcss@4.0.4: {}
 
   tapable@2.2.1: {}
 
