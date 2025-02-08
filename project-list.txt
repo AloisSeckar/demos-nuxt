@@ -20,6 +20,7 @@ nuxt-animation
 ..\nuxt-simple
 ..\nuxt-supabase
 ..\nuxt-tailwind
+..\nuxt-test
 ..\nuxt-ui
 ..\nuxt-use
 ..\nuxt-utils

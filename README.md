@@ -54,5 +54,8 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 - [**nuxt-use**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-use) - various demos of [VueUse](https://vueuse.org/) features in Nuxt
 - [**nuxt-animation**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-animation) - displaying simple animation using [VueUse](https://vueuse.org/)
 
+### Testing
+- [**nuxt-test**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-text) - how to setup basic test scenarios using tools [recommended for Nuxt](https://nuxt.com/docs/getting-started/testing)
+
 ### Full-stack
 - [**nuxt-stack**](https://github.com/AloisSeckar/nuxt-stack) - my ideal setup for starting new real-world Nuxt app (moved into standalone Git project for easier forking and cloning)
