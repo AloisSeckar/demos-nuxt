@@ -18,6 +18,8 @@ This demo shows how to include [Neon database](https://neon.tech/) in [Nuxt](htt
 - NUXT_PUBLIC_NEON_PASS - your project DB user password
 - NUXT_PUBLIC_NEON_DB - your project DB name
 
+**WARNING**: Using "PUBLIC" .env variables will leak your connection data to client-side! This may work in demo, but for real application you should hide them on Nuxt server.
+
 Check your project dasboard for values (Quickstart section). 
 
 Connecton string will look like this: 
@@ -25,3 +27,6 @@ Connecton string will look like this:
 
 ### Tutorial article
 Not yet
+
+### nuxt-neon module
+Check also my project [nuxt-neon](https://github.com/AloisSeckar/nuxt-neon) which extends the idea and provides convenient and safe Nuxt module to be used for communication with Neon database.
