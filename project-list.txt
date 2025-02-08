@@ -2,6 +2,7 @@ nuxt-animation
 ..\nuxt-api
 ..\nuxt-bootstrap
 ..\nuxt-content
+..\nuxt-content3
 ..\nuxt-dx
 ..\nuxt-fa
 ..\nuxt-fonts
