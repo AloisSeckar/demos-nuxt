@@ -10,7 +10,6 @@ Stay up-to-date with the following even more dedicated websites:
 - https://dejavue.fm/
 
 ## Upcomming events
-- [Vuejs Nation 2025](https://vuejsnation.com/) - **29 - 30 January 2025**, Online
 - [Vuejs Amsterdam](https://vuejs.amsterdam/) - **12 - 13 March 2025**, Amsterdam [NED]
 - [VueConf US 2025](https://vueconf.us/) - **13 - 15 May 2025**, Tampa [USA]
 - [MadVue 2025](https://madvue.es/) - **29 May 2025**, Madrid [ESP]
@@ -20,6 +19,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2024-01-30`** | [Vue.js Nation 2025](https://vuejsnation.com/2025) - the biggest Vue.js online conference took place **29th and 30th January, 2025** |
 | **`2025-01-29`** | [Nuxt 3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4) - smaller Nuxt **3.15** patch version delivering couple of updates and fixes. |
 | **`2025-01-28`** | [Nuxt state management and hydration with useState](https://dev.to/logrocket/nuxt-state-management-and-hydration-with-usestate-23lf) - very detailed article covering the **useState** composable available in Nuxt |
 | **`2025-01-25`** | [Nuxt 3.15.3](https://github.com/nuxt/nuxt/releases/tag/v3.15.3) - third Nuxt **3.15** patch version delivering couple of updates and fixes. The update includes **one breaking security-related change** for CORS handling on dev server. |
@@ -29,7 +29,9 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2025-01-15`** | [Resolving Auto-Scroll issues for overflow container in a Nuxt app](https://dev.to/mayashavin/resolving-auto-scroll-issues-for-overflow-container-in-a-nuxt-app-ikn) - a tip to make your Nuxt app scrolling better by Maya Shavin |
 | **`2025-01-15`** | [Nuxt 3.15.2](https://github.com/nuxt/nuxt/releases/tag/v3.15.1) - second Nuxt **3.15** patch version delivering couple of updates and fixes |
 | **`2025-01-13`** | [Optimizing Data Loading in Nuxt with Parallel Requests](https://vueschool.io/articles/vuejs-tutorials/optimizing-data-loading-in-nuxt-with-parallel-requests/) - did you know you can fire more than one data fetching request at once? |
+| **`2025-01-12`** | [Nuxt in Production - Delivering Websites Statically vs. Dynamically](https://www.blueshoe.io/blog/nuxt-generate-vs-server/) - different approaches to building websites with Nuxt |
 | **`2025-01-08`** | [Fixing Cumulative Layout Shift (CLS) in Nuxt 3](https://kylev.dev/blog/fixing-cumulative-layout-shift-nuxt-3/) - a little tip that can improve Nuxt page performance |
+| **`2025-01-07`** | [Advanced File Structure and Colocation in Nuxt](https://geistjs.com/blog/advanced-file-structure-and-colocation-in-nuxt) - tip for organizing your components in somewhat more logical way |
 | **`2025-01-06`** | [Building a multi-lingual web app with Nuxt 3 and Nuxt i18n](https://dev.to/logrocket/building-a-multi-lingual-web-app-with-nuxt-3-and-nuxt-i18n-7f2) - detailed guide for simplified localization and translation with **i18n** |
 | **`2025-01-05`** | [Nuxt 3.15.1](https://github.com/nuxt/nuxt/releases/tag/v3.15.1) - first Nuxt **3.15** patch version delivering couple of updates and fixes |
 | **`2025-01-03`** | [Navigation guards in Nuxt 3 with defineNuxtRouteMiddleware](https://dev.to/logrocket/navigation-guards-in-nuxt-3-with-definenuxtroutemiddleware-56h3) - comprehensive overview of using route middleware in Nuxt |
