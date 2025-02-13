@@ -19,7 +19,13 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
-| **`2024-01-30`** | [Vue.js Nation 2025](https://vuejsnation.com/2025) - the biggest Vue.js online conference took place **29th and 30th January, 2025** |
+| **`2025-02-10`** | [Leveraging Nuxt and Supabase for Modern Fullstack Development](https://dev.to/jacobandrewsky/leveraging-nuxt-and-supabase-for-modern-fullstack-development-2mbh) - how to use Supabase together with Nuxt |
+
+## 2025 - January
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-01-30`** | [Vue.js Nation 2025](https://vuejsnation.com/2025) - the biggest Vue.js online conference took place **29th and 30th January, 2025** |
 | **`2025-01-29`** | [Nuxt 3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4) - smaller Nuxt **3.15** patch version delivering couple of updates and fixes. |
 | **`2025-01-28`** | [Nuxt state management and hydration with useState](https://dev.to/logrocket/nuxt-state-management-and-hydration-with-usestate-23lf) - very detailed article covering the **useState** composable available in Nuxt |
 | **`2025-01-25`** | [Nuxt 3.15.3](https://github.com/nuxt/nuxt/releases/tag/v3.15.3) - third Nuxt **3.15** patch version delivering couple of updates and fixes. The update includes **one breaking security-related change** for CORS handling on dev server. |
