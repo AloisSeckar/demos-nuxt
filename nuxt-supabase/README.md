@@ -10,7 +10,7 @@ This demo shows how to include [Supabase](https://supabase.com/) in [Nuxt](https
 6. `localhost:3000` 
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-supabase
+https://master-coda.cz/article/nuxt-database
 
 ### Attributions
 - sample SQL data were created using [ChatGPT-4](https://chat.openai.com/)

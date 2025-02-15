@@ -26,7 +26,7 @@ Connecton string will look like this:
 `postgres://<<neonUser>>:<<neonPass>>@<<neonHost>>.neon.tech/<<neonDB>>`
 
 ### Tutorial article
-Not yet
+https://master-coda.cz/article/nuxt-database
 
 ### nuxt-neon module
 Check also my project [nuxt-neon](https://github.com/AloisSeckar/nuxt-neon) which extends the idea and provides convenient and safe Nuxt module to be used for communication with Neon database.
