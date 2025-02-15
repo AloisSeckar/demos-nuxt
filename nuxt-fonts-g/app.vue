@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1>nuxt-fonts</h1>
+    <h1>nuxt-fonts-g</h1>
     <div>
-      Incorporating fonts easily with an official <a href="https://fonts.nuxt.com/">Nuxt Fonts</a> module
+      Incorporating Google fonts easily with <a href="https://google-fonts.nuxtjs.org/">Nuxt Google Fonts</a> module
     </div>
     <h2>Fonts gallery</h2>
     <div class="fonts">
@@ -17,10 +17,6 @@
       <div class="font3">
         This font is called
         <a href="https://fonts.google.com/specimen/Pacifico"><strong>Pacifico</strong></a>
-      </div>
-      <div class="font4">
-        This font is called
-        <a href="https://fonts.google.com/specimen/Public+Sans"><strong>Public Sans</strong></a> (only italic is downloaded)
       </div>
     </div>
   </div>
@@ -41,10 +37,5 @@
 }
 .font3 {
   font-family: "Pacifico";
-}
-
-/* is italic out-of-the-box thanks to configuration */
-.font4 {
-  font-family: "Public Sans";
 }
 </style>
