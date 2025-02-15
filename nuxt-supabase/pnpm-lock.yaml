@@ -12,8 +12,8 @@ importers:
         specifier: 1.0.1
         version: 1.0.1(@vue/compiler-sfc@3.5.13)(eslint@9.20.0(jiti@2.4.2))(magicast@0.3.5)(typescript@5.7.3)(vite@6.1.0(@types/node@22.13.1)(jiti@2.4.2)(terser@5.38.1)(yaml@2.7.0))
       '@nuxtjs/supabase':
-        specifier: 1.4.5
-        version: 1.4.5
+        specifier: 1.4.6
+        version: 1.4.6
       nuxt:
         specifier: 3.15.4
         version: 3.15.4(@parcel/watcher@2.5.1)(@types/node@22.13.1)(db0@0.2.3)(eslint@9.20.0(jiti@2.4.2))(ioredis@5.5.0)(magicast@0.3.5)(optionator@0.9.4)(rollup@4.34.6)(terser@5.38.1)(typescript@5.7.3)(vite@6.1.0(@types/node@22.13.1)(jiti@2.4.2)(terser@5.38.1)(yaml@2.7.0))(yaml@2.7.0)
@@ -564,8 +564,8 @@ packages:
     peerDependencies:
       vue: ^3.3.4
 
-  '@nuxtjs/supabase@1.4.5':
-    resolution: {integrity: sha512-qd71Kdz4ZXR2FT6DSCAKH0mZkeJRmikf7XYgfYD9n91MbO+JY+OLHcYkuKZRE8Ir5FehZs8txGf6LjeuTSfzBA==}
+  '@nuxtjs/supabase@1.4.6':
+    resolution: {integrity: sha512-PeCTg38gO4HP2JEaBLbz3IOaZnbVEDc9iJf0loe29MSyuL/doT2GnlPbpRJY9H5S51mhuRaRi7LyllmE6Cvo4w==}
 
   '@parcel/watcher-android-arm64@2.5.1':
     resolution: {integrity: sha512-KF8+j9nNbUN8vzOFDpRMsaKBHZ/mcjEjMToVMJOhTozkDonQFFrRcfdLWn6yWKCmJKmdVxSgHiYvTCef4/qcBA==}
@@ -4452,12 +4452,12 @@ snapshots:
       - vue-tsc
       - yaml
 
-  '@nuxtjs/supabase@1.4.5':
+  '@nuxtjs/supabase@1.4.6':
     dependencies:
       '@supabase/ssr': 0.5.2(@supabase/supabase-js@2.48.1)
       '@supabase/supabase-js': 2.48.1
       defu: 6.1.4
-      pathe: 1.1.2
+      pathe: 2.0.2
     transitivePeerDependencies:
       - bufferutil
       - utf-8-validate
