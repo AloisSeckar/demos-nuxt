@@ -1,5 +1,5 @@
-## Nuxt Starter
-This demo shows how [Nuxt Google Fonts](https://google-fonts.nuxtjs.org/) module can help incorporating (Google) fonts in [Nuxt](https://nuxt.com/)
+## Nuxt Fonts
+This demo shows how [Nuxt Fonts](https://google-fonts.nuxtjs.org/) official module can help incorporating ANY fonts in [Nuxt](https://nuxt.com/)
 
 ### How to use
 1. `git checkout demos-nuxt project`
@@ -10,3 +10,8 @@ This demo shows how [Nuxt Google Fonts](https://google-fonts.nuxtjs.org/) module
 
 ### Tutorial article
 Not yet
+
+### Nuxt Google Fonts
+Possible alternative to this is [Nuxt Google Fonts](https://google-fonts.nuxtjs.org/).
+
+Check my [nuxt-fonts-g](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fonts) demo for details.

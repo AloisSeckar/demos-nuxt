@@ -35,14 +35,15 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 - [**nuxt-formkit**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-formkit) - integration with [Formkit](https://formkit.com/)
 - [**nuxt-dx**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-dx) - integration with [DevExtreme UI](https://js.devexpress.com/) (alternative to Formkit)
 
-#### Image
-- [**nuxt-fonts**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fonts) - incorporate (Google) font sets easily with [Nuxt Google Fonts module](https://google-fonts.nuxtjs.org/)
+#### Fonts
+- [**nuxt-fonts**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fonts) - incorporate ANY font sets easily with an official [Nuxt Fonts module](https://fonts.nuxt.com/)
+- [**nuxt-fonts-g**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fonts-g) - incorporate Google font sets easily with [Nuxt Google Fonts module](https://google-fonts.nuxtjs.org/)
 
 #### Content
 - [**nuxt-content v3**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content3) - creating content pages easily with [Nuxt Content module](https://content.nuxtjs.org/)
 - [**nuxt-content**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content) - legacy version showing the setup for v2
 
-#### Image
+#### Images
 - [**nuxt-image**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-image) - work with images easily with [Nuxt Image module](https://image.nuxt.com/)
 
 #### Database
