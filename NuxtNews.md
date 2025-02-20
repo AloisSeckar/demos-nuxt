@@ -19,6 +19,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-02-17`** | [How to Use Nuxt 3 Middleware for Authentication and Permissions](https://dev.to/jacobandrewsky/how-to-use-nuxt-3-middleware-for-authentication-and-permissions-5d9b) - the title says it |
 | **`2025-02-10`** | [Leveraging Nuxt and Supabase for Modern Fullstack Development](https://dev.to/jacobandrewsky/leveraging-nuxt-and-supabase-for-modern-fullstack-development-2mbh) - how to use Supabase together with Nuxt |
 
 ## 2025 - January
