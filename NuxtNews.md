@@ -20,12 +20,15 @@ Stay up-to-date with the following even more dedicated websites:
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2025-02-17`** | [How to Use Nuxt 3 Middleware for Authentication and Permissions](https://dev.to/jacobandrewsky/how-to-use-nuxt-3-middleware-for-authentication-and-permissions-5d9b) - the title says it |
+| **`2025-02-11`** | [How I found an XSS in the Nuxt MDC Library](https://www.nodejs-security.com/blog/nuxt-mdc-xss-vulnerability) - a case study of a security vulnerability discovered and fixed in one of the popular Nuxt modules |
+| **`2025-02-11`** | [Pinia 3.0](https://github.com/vuejs/pinia/releases/tag/v3.0.0) - new major version of **Pinia** state management library was released |
 | **`2025-02-10`** | [Leveraging Nuxt and Supabase for Modern Fullstack Development](https://dev.to/jacobandrewsky/leveraging-nuxt-and-supabase-for-modern-fullstack-development-2mbh) - how to use Supabase together with Nuxt |
 
 ## 2025 - January
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-01-30`** | [Nuxt 2 to Nuxt 3 Migration – Why Now and How to Succeed](https://coditive.com/blog/nuxt-2-to-nuxt-3-migration-why-now-and-how-to-succeed/) - if you still haven't migrate your Nuxt v2 app to v3, here is how to do it |
 | **`2025-01-30`** | [Vue.js Nation 2025](https://vuejsnation.com/2025) - the biggest Vue.js online conference took place **29th and 30th January, 2025** |
 | **`2025-01-29`** | [Nuxt 3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4) - smaller Nuxt **3.15** patch version delivering couple of updates and fixes. |
 | **`2025-01-28`** | [Nuxt state management and hydration with useState](https://dev.to/logrocket/nuxt-state-management-and-hydration-with-usestate-23lf) - very detailed article covering the **useState** composable available in Nuxt |
