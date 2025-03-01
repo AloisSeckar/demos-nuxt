@@ -13,7 +13,7 @@
     "@formkit/icons": "1.6.9",
     "@formkit/nuxt": "1.6.9",
     "@formkit/vue": "1.6.9",
-    "@nuxt/eslint": "1.0.1",
+    "@nuxt/eslint": "1.1.0",
     "nuxt": "3.15.4",
     "typescript": "latest"
   }
