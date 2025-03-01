@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@neondatabase/serverless": "0.10.4",
-    "@nuxt/eslint": "1.0.1",
+    "@nuxt/eslint": "1.1.0",
     "nuxt": "3.15.4",
     "typescript": "latest"
   }
