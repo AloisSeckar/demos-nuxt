@@ -15,10 +15,17 @@ Stay up-to-date with the following even more dedicated websites:
 - [MadVue 2025](https://madvue.es/) - **29 May 2025**, Madrid [ESP]
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 
-## 2025 - January
+## 2025 - March
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-03-03`** | [How to Create Dynamic OG Images in Nuxt](https://dev.to/jacobandrewsky/how-to-create-dynamic-og-images-in-nuxt-1ehf) - a short introduction to **Nuxt OG Image** |
+
+## 2025 - February
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-02-20`** | [Nuxt Content 3.2](https://github.com/nuxt/content/releases/tag/v3.2.0) - new version of **Nuxt Content** module |
 | **`2025-02-17`** | [How to Use Nuxt 3 Middleware for Authentication and Permissions](https://dev.to/jacobandrewsky/how-to-use-nuxt-3-middleware-for-authentication-and-permissions-5d9b) - the title says it |
 | **`2025-02-11`** | [How I found an XSS in the Nuxt MDC Library](https://www.nodejs-security.com/blog/nuxt-mdc-xss-vulnerability) - a case study of a security vulnerability discovered and fixed in one of the popular Nuxt modules |
 | **`2025-02-11`** | [Pinia 3.0](https://github.com/vuejs/pinia/releases/tag/v3.0.0) - new major version of **Pinia** state management library was released |
