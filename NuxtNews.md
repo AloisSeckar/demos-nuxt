@@ -19,7 +19,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
-| **`2025-03-07`** | [Nuxt 3.16](https://nuxt.com/blog/v3-16) - Christmas' **Nuxt** 3.x minor version with couple of new features |
+| **`2025-03-07`** | [Nuxt 3.16](https://nuxt.com/blog/v3-16) - New minor version of **Nuxt** 3.x with a number of new features and upgrades |
 | **`2025-03-03`** | [How to Create Dynamic OG Images in Nuxt](https://dev.to/jacobandrewsky/how-to-create-dynamic-og-images-in-nuxt-1ehf) - a short introduction to **Nuxt OG Image** |
 
 ## 2025 - February
