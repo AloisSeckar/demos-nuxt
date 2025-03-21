@@ -18,10 +18,12 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-03-19`** | [Nuxt 3.16.1](https://github.com/nuxt/nuxt/releases/tag/v3.16.1) - scheduled Nuxt **3.15** patch version delivering some updates and fixes |
 | **`2025-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2025** in Amsterdam, NED |
 | **`2025-03-12`** | [Nuxt UI v3](https://nuxt.com/blog/nuxt-ui-v3) - This major redesign brings improved accessibility, Tailwind CSS v4 support, and full Vue compatibility to **Nuxt UI** library module |
 | **`2025-03-09`** | [How to Develop an Open Telemetry Plugin for Nuxt](https://techwatching.dev/posts/nuxt-otel) - tutorial for making Nuxt apps more observable |
 | **`2025-03-07`** | [Nuxt 3.16](https://nuxt.com/blog/v3-16) - New minor version of **Nuxt** 3.x with a number of new features and upgrades |
+| **`2025-03-04`** | [Nitro 2.11](https://github.com/nitrojs/nitro/releases/tag/v2.11.0) - new version of Nuxt's underlying server **Nitro** |
 | **`2025-03-03`** | [How to Create Dynamic OG Images in Nuxt](https://dev.to/jacobandrewsky/how-to-create-dynamic-og-images-in-nuxt-1ehf) - a short introduction to **Nuxt OG Image** |
 
 ## 2025 - February
