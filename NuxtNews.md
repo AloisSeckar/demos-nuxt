@@ -18,6 +18,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-03-24`** | [Blazingly fast E-Commerce in Nuxt](https://dev.to/jacobandrewsky/blazingly-fast-e-commerce-in-nuxt-2gaa) - introducing the brand new **Nuxt Commerce** module |
 | **`2025-03-19`** | [Nuxt 3.16.1](https://github.com/nuxt/nuxt/releases/tag/v3.16.1) - scheduled Nuxt **3.15** patch version delivering some updates and fixes |
 | **`2025-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2025** in Amsterdam, NED |
 | **`2025-03-12`** | [Nuxt UI v3](https://nuxt.com/blog/nuxt-ui-v3) - This major redesign brings improved accessibility, Tailwind CSS v4 support, and full Vue compatibility to **Nuxt UI** library module |
