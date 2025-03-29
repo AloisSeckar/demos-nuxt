@@ -25,3 +25,4 @@ nuxt-animation
 ..\nuxt-ui
 ..\nuxt-use
 ..\nuxt-utils
+..\nuxt-vueform

@@ -32,6 +32,7 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 
 #### UI and Forms libraries
 - [**nuxt-ui**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-ui) - integration with [Nuxt UI](https://ui.nuxt.com/)
+- [**nuxt-vueform**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-vueform) - integration with [Vueform](https://vueform.com/)
 - [**nuxt-formkit**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-formkit) - integration with [Formkit](https://formkit.com/)
 - [**nuxt-dx**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-dx) - integration with [DevExtreme UI](https://js.devexpress.com/) (alternative to Formkit)
 

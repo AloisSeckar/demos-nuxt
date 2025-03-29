@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "nuxt-vueform",
+  "version": "1.0.0",
+  "scripts": {
+    "eslint": "eslint .",
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "1.2.0",
+    "nuxt": "3.16.1",
+    "typescript": "latest",
+    "@vueform/nuxt": "1.11.0"
+  }
+}
