@@ -6,7 +6,12 @@
       <em>"Design user profile form with first name, last name, age, gender, country and profile picture."</em>
     </p>
     <ClientOnly>
-      <Vueform>
+      <Vueform
+        endpoint="/api/vueform"
+        method="post"
+        @response="vueformResponse"
+        @error="vueformError"
+      >
         <StaticElement
           name="title"
           tag="h1"
@@ -50,6 +55,7 @@
           ]"
         />
         <TextElement
+          name="genderText"
           label="Please specify gender:"
           :conditions="[
             [
@@ -73,6 +79,7 @@
           ]"
         />
         <TextElement
+          name="countryText"
           label="Please specify country:"
           :conditions="[
             [
@@ -91,6 +98,7 @@
           :rules="[
             'required',
           ]"
+          upload-temp-endpoint="/api/vueformfile"
         />
         <ButtonElement
           name="submit"
@@ -112,7 +120,31 @@
 // "Design user profile form with first name, last name, age, gender, country and profile picture."
 // 2025-03-29
 
-// TODO work with the output
+// Vueform triggers:
+// - @success (response.status is 2**)
+// - @error (always)
+// - @response (request was sent and response was received)
+
+// TODO how to work with TS types in Vueform (aside from manually declaring types)
+// response: AxiosResponse, form$: Vueform instance
+// @ts-expect-error noImplictAny
+const vueformResponse = (response, form$) => {
+  console.log(response) // axios response
+  console.log(response.status) // HTTP status code
+  console.log(response.data) // response data
+
+  console.log(form$) // <Vueform> instance
+
+  alert('Form was handled and OK response from API was received')
+}
+
+// @ts-expect-error noImplictAny
+const vueformError = (error, details, _form$) => {
+  console.log(error) // Error or AxiosError
+  console.log(details) // Vueform's additional info
+
+  alert('Error occured! (see console for details)')
+}
 </script>
 
 <style scoped lang="css">

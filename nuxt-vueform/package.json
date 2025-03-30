@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "@nuxt/eslint": "1.2.0",
+    "@vueform/nuxt": "1.11.0",
     "nuxt": "3.16.1",
-    "typescript": "latest",
-    "@vueform/nuxt": "1.11.0"
+    "typescript": "latest"
   }
 }
