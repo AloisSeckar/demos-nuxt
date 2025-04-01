@@ -13,13 +13,21 @@ Stay up-to-date with the following even more dedicated websites:
 - [VueConf US 2025](https://vueconf.us/) - **13 - 15 May 2025**, Tampa [USA]
 - [MadVue 2025](https://madvue.es/) - **29 May 2025**, Madrid [ESP]
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
+- [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
+
+## 2025 - April
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-04-01`** | [Nuxt 3.16.2](https://github.com/nuxt/nuxt/releases/tag/v3.16.2) - scheduled Nuxt **3.16** patch version delivering some updates and fixes |
 
 ## 2025 - March
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-03-24`** | [Client-side AI with Nuxt Workers + Transformers.js](https://www.codybontecou.com/client-side-ai-with-nuxt-works-and-transformersjs) - using AI in Nuxt |
 | **`2025-03-24`** | [Blazingly fast E-Commerce in Nuxt](https://dev.to/jacobandrewsky/blazingly-fast-e-commerce-in-nuxt-2gaa) - introducing the brand new **Nuxt Commerce** module |
-| **`2025-03-19`** | [Nuxt 3.16.1](https://github.com/nuxt/nuxt/releases/tag/v3.16.1) - scheduled Nuxt **3.15** patch version delivering some updates and fixes |
+| **`2025-03-19`** | [Nuxt 3.16.1](https://github.com/nuxt/nuxt/releases/tag/v3.16.1) - scheduled Nuxt **3.16** patch version delivering some updates and fixes |
 | **`2025-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2025** in Amsterdam, NED |
 | **`2025-03-12`** | [Nuxt on the Edge with Cloudflare Workers](https://ymo.dev/blog/nuxt-on-edge-cloudflare-workers) - how a daring attempt to run Nuxt on **Cloudflare** turns out?  |
 | **`2025-03-12`** | [Nuxt UI v3](https://nuxt.com/blog/nuxt-ui-v3) - this major redesign brings improved accessibility, Tailwind CSS v4 support, and full Vue compatibility to **Nuxt UI** library module |
