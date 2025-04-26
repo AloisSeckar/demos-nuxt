@@ -19,6 +19,8 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-04-15`** | [NuxtHub on Workers](https://hub.nuxt.com/changelog/workers) - see how to use **Cloudflare Workers** for **NuxtHub** projects |
+| **`2025-04-10`** | [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/) - a guide for uploading files with Nuxt |
 | **`2025-04-07`** | [Modular Architecture in Nuxt](https://dev.to/jacobandrewsky/modular-architecture-in-nuxt-4jh9) - a brief introduction to the concept of Nuxt modules |
 | **`2025-04-03`** | [What next for Vue.js?](https://devclass.com/2025/04/03/what-next-for-vue-js-official-report-promises-fewer-painful-upgrades-and-describes-challenges-with-forthcoming-vapor-mode/) - remarks about recently released **The State of Vue.js 2025 report** |
 | **`2025-04-01`** | [Nuxt 3.16.2](https://github.com/nuxt/nuxt/releases/tag/v3.16.2) - scheduled Nuxt **3.16** patch version delivering some updates and fixes |
