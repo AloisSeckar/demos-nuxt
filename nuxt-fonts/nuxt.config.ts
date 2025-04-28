@@ -1,12 +1,12 @@
 // Nuxt project configuration like modules or runtime variables goes here
 // https://nuxt.com/docs/getting-started/configuration#nuxt-configuration
 export default defineNuxtConfig({
-  compatibilityDate: '2025-02-08',
-
   modules: [
     '@nuxt/eslint',
     '@nuxt/fonts',
   ],
+
+  compatibilityDate: '2025-02-08',
 
   eslint: {
     config: {
@@ -14,7 +14,7 @@ export default defineNuxtConfig({
     },
   },
 
-  fonts: { 
+  fonts: {
     // for more customization reffer to https://google-fonts.nuxtjs.org/getting-started/options
 
     // specify how the font sets are being loaded
@@ -23,7 +23,7 @@ export default defineNuxtConfig({
       // the module will try to load "normal" and "italic" variants of the font with "400" weight
       // it also downloads subsets with extra characters
       // you can change the defaults here
-      
+
       // weights: [400],
       // styles: ['normal', 'italic'],
       // subsets: [
