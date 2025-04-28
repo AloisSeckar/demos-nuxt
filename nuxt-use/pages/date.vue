@@ -19,10 +19,10 @@
     <br>
     <div>
       Alternatively,
-      <NuxtLink to="https://github.com/danielroe/nuxt-time">
-        Nuxt Time
+      <NuxtLink to="https://nuxt.com/docs/api/components/nuxt-time">
+       <pre style="display: inline-block;">&lt;NuxtTime&gt;</pre>
       </NuxtLink>
-      module can be used to handle reactive date object accordingly:
+      built-in component can be used to handle reactive date object accordingly:
       <NuxtTime
         :datetime="currentDate"
         year="numeric"
