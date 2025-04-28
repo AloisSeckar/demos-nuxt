@@ -22,6 +22,9 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 - [**nuxt-middleware**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-middleware) - example of middleware available in Nuxt
 - [**nuxt-plugins**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-plugins) - example of creating plugins in Nuxt
 
+### Nuxt extras
+- [**nuxt-time**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-time) - example of `<NuxtTime>` built-in component
+
 ### Advanced topics
 #### UI integrations
 - [**nuxt-tailwind**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-tailwind) - integration with [Tailwind CSS](https://tailwindcss.com/)

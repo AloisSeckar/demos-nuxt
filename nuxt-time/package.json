@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "nuxt-time",
+  "version": "1.0.0",
+  "scripts": {
+    "eslint": "eslint .",
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "1.0.1",
+    "nuxt": "3.17.0",
+    "typescript": "latest"
+  }
+}
