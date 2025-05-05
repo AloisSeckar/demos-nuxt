@@ -14,6 +14,7 @@ nuxt-animation
 ..\nuxt-middleware
 ..\nuxt-minimal
 ..\nuxt-neon
+..\nuxt-neon-m
 ..\nuxt-openprops
 ..\nuxt-pages
 ..\nuxt-pinia
