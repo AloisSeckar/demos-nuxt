@@ -15,11 +15,20 @@ Stay up-to-date with the following even more dedicated websites:
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
 
+## 2025 - May
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-05-05`** | [Nuxt 3.17.2](https://github.com/nuxt/nuxt/releases/tag/v3.17.2) - second Nuxt **3.17** patch version delivering couple of fixes |
+
 ## 2025 - April
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-04-29`** | [Nuxt 3.17.1](https://github.com/nuxt/nuxt/releases/tag/v3.17.1) - quick Nuxt **3.17** patch version delivering couple of fixes |
 | **`2025-04-28`** | [Nuxt 3.17](https://nuxt.com/blog/v3-17) - new minor version of **Nuxt** 3.x with a number of new features like `<NuxtTime>` component, changes in data fetching or DevEx improvements |
+| **`2025-04-24`** | [Nuxt UI 3.1](https://github.com/nuxt/ui/releases/tag/v3.1.0) - new minor release of **Nuxt UI** library module with new features |
+| **`2025-04-23`** | [Nuxt Content 3.5](https://github.com/nuxt/content/releases/tag/v3.5.0) - new minor release of **Nuxt Content** module with new features |
 | **`2025-04-15`** | [NuxtHub on Workers](https://hub.nuxt.com/changelog/workers) - see how to use **Cloudflare Workers** for **NuxtHub** projects |
 | **`2025-04-10`** | [Handling File Uploads in Nuxt with useStorage](https://vueschool.io/articles/vuejs-tutorials/handling-file-uploads-in-nuxt-with-usestorage/) - a guide for uploading files with Nuxt |
 | **`2025-04-07`** | [Modular Architecture in Nuxt](https://dev.to/jacobandrewsky/modular-architecture-in-nuxt-4jh9) - a brief introduction to the concept of Nuxt modules |
