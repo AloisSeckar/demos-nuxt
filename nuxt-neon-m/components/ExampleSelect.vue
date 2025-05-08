@@ -15,12 +15,19 @@
 <script setup lang="ts">
 const { select } = useNeon()
 
-const result = ref({})
+// custom type to specify awaited results
+type Data = {
+  id: number
+  name: string
+  value: number
+}
+
+const result = ref({} as Data)
 async function doSelect() {
   result.value = await select(
     ['id', 'name', 'value'],
     'playing_with_neon',
-  )
+  ) as Data // this will be changed to generics in future nuxt-neon module versions
 }
 </script>
 
