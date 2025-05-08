@@ -16,9 +16,9 @@ This demo shows how to include [Neon database](https://neon.tech/) in [Nuxt](htt
 - NUXT_NEON_HOST - sever instance, where your DB is hosted 
 - NUXT_NEON_USER - your project DB user name
 - NUXT_NEON_PASS - your project DB user password
-- NUXT_PUBLIC_NEON_DB - your project DB name
+- NUXT_NEON_DB - your project DB name (alternatively NUXT_PUBLIC_NEON_DB that is exposed to client)
 
-Note that `nuxt-neon` module is not exposing sensitive data to client-side. The only public variable is the database name.
+Note that `nuxt-neon` module is not exposing sensitive data to client-side. The only public variable might be the database name (if public variant is used).
 
 Check your project dasboard for values (Quickstart section). 
 
