@@ -11,7 +11,7 @@
   "devDependencies": {
     "@nuxt/eslint": "1.3.0",
     "nuxt": "3.17.2",
-    "nuxt-neon": "0.4.2",
+    "nuxt-neon": "0.4.3",
     "typescript": "5.8.3"
   }
 }
