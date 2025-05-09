@@ -22,12 +22,21 @@ type Data = {
   value: number
 }
 
-const result = ref({} as Data)
+const result = ref([] as Data[])
 async function doSelect() {
-  result.value = await select(
+  // sql wrapper for `SELECT`
+  // returns either an array of expected data type
+  // or a string with an error occured (TODO will be changed to NeonError instance)
+  const res = await select<Data>(
     ['id', 'name', 'value'],
     'playing_with_neon',
-  ) as Data // this will be changed to generics in future nuxt-neon module versions
+  )
+  if (Array.isArray(res)) {
+    result.value = res as Data[]
+  }
+  else {
+    alert(res)
+  }
 }
 </script>
 
