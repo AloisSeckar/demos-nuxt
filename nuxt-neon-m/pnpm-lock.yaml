@@ -15,8 +15,8 @@ importers:
         specifier: 3.17.2
         version: 3.17.2(@parcel/watcher@2.5.1)(@types/node@22.13.1)(db0@0.3.2)(eslint@9.20.0(jiti@2.4.2))(ioredis@5.6.1)(magicast@0.3.5)(optionator@0.9.4)(rollup@4.40.1)(terser@5.38.1)(typescript@5.8.3)(vite@6.3.5(@types/node@22.13.1)(jiti@2.4.2)(terser@5.38.1)(yaml@2.7.0))(yaml@2.7.0)
       nuxt-neon:
-        specifier: 0.4.3
-        version: 0.4.3(magicast@0.3.5)
+        specifier: 0.5.0
+        version: 0.5.0(magicast@0.3.5)
       typescript:
         specifier: 5.8.3
         version: 5.8.3
@@ -3197,8 +3197,8 @@ packages:
   nth-check@2.1.1:
     resolution: {integrity: sha512-lqjrjmaOoAnWfMmBPL+XNnynZh2+swxiX3WUE0s4yEHI6m+AwrK2UZOimIRl3X/4QctVqS8AiZjFqyOGrMXb/w==}
 
-  nuxt-neon@0.4.3:
-    resolution: {integrity: sha512-EOeubeBd35rZ7bLTtHok6M/YKlHiyw4htlhXHXdK0sgb7+hwv6EiPQU05BLERqLTmKC1v7A7aX1jkGLck2te4A==}
+  nuxt-neon@0.5.0:
+    resolution: {integrity: sha512-44AQKVN5/MZhtvScvTuSv5SJzzTrC7ifU/75Qg3018wFJnSq737EENWs7SRf57AYqab0eaycZG4I9Ts0XWgRZg==}
 
   nuxt@3.17.2:
     resolution: {integrity: sha512-zPEGeGlHoMCFf+Y9I7iEZKhdfsRq0Zf2qE8wEEcjP9T6omzm776h9KVzoj3+qPL1v0rGzSyCFslFtxk+Ey6neA==}
@@ -8144,7 +8144,7 @@ snapshots:
     dependencies:
       boolbase: 1.0.0
 
-  nuxt-neon@0.4.3(magicast@0.3.5):
+  nuxt-neon@0.5.0(magicast@0.3.5):
     dependencies:
       '@neondatabase/serverless': 1.0.0
       '@nuxt/kit': 3.17.1(magicast@0.3.5)
