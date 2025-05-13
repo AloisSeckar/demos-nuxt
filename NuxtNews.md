@@ -10,7 +10,6 @@ Stay up-to-date with the following even more dedicated websites:
 - https://dejavue.fm/
 
 ## Upcomming events
-- [VueConf US 2025](https://vueconf.us/) - **13 - 15 May 2025**, Tampa [USA]
 - [MadVue 2025](https://madvue.es/) - **29 May 2025**, Madrid [ESP]
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
@@ -19,6 +18,10 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-05-13`** | [VueConf US 2025](https://vueconf.us/) - the annual US Vue conference took place **12 - 13 May 2025** in Tampa, USA |
+| **`2025-05-12`** | [Nuxt 3.17.3](https://github.com/nuxt/nuxt/releases/tag/v3.17.3) - third Nuxt **3.17** patch version delivering some more fixes |
+| **`2025-05-08`** | [Worker logs with history on NuxtHub Admin](https://hub.nuxt.com/changelog/workers-logs-history) - new feature landing in **NuxtHub** project |
+| **`2025-05-06`** | [Introducing hubAutoRAG()](https://hub.nuxt.com/changelog/hub-autorag) - new feature landing in **NuxtHub** project |
 | **`2025-05-05`** | [Nuxt 3.17.2](https://github.com/nuxt/nuxt/releases/tag/v3.17.2) - second Nuxt **3.17** patch version delivering couple of fixes |
 
 ## 2025 - April
