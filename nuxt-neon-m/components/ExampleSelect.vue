@@ -13,6 +13,9 @@
 </template>
 
 <script setup lang="ts">
+import { ref } from 'vue'
+import { useNeon } from '#imports'
+
 const { select } = useNeon()
 
 // custom type to specify awaited results
@@ -27,10 +30,10 @@ async function doSelect() {
   // sql wrapper for `SELECT`
   // returns either an array of expected data type
   // or a string with an error occured (TODO will be changed to NeonError instance)
-  const res = await select<Data>(
-    ['id', 'name', 'value'],
-    'playing_with_neon',
-  )
+  const res = await select<Data>({
+    columns: ['id', 'name', 'value'],
+    from: 'playing_with_neon',
+  })
   if (Array.isArray(res)) {
     result.value = res as Data[]
   }
