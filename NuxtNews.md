@@ -18,6 +18,8 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-05-20`** | [Nuxt 3.17.4](https://github.com/nuxt/nuxt/releases/tag/v3.17.4) - another Nuxt **3.17** patch version with minor fixes |
+| **`2025-05-19`** | [Building a Nuxt module from scratch](https://dev.to/jacobandrewsky/building-a-nuxt-module-from-scratch-4bd3) - how to start with **modules** in Nuxt |
 | **`2025-05-13`** | [VueConf US 2025](https://vueconf.us/) - the annual US Vue conference took place **12 - 13 May 2025** in Tampa, USA |
 | **`2025-05-12`** | [Nuxt 3.17.3](https://github.com/nuxt/nuxt/releases/tag/v3.17.3) - third Nuxt **3.17** patch version delivering some more fixes |
 | **`2025-05-08`** | [Worker logs with history on NuxtHub Admin](https://hub.nuxt.com/changelog/workers-logs-history) - new feature landing in **NuxtHub** project |
