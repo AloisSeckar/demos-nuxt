@@ -21,8 +21,6 @@
 </template>
 
 <script setup lang="ts">
-import { useNeon } from '#imports'
-
 const { neonStatus } = useNeon()
 const dbStatus = await neonStatus(false)
 </script>

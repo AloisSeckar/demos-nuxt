@@ -13,9 +13,6 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue'
-import { useNeon } from '#imports'
-
 const { select } = useNeon()
 
 // custom type to specify awaited results
