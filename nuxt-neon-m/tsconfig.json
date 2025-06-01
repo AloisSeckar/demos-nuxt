@@ -3,9 +3,5 @@
   "extends": "./.nuxt/tsconfig.json",
   "compilerOptions": {
     "noUncheckedIndexedAccess": true
-  },
-  "include": [
-    "**/*.ts",
-    "**/*.vue",
-  ]
+  }
 }
