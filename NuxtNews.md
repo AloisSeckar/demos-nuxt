@@ -10,14 +10,20 @@ Stay up-to-date with the following even more dedicated websites:
 - https://dejavue.fm/
 
 ## Upcomming events
-- [MadVue 2025](https://madvue.es/) - **29 May 2025**, Madrid [ESP]
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
+
+## 2025 - June
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-06-02`** | [Roadmap to v4](https://nuxt.com/blog/roadmap-v4) - after Nuxt **v4.0.0-alpha.1** is released, the dev team unveils the plans for upcoming weeks and months |
 
 ## 2025 - May
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-05-29`** | [MadVue 2025](https://madvue.es/) - the Vue conference in Spain took place on **29 May 2025** in Madrid, ESP |
 | **`2025-05-20`** | [Nuxt 3.17.4](https://github.com/nuxt/nuxt/releases/tag/v3.17.4) - another Nuxt **3.17** patch version with minor fixes |
 | **`2025-05-19`** | [Building a Nuxt module from scratch](https://dev.to/jacobandrewsky/building-a-nuxt-module-from-scratch-4bd3) - how to start with **modules** in Nuxt |
 | **`2025-05-13`** | [VueConf US 2025](https://vueconf.us/) - the annual US Vue conference took place **12 - 13 May 2025** in Tampa, USA |
