@@ -1,5 +1,5 @@
 <template>
-  <h3>SELECT EXAMPLE</h3>
+  <h2>SELECT EXAMPLE</h2>
   <div>
     <pre>const { select } = useNeon()</pre>
   </div>
@@ -13,29 +13,27 @@
 </template>
 
 <script setup lang="ts">
+import type { NeonDataType, NeonError } from '#build/types/neon'
+
 const { select } = useNeon()
 
-// custom type to specify awaited results
-type Data = {
+type ExampleData = {
   id: number
   name: string
   value: number
 }
 
-const result = ref([] as Data[])
+const result = ref([] as ExampleData[])
 async function doSelect() {
-  // sql wrapper for `SELECT`
-  // returns either an array of expected data type
-  // or a string with an error occured (TODO will be changed to NeonError instance)
-  const res = await select<Data>({
+  const res: NeonDataType<ExampleData> = await select<ExampleData>({
     columns: ['id', 'name', 'value'],
     from: 'playing_with_neon',
   })
   if (Array.isArray(res)) {
-    result.value = res as Data[]
+    result.value = res as ExampleData[]
   }
   else {
-    alert(res)
+    alert(formatNeonError(res as NeonError))
   }
 }
 </script>
