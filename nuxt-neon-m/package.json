@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "@nuxt/eslint": "1.4.1",
-    "nuxt": "3.17.4",
-    "nuxt-neon": "0.6.1",
+    "nuxt": "3.17.5",
+    "nuxt-neon": "0.6.2",
     "typescript": "5.8.3"
   }
 }
