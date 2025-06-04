@@ -17,6 +17,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-06-03`** | [Nuxt 3.17.5](https://github.com/nuxt/nuxt/releases/tag/v3.17.5) - another Nuxt **3.17** patch version with rather small portion of new fixes |
 | **`2025-06-02`** | [Roadmap to v4](https://nuxt.com/blog/roadmap-v4) - after Nuxt **v4.0.0-alpha.1** is released, the dev team unveils the plans for upcoming weeks and months |
 
 ## 2025 - May
