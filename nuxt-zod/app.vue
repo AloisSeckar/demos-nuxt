@@ -16,7 +16,7 @@
 <script setup lang="ts">
 // import using wildcard notation
 // this allows to use all Zod features in a predictable de-facto standard way
-import * as z from 'zod'
+import { z } from 'zod/v4'
 
 // define a Zod schema
 const LoginSchema = z.object({
