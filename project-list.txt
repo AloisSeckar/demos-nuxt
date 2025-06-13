@@ -29,3 +29,4 @@ nuxt-animation
 ..\nuxt-utils
 ..\nuxt-valibot
 ..\nuxt-vueform
+..\nuxt-zod

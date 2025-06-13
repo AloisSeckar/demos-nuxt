@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "name": "nuxt-simple",
+  "version": "1.0.0",
+  "scripts": {
+    "eslint": "eslint .",
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt preview"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "1.4.1",
+    "nuxt": "3.17.5",
+    "typescript": "5.8.3",
+    "zod": "3.25.64"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "unrs-resolver"
+    ]
+  }
+}
