@@ -56,6 +56,9 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 - [**nuxt-neon**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-neon) - integration with [Neon](https://neon.tech/) using native driver
 - [**nuxt-neon-m**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-neon-m) - integration with [Neon](https://neon.tech/) using [nuxt-neon](https://github.com/AloisSeckar/nuxt-neon/) module
 
+#### Schema validation
+- [**nuxt-valibot**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-valibot) - validating objects structure with [Valibot](https://valibot.dev/)
+
 #### Other
 - [**nuxt-use**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-use) - various demos of [VueUse](https://vueuse.org/) features in Nuxt
 - [**nuxt-animation**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-animation) - displaying simple animation using [VueUse](https://vueuse.org/)
