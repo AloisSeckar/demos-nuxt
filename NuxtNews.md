@@ -17,7 +17,13 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-06-20`** | [Vite’s Creator on a Unified JavaScript Toolchain and Vite+](https://thenewstack.io/vites-creator-on-a-unified-javascript-toolchain-and-vite/) - an interview with **Evan You** about the future of JavaScript |
+| **`2025-06-10`** | [Announcing Oxlint 1.0](https://voidzero.dev/posts/announcing-oxlint-1-stable) - **Oxc.rs** initiative is releasing first stable version of their own linter written in **Rust** - faster and better maybe? |
+| **`2025-06-10`** | [NuxtHub - Environments & Improved variable management](https://hub.nuxt.com/changelog/environments) - what is new in **NuxtHub** project |
+| **`2025-06-10`** | [H3 v2 beta](https://h3.dev/blog/v2-beta) - this might sound as not such a big deal itself, but it is a step forward towards the next iteration of Nuxt |
 | **`2025-06-09`** | [Optimized Fonts in Nuxt](https://dev.to/jacobandrewsky/optimized-fonts-in-nuxt-2a1n) - introducing **@nuxt/fonts** module for simple and performant work with web fonts  |
+| **`2025-06-08`** | [Powering multi-tenant applications with Nuxt](https://www.adamdehaven.com/articles/powering-multi-tenant-applications-with-nuxt) - detailed tutorial for serving more client apps from the same source |
+| **`2025-06-05`** | [Nuxt and why you should be using it](https://juststeveking.com/articles/nuxt-and-why-you-should-be-using-it) - a handful of tips how you can advocate for Nuxt on your next big project |
 | **`2025-06-03`** | [Nuxt 3.17.5](https://github.com/nuxt/nuxt/releases/tag/v3.17.5) - another Nuxt **3.17** patch version with rather small portion of new fixes |
 | **`2025-06-02`** | [Roadmap to v4](https://nuxt.com/blog/roadmap-v4) - after Nuxt **v4.0.0-alpha.1** is released, the dev team unveils the plans for upcoming weeks and months |
 
