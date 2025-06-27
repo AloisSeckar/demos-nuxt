@@ -17,7 +17,9 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-06-24`** | [Vite 7.0 is out!](https://vite.dev/blog/announcing-vite7.html) - newest major version of the build tool that fuels (not only) Vue world |
 | **`2025-06-20`** | [Vite’s Creator on a Unified JavaScript Toolchain and Vite+](https://thenewstack.io/vites-creator-on-a-unified-javascript-toolchain-and-vite/) - an interview with **Evan You** about the future of JavaScript |
+| **`2025-06-13`** | [Docus, the Comeback](https://content.nuxt.com/blog/docus-v3) - Nuxt Content team unveiled a new version of their simple documentation site template |
 | **`2025-06-10`** | [Announcing Oxlint 1.0](https://voidzero.dev/posts/announcing-oxlint-1-stable) - **Oxc.rs** initiative is releasing first stable version of their own linter written in **Rust** - faster and better maybe? |
 | **`2025-06-10`** | [NuxtHub - Environments & Improved variable management](https://hub.nuxt.com/changelog/environments) - what is new in **NuxtHub** project |
 | **`2025-06-10`** | [H3 v2 beta](https://h3.dev/blog/v2-beta) - this might sound as not such a big deal itself, but it is a step forward towards the next iteration of Nuxt |
