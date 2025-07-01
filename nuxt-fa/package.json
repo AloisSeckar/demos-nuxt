@@ -12,8 +12,8 @@
     "@fortawesome/fontawesome-svg-core": "6.7.2",
     "@fortawesome/free-solid-svg-icons": "6.7.2",
     "@fortawesome/vue-fontawesome": "3.0.8",
-    "@nuxt/eslint": "1.0.1",
-    "nuxt": "3.15.4",
+    "@nuxt/eslint": "1.4.1",
+    "nuxt": "3.17.5",
     "typescript": "latest"
   }
 }
