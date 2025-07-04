@@ -38,6 +38,7 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 - [**nuxt-vueform**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-vueform) - integration with [Vueform](https://vueform.com/)
 - [**nuxt-formkit**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-formkit) - integration with [Formkit](https://formkit.com/)
 - [**nuxt-dx**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-dx) - integration with [DevExtreme UI](https://js.devexpress.com/) (alternative to Formkit)
+- [**nuxt-charts**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-charts) - integration with [nuxt-charts](https://nuxtcharts.com/)
 
 #### Fonts
 - [**nuxt-fonts**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fonts) - incorporate ANY font sets easily with an official [Nuxt Fonts module](https://fonts.nuxt.com/)

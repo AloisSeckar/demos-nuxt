@@ -1,6 +1,7 @@
 nuxt-animation
 ..\nuxt-api
 ..\nuxt-bootstrap
+..\nuxt-charts
 ..\nuxt-content
 ..\nuxt-content3
 ..\nuxt-dx

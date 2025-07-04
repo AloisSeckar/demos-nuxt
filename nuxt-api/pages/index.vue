@@ -2,7 +2,7 @@
   <div>
     <h1>Nuxt API</h1>
     <button @click="handle">
-      Make API call
+        Make API call
     </button>
     <br>
     <div>{{ apiResponse }}</div>
