@@ -13,10 +13,18 @@ Stay up-to-date with the following even more dedicated websites:
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
 
+## 2025 - July
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-07-01`** | [Vue Language Tools v3](https://github.com/vuejs/language-tools/releases/tag/v3.0.0) - new major version 3 of official VSCode extension for Vue.js was released |
+| **`2025-07-01`** | [Nuxt 3.17.6](https://github.com/nuxt/nuxt/releases/tag/v3.17.6) - another Nuxt **3.17** patch version with a number new fixes |
+
 ## 2025 - June
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-06-25`** | [Nuxt UI 3.2](https://github.com/nuxt/ui/releases/tag/v3.2.0) - new minor release of **Nuxt UI** library module with 2 new components and various other features and fixes |
 | **`2025-06-24`** | [Vite 7.0 is out!](https://vite.dev/blog/announcing-vite7.html) - newest major version of the build tool that fuels (not only) Vue world |
 | **`2025-06-20`** | [Vite’s Creator on a Unified JavaScript Toolchain and Vite+](https://thenewstack.io/vites-creator-on-a-unified-javascript-toolchain-and-vite/) - an interview with **Evan You** about the future of JavaScript |
 | **`2025-06-13`** | [Docus, the Comeback](https://content.nuxt.com/blog/docus-v3) - Nuxt Content team unveiled a new version of their simple documentation site template |
