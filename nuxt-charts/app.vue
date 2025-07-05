@@ -5,7 +5,7 @@
       Using <a href="https://nuxtcharts.com/">nuxt-charts</a> in <a href="https://nuxt.com/">Nuxt</a> project
     </div>
     <div>
-      <DemoLineChart />
+      <NuxtPage />
     </div>
   </div>
 </template>
