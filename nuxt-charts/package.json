@@ -15,6 +15,9 @@
     "typescript": "5.8.3"
   },
   "pnpm": {
+    "overrides": {
+      "nuxt-charts": "0.1.11"
+    },
     "onlyBuiltDependencies": [
       "@parcel/watcher",
       "esbuild",
