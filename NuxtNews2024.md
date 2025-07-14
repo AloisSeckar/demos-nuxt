@@ -1,5 +1,5 @@
-# VUE & NUXT NEWS 2024
-What was the [Nuxt](https://nuxt.com/) and [Vue.js](https://vuejs.org/) community up to in 2024?
+# NUXT NEWS 2024
+What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) community up to in 2024?
 
 ## 2024 - December
 
