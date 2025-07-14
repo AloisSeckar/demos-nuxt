@@ -17,6 +17,9 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-07-13`** | [Nuxt 3.17.7](https://github.com/nuxt/nuxt/releases/tag/v3.17.7) - another Nuxt **3.17** patch version with 10 fixes and a couple of docs updates |
+| **`2025-07-12`** | [Vue v3.6.0-alpha.1](https://github.com/vuejs/core/releases/tag/v3.6.0-alpha.1) - the first alpha version of upcomming **Vue 3.6** was released - the most interesting change is the (still experimental) support for **Vapor** mode |
+| **`2025-07-12`** | [VueConf CN 2025](https://vueconf.cn/) - the Vue conference in China took place on **12 July 2025** in Shenzen, CHN |
 | **`2025-07-08`** | [The future of Nuxt](https://github.com/nuxt/nuxt/discussions/32559) - personal statement of **Daniel Roe**, leader of the Nuxt dev team, about the recent **Vercel** acquisition |
 | **`2025-07-08`** | [NuxtLabs joins Vercel](https://vercel.com/blog/nuxtlabs-joins-vercel) - the framework gets backed by **Vercel** and 4 core members of Nuxt team (Daniel Roe, Sebastian Chopin, Anthony Fu and Pooya Parsa) become their employees |
 | **`2025-07-08`** | [Nuxt v4.0.0-rc.0](https://github.com/nuxt/nuxt/releases/tag/v4.0.0-rc.0) - Nuxt version 4 is getting really close |
