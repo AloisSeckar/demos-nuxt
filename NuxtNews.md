@@ -24,6 +24,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2025-07-08`** | [NuxtLabs joins Vercel](https://vercel.com/blog/nuxtlabs-joins-vercel) - the framework gets backed by **Vercel** and 4 core members of Nuxt team (Daniel Roe, Sebastian Chopin, Anthony Fu and Pooya Parsa) become their employees |
 | **`2025-07-08`** | [Nuxt v4.0.0-rc.0](https://github.com/nuxt/nuxt/releases/tag/v4.0.0-rc.0) - Nuxt version 4 is getting really close |
 | **`2025-07-07`** | [Error Handling in Nuxt](https://dev.to/jacobandrewsky/error-handling-in-nuxt-2dol) - a recap of features that can be used to deal with errors |
+| **`2025-07-01`** | [Building a PDF Viewer in Nuxt](https://blog.vue-pdf-viewer.dev/building-a-pdf-viewer-in-nuxt-with-pdfjs-vue-pdf-embed-vue-pdf-and-vue-pdf-viewer) - comparsion of four possible ways how to do that with pros and cons for each |
 | **`2025-07-01`** | [Vue Language Tools v3](https://github.com/vuejs/language-tools/releases/tag/v3.0.0) - new major version 3 of official VSCode extension for Vue.js was released |
 | **`2025-07-01`** | [Nuxt 3.17.6](https://github.com/nuxt/nuxt/releases/tag/v3.17.6) - another Nuxt **3.17** patch version with a number new fixes |
 
