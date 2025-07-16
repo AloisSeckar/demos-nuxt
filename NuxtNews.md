@@ -17,6 +17,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-07-15`** | [Announcing Nuxt 4.0](https://nuxt.com/blog/v4) - long anticipaded major **Nuxt version 4** was released |
 | **`2025-07-13`** | [Nuxt 3.17.7](https://github.com/nuxt/nuxt/releases/tag/v3.17.7) - another Nuxt **3.17** patch version with 10 fixes and a couple of docs updates |
 | **`2025-07-12`** | [Vue v3.6.0-alpha.1](https://github.com/vuejs/core/releases/tag/v3.6.0-alpha.1) - the first alpha version of upcomming **Vue 3.6** was released - the most interesting change is the (still experimental) support for **Vapor** mode |
 | **`2025-07-12`** | [VueConf CN 2025](https://vueconf.cn/) - the Vue conference in China took place on **12 July 2025** in Shenzen, CHN |
