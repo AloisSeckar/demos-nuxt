@@ -1,7 +1,10 @@
-## Nuxt Content Demo
+# FIRST
 This is rendered from `.md` source file
-### Sub-header H3
+## Subheader H2
 You can have **bold text**, _italic text_ or [link](www.google.com)
-#### Sub-header H4
-- list item 1
-- list item 2
+### Subheader H3
+- item 1
+- item 2
+### Subheader H3
+1. item 3
+2. item 4

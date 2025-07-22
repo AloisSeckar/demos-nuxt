@@ -45,7 +45,7 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 - [**nuxt-fonts-g**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fonts-g) - incorporate Google font sets easily with [Nuxt Google Fonts module](https://google-fonts.nuxtjs.org/)
 
 #### Content
-- [**nuxt-content v3**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content3) - creating content pages easily with [Nuxt Content module](https://content.nuxtjs.org/)
+- [**nuxt-content v3**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content3) - creating content pages easily with [Nuxt Content module](https://content.nuxt.com/)
 - [**nuxt-content**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content) - legacy version showing the setup for v2
 
 #### Images
