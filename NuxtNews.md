@@ -17,9 +17,12 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
-| **`2025-07-21`** | [Nuxt v4.0.1](https://github.com/nuxt/nuxt/releases/tag/v4.0.1) - first small patch release for **Nuxt 4** |
+| **`2025-07-29`** | [Nuxt 4.0.2](https://github.com/nuxt/nuxt/releases/tag/v4.0.2) - scheduled patch release for **Nuxt 4** |
+| **`2025-07-29`** | [Nuxt 3.18.0](https://github.com/nuxt/nuxt/releases/tag/v3.18.0) - Nuxt **v3** will continue getting fixes and backports of new features for next half a year |
+| **`2025-07-21`** | [Nuxt 4.0.1](https://github.com/nuxt/nuxt/releases/tag/v4.0.1) - first small patch release for **Nuxt 4** |
 | **`2025-07-15`** | [Nuxt 4 support + new @netlify/nuxt module for local dev](https://www.netlify.com/changelog/nuxt-4-support-new-netlify-nuxt-module-for-local-dev/) - **Netlify** is ready for the new Nuxt |
 | **`2025-07-15`** | [Announcing Nuxt 4.0](https://nuxt.com/blog/v4) - long anticipaded major **Nuxt version 4** was released |
+| **`2025-07-13`** | [Nuxt × Vercel: A Reflection on Belief and Trust](https://maas.engineering/posts/reflections-on-nuxt) - thoughts about Nuxt/Vercel co-operation from a library author's personal perspective |
 | **`2025-07-13`** | [Nuxt 3.17.7](https://github.com/nuxt/nuxt/releases/tag/v3.17.7) - another Nuxt **3.17** patch version with 10 fixes and a couple of docs updates |
 | **`2025-07-12`** | [Vue v3.6.0-alpha.1](https://github.com/vuejs/core/releases/tag/v3.6.0-alpha.1) - the first alpha version of upcomming **Vue 3.6** was released - the most interesting change is the (still experimental) support for **Vapor** mode |
 | **`2025-07-12`** | [VueConf CN 2025](https://vueconf.cn/) - the Vue conference in China took place on **12 July 2025** in Shenzen, CHN |
