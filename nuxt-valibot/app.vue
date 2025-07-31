@@ -1,14 +1,14 @@
 <template>
   <div>
     <h1>nuxt-valibot</h1>
-    <div>
+    <div style="margin-bottom: 1rem;">
       This demo shows <a href="https://valibot.dev">Valibot</a> in <a href="https://nuxt.com">Nuxt</a>.
     </div>
-    <div>
+    <div style="margin-bottom: 1rem;">
       Valid object: {{ validObject }}
     </div>
-    <div>
-      Invalid object: {{ invalidObject }}
+    <div style="margin-bottom: 1rem;">
+      Safely parsed object: {{ safeObject }}
     </div>
   </div>
 </template>
@@ -36,6 +36,14 @@ try {
   invalidObject = v.parse(LoginSchema, { email: "jane.doe@example.com", password: 12345 });
 } catch (error) {
   // ValiError: Invalid type: Expected string but received 12345
-  console.log((error as Error).message);
+  console.error((error as Error).message);
+}
+
+// alternative safe parsing which avoids throwing an error
+// v.SafeParseResult<typeof LoginSchema>
+const safeObject = v.safeParse(LoginSchema, { email: "jane.doe@example.com", password: 12345 });
+if (!safeObject.success) {
+  // human-readable error info via "summarize"
+  console.warn(v.summarize(safeObject.issues));
 }
 </script>

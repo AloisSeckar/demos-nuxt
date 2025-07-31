@@ -1,16 +1,16 @@
 <template>
   <div>
     <h1>nuxt-zod</h1>
-    <div>
+    <div style="margin-bottom: 1rem;">
       This demo shows <a href="https://zod.dev">Zod</a> in <a href="https://nuxt.com">Nuxt</a>.
     </div>
-    <div>
+    <div style="margin-bottom: 1rem;">
       Valid object: {{ validObject }}
     </div>
-    <div>
-      Invalid object: {{ invalidObject }}
+    <div style="margin-bottom: 1rem;">
+      Safely parsed object: {{ safeObject }}
     </div>
-  </div>
+  </div>  
 </template>
 
 <script setup lang="ts">
@@ -36,6 +36,14 @@ try {
   invalidObject = LoginSchema.parse({ email: "jane.doe@example.com", password: 12345 });
 } catch (error) {
   // ZodError: Expected string, received number
-  console.log((error as Error).message);
+  console.error((error as Error).message);
+}
+
+// alternative safe parsing which avoids throwing an error
+// v.SafeParseResult<typeof LoginSchema>
+const safeObject = LoginSchema.safeParse({ email: "jane.doe@example.com", password: 12345 });
+if (!safeObject.success) {
+  // human-readable error info via "prettifyError"
+  console.warn(z.prettifyError(safeObject.error));
 }
 </script>
