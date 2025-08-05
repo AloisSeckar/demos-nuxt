@@ -8,6 +8,7 @@ Stay up-to-date with the following even more dedicated websites:
 - https://masteringnuxt.com/blog/
 - https://michaelnthiessen.com/
 - https://dejavue.fm/
+- https://voidzero.dev/blog
 
 ## Upcomming events
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
