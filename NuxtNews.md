@@ -28,6 +28,7 @@ Stay up-to-date with the following even more dedicated websites:
 | --- | :--  |
 | **`2025-07-29`** | [Nuxt 4.0.2](https://github.com/nuxt/nuxt/releases/tag/v4.0.2) - scheduled patch release for **Nuxt 4** |
 | **`2025-07-29`** | [Nuxt 3.18](https://nuxt.com/blog/v3-18) - Nuxt **v3** will continue getting fixes and backports of new features for next half a year |
+| **`2025-07-24`** | [Nuxt UI 3.3](https://github.com/nuxt/ui/releases/tag/v3.2.3) - new minor release of **Nuxt UI** library module with FileUpload component, global defaults and number of other improvements |
 | **`2025-07-21`** | [Nuxt 4.0.1](https://github.com/nuxt/nuxt/releases/tag/v4.0.1) - first small patch release for **Nuxt 4** |
 | **`2025-07-15`** | [Nuxt 4 support + new @netlify/nuxt module for local dev](https://www.netlify.com/changelog/nuxt-4-support-new-netlify-nuxt-module-for-local-dev/) - **Netlify** is ready for the new Nuxt |
 | **`2025-07-15`** | [Announcing Nuxt 4.0](https://nuxt.com/blog/v4) - long anticipaded major **Nuxt version 4** was released |
