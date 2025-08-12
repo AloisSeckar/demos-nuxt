@@ -18,6 +18,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-08-11`** | [Best practices for Accessibility in Vue / Nuxt](https://dev.to/jacobandrewsky/best-practices-for-accessibility-in-vue-nuxt-1cga) - useful checklist regarding one of the most overlooked aspect of web development |
 | **`2025-08-05`** | [What’s New in ViteLand: July 2025 Recap](https://voidzero.dev/posts/whats-new-jul-2025) - summary of the latest ecosystem development from VoidZero staff |
 | **`2025-08-05`** | [Nuxt 4.0.3](https://github.com/nuxt/nuxt/releases/tag/v4.0.3) - scheduled patch release for **Nuxt 4** |
 | **`2025-08-05`** | [Nuxt 3.18.1](https://github.com/nuxt/nuxt/releases/tag/v3.18.1) - scheduled patch release for **Nuxt 3** |
@@ -28,6 +29,7 @@ Stay up-to-date with the following even more dedicated websites:
 | --- | :--  |
 | **`2025-07-29`** | [Nuxt 4.0.2](https://github.com/nuxt/nuxt/releases/tag/v4.0.2) - scheduled patch release for **Nuxt 4** |
 | **`2025-07-29`** | [Nuxt 3.18](https://nuxt.com/blog/v3-18) - Nuxt **v3** will continue getting fixes and backports of new features for next half a year |
+| **`2025-07-25`** | [Docus v4](https://github.com/nuxtlabs/docus/releases/tag/v4.0.0) - while v3 version was released only in June, Nuxt 4 compatibility is there and this means new version of the **Docus** tool |
 | **`2025-07-24`** | [Nuxt UI 3.3](https://github.com/nuxt/ui/releases/tag/v3.2.3) - new minor release of **Nuxt UI** library module with FileUpload component, global defaults and number of other improvements |
 | **`2025-07-21`** | [Nuxt 4.0.1](https://github.com/nuxt/nuxt/releases/tag/v4.0.1) - first small patch release for **Nuxt 4** |
 | **`2025-07-15`** | [Nuxt 4 support + new @netlify/nuxt module for local dev](https://www.netlify.com/changelog/nuxt-4-support-new-netlify-nuxt-module-for-local-dev/) - **Netlify** is ready for the new Nuxt |
