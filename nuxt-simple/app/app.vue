@@ -9,7 +9,7 @@
       for more details and my Nuxt tutorial and examples.
     </div>
     <div>
-      Start editing <strong>app.vue</strong> file to get started with your Nuxt application
+      Start editing <strong>/app/app.vue</strong> file to get started with your Nuxt application
     </div>
   </div>
 </template>
