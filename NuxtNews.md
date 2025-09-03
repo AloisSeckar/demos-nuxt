@@ -14,12 +14,21 @@ Stay up-to-date with the following even more dedicated websites:
 - [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
 
+## 2025 - September
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-09-02`** | [Nuxt 4.1.0](https://github.com/nuxt/nuxt/releases/tag/v4.1.0) - new minor release for **Nuxt 4** with some new interesting features |
+| **`2025-09-02`** | [Nuxt 3.19.0](https://github.com/nuxt/nuxt/releases/tag/v3.19.0) - new minor release for **Nuxt 3** for backporting v4 features |
+| **`2025-09-01`** | [What’s New in ViteLand: August 2025 Recap](https://voidzero.dev/posts/whats-new-aug-2025) - another month, another news about progress from **VoidZero** staff |
+
 ## 2025 - August
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-08-25`** | [Optimizing Nuxt Apps for Core Web Vitals](https://dev.to/jacobandrewsky/optimizing-nuxt-apps-for-core-web-vitals-106j) - useful checklist for better performance of Nuxt apps |
 | **`2025-08-11`** | [Best practices for Accessibility in Vue / Nuxt](https://dev.to/jacobandrewsky/best-practices-for-accessibility-in-vue-nuxt-1cga) - useful checklist regarding one of the most overlooked aspect of web development |
-| **`2025-08-05`** | [What’s New in ViteLand: July 2025 Recap](https://voidzero.dev/posts/whats-new-jul-2025) - summary of the latest ecosystem development from VoidZero staff |
+| **`2025-08-05`** | [What’s New in ViteLand: July 2025 Recap](https://voidzero.dev/posts/whats-new-jul-2025) - summary of the latest ecosystem development from **VoidZero** staff |
 | **`2025-08-05`** | [Nuxt 4.0.3](https://github.com/nuxt/nuxt/releases/tag/v4.0.3) - scheduled patch release for **Nuxt 4** |
 | **`2025-08-05`** | [Nuxt 3.18.1](https://github.com/nuxt/nuxt/releases/tag/v3.18.1) - scheduled patch release for **Nuxt 3** |
 
