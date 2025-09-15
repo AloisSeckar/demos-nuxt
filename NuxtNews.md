@@ -18,6 +18,8 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-09-12`** | [Nuxt 4.1.2](https://github.com/nuxt/nuxt/releases/tag/v4.1.2) - new patch release for **Nuxt 4** with couple of fixes |
+| **`2025-09-12`** | [Nuxt 3.19.2](https://github.com/nuxt/nuxt/releases/tag/v3.19.2) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2025-09-05`** | [Nuxt 4.1.1](https://github.com/nuxt/nuxt/releases/tag/v4.1.1) - new patch release for **Nuxt 4** with couple of fixes |
 | **`2025-09-05`** | [Nuxt 3.19.1](https://github.com/nuxt/nuxt/releases/tag/v3.19.1) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2025-09-02`** | [Incredible Vitest Defaults](https://www.epicweb.dev/incredible-vitest-defaults) - **Vitest** is a great choice for testing (not only) Nuxt apps and here are few reasons why |
