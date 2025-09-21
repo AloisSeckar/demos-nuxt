@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     'nuxt-neon',
   ],
 
-  compatibilityDate: '2025-05-05',
+  compatibilityDate: '2025-09-21',
 
   eslint: {
     config: {
