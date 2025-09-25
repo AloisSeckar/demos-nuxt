@@ -11,13 +11,17 @@ Stay up-to-date with the following even more dedicated websites:
 - https://voidzero.dev/blog
 
 ## Upcomming events
-- [PragVue 2025](https://pragvue.com/) - **23 September 2025**, Prague [CZE]
+- [ViteConf 2025](https://viteconf.amsterdam/) - **09 - 10 October 2025**, Amsterdam [NED]
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
 
 ## 2025 - September
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-09-23`** | [PragVue 2025](https://pragvue.com/2025) - the Vue conference in Czechia took place on **23 September 2025** in Prague, CZE |
+| **`2025-09-22`** | [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) - Nuxt's most dedicated UI library goes fully open source in its new major version |
+| **`2025-09-15`** | [Nuxt Scripts: Load And Optimize Third Party Code](https://www.debugbear.com/blog/nuxt-scripts) - a review of this very useful module for maintaining external scripts in Nuxt apps |
+| **`2025-09-12`** | [State Hydration & Persisted State in Nuxt with Pinia](https://dev.to/jacobandrewsky/state-hydration-persisted-state-in-nuxt-with-pinia-1d1e) - dealing with server/client data consistency in SSR |
 | **`2025-09-12`** | [Nuxt 4.1.2](https://github.com/nuxt/nuxt/releases/tag/v4.1.2) - new patch release for **Nuxt 4** with couple of fixes |
 | **`2025-09-12`** | [Nuxt 3.19.2](https://github.com/nuxt/nuxt/releases/tag/v3.19.2) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2025-09-05`** | [Nuxt 4.1.1](https://github.com/nuxt/nuxt/releases/tag/v4.1.1) - new patch release for **Nuxt 4** with couple of fixes |
