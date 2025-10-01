@@ -4,6 +4,7 @@ export const usePiniaOptionsStore = defineStore({
   // internal ID of the store
   id: 'pinia-options-store',
   // default values
+  // has native `$reset` function to revert into this
   state: () => {
     return {
       demoBoolean: false,
