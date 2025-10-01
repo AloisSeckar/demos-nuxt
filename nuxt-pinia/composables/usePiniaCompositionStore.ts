@@ -3,6 +3,7 @@ type PiniaData = string | number | boolean
 export const usePiniaCompositionStore = defineStore('pinia-composition-store', () => {
   // variables with default values
   // (state in OptionsAPI store)
+  // unlike in options stores, you need to implement your own reset function
   const demoBoolean = ref(false)
   const demoNumber = ref(-1)
   const demoString = ref('')
