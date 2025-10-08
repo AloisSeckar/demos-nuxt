@@ -14,6 +14,13 @@ Stay up-to-date with the following even more dedicated websites:
 - [ViteConf 2025](https://viteconf.amsterdam/) - **09 - 10 October 2025**, Amsterdam [NED]
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
 
+## 2025 - October
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-10-07`** | [Nuxt 4.1.3](https://github.com/nuxt/nuxt/releases/tag/v4.1.3) - new patch release for **Nuxt 4** with couple of fixes |
+| **`2025-10-07`** | [Nuxt 3.19.3](https://github.com/nuxt/nuxt/releases/tag/v3.19.3) - new patch release for **Nuxt 3** for backporting v4 fixes |
+
 ## 2025 - September
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
