@@ -11,13 +11,16 @@ Stay up-to-date with the following even more dedicated websites:
 - https://voidzero.dev/blog
 
 ## Upcomming events
-- [ViteConf 2025](https://viteconf.amsterdam/) - **09 - 10 October 2025**, Amsterdam [NED]
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
+- [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]
 
 ## 2025 - October
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-10-13`** | [Announcing Vite+](https://voidzero.dev/posts/announcing-vite-plus) - **void(0)** officialy revealed the concept of new unified tooling for JS Development based on **Vite** and **Oxc** toolchain |
+| **`2025-10-10`** | [ViteConf 2025](https://viteconf.amsterdam/) - first Vite-focused conference took place on **9th and 10th September 2025** in Amsterdam, NED |
+| **`2025-10-07`** | [Passkeys in Nuxt – The BEST Login UX](https://vueschool.io/articles/vuejs-tutorials/passkeys-in-nuxt-the-best-login-ux/) - practical guide for creting modern and secure login to your website |
 | **`2025-10-07`** | [Nuxt 4.1.3](https://github.com/nuxt/nuxt/releases/tag/v4.1.3) - new patch release for **Nuxt 4** with couple of fixes |
 | **`2025-10-07`** | [Nuxt 3.19.3](https://github.com/nuxt/nuxt/releases/tag/v3.19.3) - new patch release for **Nuxt 3** for backporting v4 fixes |
 
