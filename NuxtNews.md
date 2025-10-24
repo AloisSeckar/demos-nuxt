@@ -18,11 +18,15 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-10-22`** | [Announcing Vitest 4.0](https://voidzero.dev/posts/announcing-vitest-4) - the modern test runner gets a new major version - browser mode, visual regression testing and more |
+| **`2025-10-20`** | [Announcing Oxlint JavaScript Plugin Support](https://voidzero.dev/posts/announcing-oxlint-js-plugins) - the rising contender of **ESLint** is having better interoperability with JavaScript now |
 | **`2025-10-13`** | [Announcing Vite+](https://voidzero.dev/posts/announcing-vite-plus) - **void(0)** officialy revealed the concept of new unified tooling for JS Development based on **Vite** and **Oxc** toolchain |
 | **`2025-10-10`** | [ViteConf 2025](https://viteconf.amsterdam/) - first Vite-focused conference took place on **9th and 10th September 2025** in Amsterdam, NED |
+| **`2025-10-08`** | [Serverless functions in Nuxt: backend power without a backend](https://certificates.dev/blog/serverless-functions-in-nuxt-backend-power-without-a-backend) - quick reminder that you can have serverless in Nuxt easily |
 | **`2025-10-07`** | [Passkeys in Nuxt – The BEST Login UX](https://vueschool.io/articles/vuejs-tutorials/passkeys-in-nuxt-the-best-login-ux/) - practical guide for creting modern and secure login to your website |
 | **`2025-10-07`** | [Nuxt 4.1.3](https://github.com/nuxt/nuxt/releases/tag/v4.1.3) - new patch release for **Nuxt 4** with couple of fixes |
 | **`2025-10-07`** | [Nuxt 3.19.3](https://github.com/nuxt/nuxt/releases/tag/v3.19.3) - new patch release for **Nuxt 3** for backporting v4 fixes |
+| **`2025-10-06`** | [Nuxt vs Next.js: A Practical Comparison](https://www.debugbear.com/blog/nuxt-vs-next) - why you should (or shouldn't?) choose **Nuxt** over **Next.js** |
 
 ## 2025 - September
 
