@@ -18,6 +18,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-10-25`** | [Nuxt 4.2.0](https://github.com/nuxt/nuxt/releases/tag/v4.1.2) - new minor release of **Nuxt 4** - changes include option to abort data fetching request or enhanced error info in dev mode |
 | **`2025-10-22`** | [Announcing Vitest 4.0](https://voidzero.dev/posts/announcing-vitest-4) - the modern test runner gets a new major version - browser mode, visual regression testing and more |
 | **`2025-10-20`** | [Announcing Oxlint JavaScript Plugin Support](https://voidzero.dev/posts/announcing-oxlint-js-plugins) - the rising contender of **ESLint** is having better interoperability with JavaScript now |
 | **`2025-10-13`** | [Announcing Vite+](https://voidzero.dev/posts/announcing-vite-plus) - **void(0)** officialy revealed the concept of new unified tooling for JS Development based on **Vite** and **Oxc** toolchain |
