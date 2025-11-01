@@ -9,11 +9,11 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.0.1",
+    "@nuxt/eslint": "1.10.0",
     "@types/bootstrap": "5.2.10",
-    "bootstrap": "5.3.3",
-    "nuxt": "3.15.4",
-    "sass": "1.84.0",
+    "bootstrap": "5.3.8",
+    "nuxt": "4.2.0",
+    "sass": "1.93.3",
     "typescript": "latest"
   }
 }
