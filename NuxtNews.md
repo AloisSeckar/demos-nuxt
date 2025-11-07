@@ -12,7 +12,18 @@ Stay up-to-date with the following even more dedicated websites:
 
 ## Upcomming events
 - [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
+- [Vueconf.US 2026](https://vueconf.us/) - **19-21 May 2026**, Atlanta [USA]
 - [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]
+
+## 2025 - November
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2025-11-07`** | [Nuxt 4.2.1](https://github.com/nuxt/nuxt/releases/tag/v4.2.1) - new patch release for **Nuxt 4** with couple of fixes |
+| **`2025-11-07`** | [Nuxt 3.20.1](https://github.com/nuxt/nuxt/releases/tag/v3.20.1) - new patch release for **Nuxt 3** for backporting v4 fixes |
+| **`2025-11-05`** | [Nuxt Image v2](https://nuxt.com/blog/nuxt-image-v2) - new major version of Nuxt module for displaying optimized images |
+| **`2025-11-04`** | [Nuxt Studio Alpha Release](https://content.nuxt.com/blog/studio-module-alpha) - formerly paid solution for online editing of **Nuxt Content** sites is getting open-sourced |
+| **`2025-11-02`** | [Building a Modular Monolith with Nuxt Layers](https://alexop.dev/posts/nuxt-layers-modular-monolith/) - practical guide for structuring bigger Nuxt projects |
 
 ## 2025 - October
 
