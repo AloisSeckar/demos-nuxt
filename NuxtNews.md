@@ -11,7 +11,6 @@ Stay up-to-date with the following even more dedicated websites:
 - https://voidzero.dev/blog
 
 ## Upcomming events
-- [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - **25 October 2025**, Tokyo [JPN]
 - [Vueconf.US 2026](https://vueconf.us/) - **19-21 May 2026**, Atlanta [USA]
 - [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]
 
@@ -30,6 +29,7 @@ Stay up-to-date with the following even more dedicated websites:
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2025-10-28`** | [Nuxt 3.20.0](https://github.com/nuxt/nuxt/releases/tag/v3.20.0) - new minor release of **Nuxt 3** - backporting compatible features and fixes
+| **`2025-10-25`** | [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - the Vue conference in Japan took place on **25th October 2025** in Tokyo, JPN |
 | **`2025-10-25`** | [Nuxt 4.2.0](https://nuxt.com/blog/v4-2) - new minor release of **Nuxt 4** - changes include option to abort data fetching request or enhanced error info in dev mode |
 | **`2025-10-22`** | [Announcing Vitest 4.0](https://voidzero.dev/posts/announcing-vitest-4) - the modern test runner gets a new major version - browser mode, visual regression testing and more |
 | **`2025-10-20`** | [Announcing Oxlint JavaScript Plugin Support](https://voidzero.dev/posts/announcing-oxlint-js-plugins) - the rising contender of **ESLint** is having better interoperability with JavaScript now |
