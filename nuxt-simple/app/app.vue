@@ -2,7 +2,7 @@
   <div>
     <h1>nuxt-simple</h1>
     <div>
-      Working starter for <a href="https://nuxt.com/">Nuxt</a> project
+      Working starter for <a href="https://nuxt.com/">Nuxt</a> <b>v4</b> project
     </div>
     <div>
       See <a href="https://github.com/AloisSeckar/demos-nuxt">project home</a>
