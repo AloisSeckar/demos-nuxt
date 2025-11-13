@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="margin-bottom: 5px;">
     {{ textToDisplay }}
   </div>
 </template>

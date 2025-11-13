@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>nuxt-pages</h1>
-    <div>Example of using pages and components in <a href="https://nuxt.com/">Nuxt</a> framework</div>
+    <div>An example of using pages and components in <a href="https://nuxt.com/">Nuxt</a> framework</div>
     <NuxtPage />
     <TheMenu />
     <div>
