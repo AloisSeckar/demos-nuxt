@@ -25,4 +25,4 @@ The only two really required files are:
 - `app.vue` with a simple `template` section
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-simple#nuxt-minimal
+- `dev.to`: [Nuxt Tutorial 1 - First Steps](https://dev.to/aloisseckar/nuxt-tutorial-1-first-steps-2jp5#nuxt-minimal)
