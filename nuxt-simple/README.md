@@ -20,4 +20,4 @@ You can also find this starter as a [standalone GitHub project](https://github.c
 Congratulations. You have working **Nuxt v4** app project enhanced with ESLint.
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-simple
+- `dev.to`: [Nuxt Tutorial 1 - First Steps](https://dev.to/aloisseckar/nuxt-tutorial-1-first-steps-2jp5#nuxt-simple)
