@@ -1,3 +1,4 @@
+// https://nuxt.com/docs/4.x/directory-structure/app/composables
 export function useCounter() {
   const counterData = reactive({
     count: 0,
@@ -13,6 +14,8 @@ export function useCounter() {
     counterData.count = 0
   }
 
+  // do not forget to return what you want to expose
+  // use object form to allow convenient destructuring
   return {
     counterData,
     getCount,

@@ -24,9 +24,5 @@
 </template>
 
 <script setup lang="ts">
-// because `generateSequence` is not a regular function, but a generator (function*),
-// we cannot benefit from auto-import here and we have to explicitly import it
-import { generateSequence } from '@/utils/utils'
-
 const generator = generateSequence()
 </script>
