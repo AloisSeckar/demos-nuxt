@@ -1,14 +1,12 @@
 /**
- *
  * http://localhost:3000/api/error
  *
  * This method demonstrates the behaviour of 'createError' method in Nuxt.
  * It just throws a error with random HTTP code 400-410.
  *
- * When then error code is 404 (Not found), Nuxt does nothing special.
- * When the code is anything else but 404, then stack trace is appended.
- * However, this ONLY works when app runs in DEV mode, for apparent security reasons.
- *
+ * Nuxt will cathch this error and display a special error page.
+ * Whenb app runs in DEV mode, it is also possible to display enhanced information.
+ * See https://nuxt.com/blog/v4-2#better-error-pages-in-development
  */
 
 export default defineEventHandler(() => {
