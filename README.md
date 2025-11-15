@@ -4,6 +4,8 @@
 
 This is a showcase of what I have learned on my journey with Nuxt so far. Each sub-project shows some Nuxt principles and functionality or an integration to an external tool. Feel free to explore them and use them as you'll see fit. Also don't hesitate to ask for more info or to correct me if you'd find something I messed up or should have been done better.
 
+**NOTE:** The project is currently in transition state. It was originally created for Nuxt 3. One by one, I am migrating the demos to the new Nuxt v4 project structure (with `/app/` directory), but many still remain in the older structure. I will try to finish the updates ASAP.
+
 ## Vue & Nuxt news
 See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig articles maintained since 11/2023.
 
@@ -67,6 +69,3 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig ar
 
 ### Testing
 - [**nuxt-test**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-text) - how to setup basic test scenarios using tools [recommended for Nuxt](https://nuxt.com/docs/getting-started/testing)
-
-### Full-stack
-- [**nuxt-stack**](https://github.com/AloisSeckar/nuxt-stack) - my ideal setup for starting new real-world Nuxt app (moved into standalone Git project for easier forking and cloning)
