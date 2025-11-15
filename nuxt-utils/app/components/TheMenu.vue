@@ -1,7 +1,7 @@
 <template>
   <div>
     <hr>
-    <NuxtLink to="/">
+    <NuxtLink to="/" :external="true">
       Index
     </NuxtLink>
     &#x2022;
