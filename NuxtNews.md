@@ -18,6 +18,8 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-11-11`** | [Unveiling new @nuxt/hints module](https://github.com/nuxt/hints/releases/tag/v1.0.0-alpha.1) - first alpha version of a new module for performance insights was released |
+| **`2025-11-08`** | [Data fetching in Nuxt](https://davestewart.co.uk/blog/nuxt-data-fetching/) - pretty useful summary of working with data fetching functions available in Nuxt |
 | **`2025-11-07`** | [Nuxt 4.2.1](https://github.com/nuxt/nuxt/releases/tag/v4.2.1) - new patch release for **Nuxt 4** with couple of fixes |
 | **`2025-11-07`** | [Nuxt 3.20.1](https://github.com/nuxt/nuxt/releases/tag/v3.20.1) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2025-11-05`** | [Nuxt Image v2](https://nuxt.com/blog/nuxt-image-v2) - new major version of Nuxt module for displaying optimized images |
