@@ -15,4 +15,4 @@ Hit "API call" button to see the dynamic response from server-side API provided 
 * **error** - `http://localhost:3000/api/error/` - returns random HTTP error 400 - 410
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-api
+- `dev.to`: [Nuxt Tutorial 4 - Server Side](https://dev.to/aloisseckar/nuxt-tutorial-4-server-side-2dal)
