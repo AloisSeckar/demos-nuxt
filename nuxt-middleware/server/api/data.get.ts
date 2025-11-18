@@ -1,1 +1,1 @@
-export default defineEventHandler((): string => 'Hello, Nuxt! @ ' + new Date().toISOString())
+export default defineEventHandler((): string => 'Hello from Nuxt Server! @ ' + new Date().toISOString())
