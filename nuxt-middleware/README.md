@@ -2,7 +2,7 @@
 This demo shows example of how middleware works in [Nuxt](https://nuxt.com/)
 
 ### About
-Nuxt offers middleware both for [client side](https://nuxt.com/docs/guide/directory-structure/middleware) and [server side](https://nuxt.com/docs/guide/directory-structure/server#server-middleware). Client side middlewares can be bound to certain components via `definePageMeta` or can run before each routing event thanks to `*.global.ts` filename. Server middlewares are being executed before each server API call.
+Nuxt offers middleware both for [client side](https://nuxt.com/docs/4.x/directory-structure/app/middleware) and [server side](https://nuxt.com/docs/4.x/directory-structure/server#server-middleware). Client side middlewares can be bound to certain components via `definePageMeta` or can run before each routing event thanks to `*.global.ts` filename. Server middlewares are being executed before each server API call.
 
 ### How to use
 1. `git checkout demos-nuxt project`
