@@ -14,4 +14,4 @@ Nuxt offers middleware both for [client side](https://nuxt.com/docs/4.x/director
 The behavior of each middleware is demonstrated by the log messages in the browser console (F12). Navigate through the app and interact with the UI to see what is happening when.
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-middleware
+- `dev.to`: [Nuxt Tutorial 5 -Middleware](https://dev.to/aloisseckar/nuxt-tutorial-5-middleware-3e5a)
