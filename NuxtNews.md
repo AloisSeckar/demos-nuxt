@@ -20,6 +20,7 @@ Stay up-to-date with the following even more dedicated websites:
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2025-11-24`** | [How to Implement Content Security Policy in Nuxt](https://dev.to/jacobandrewsky/how-to-implement-content-security-policy-in-nuxt-3jhl) - make your applications more secure by setting **CSP** rules |
+| **`2025-11-22`** | [How Moving from Plain Vue to Nuxt Simplified my Workflow](https://javascript.plainenglish.io/from-vue-to-nuxt-the-shift-that-changed-my-workflow-7801e6a68104) - three concrete reasons why to upgrade from plain Vue to Nuxt based on author's personal experience |
 | **`2025-11-13`** | [Building an MCP Server for Nuxt](https://nuxt.com/blog/building-nuxt-mcp) - up-to-date overview of Nuxt support for **MCP** integration |
 | **`2025-11-11`** | [Unveiling new @nuxt/hints module](https://github.com/nuxt/hints/releases/tag/v1.0.0-alpha.1) - first alpha version of a new module for performance insights was released |
 | **`2025-11-08`** | [Data fetching in Nuxt](https://davestewart.co.uk/blog/nuxt-data-fetching/) - pretty useful summary of working with data fetching functions available in Nuxt |
