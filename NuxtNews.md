@@ -28,6 +28,7 @@ Stay up-to-date with the following even more dedicated websites:
 | --- | :--  |
 | **`2025-11-24`** | [How to Implement Content Security Policy in Nuxt](https://dev.to/jacobandrewsky/how-to-implement-content-security-policy-in-nuxt-3jhl) - make your applications more secure by setting **CSP** rules |
 | **`2025-11-22`** | [How Moving from Plain Vue to Nuxt Simplified my Workflow](https://javascript.plainenglish.io/from-vue-to-nuxt-the-shift-that-changed-my-workflow-7801e6a68104) - three concrete reasons why to upgrade from plain Vue to Nuxt based on author's personal experience |
+| **`2025-11-18`** | [Nuxt UI 4.2](https://github.com/nuxt/ui/releases/tag/v4.2.0) - new minor release of **Nuxt UI** library module with new InputDate and InputTime components plus other improvements and fixes |
 | **`2025-11-13`** | [Building an MCP Server for Nuxt](https://nuxt.com/blog/building-nuxt-mcp) - up-to-date overview of Nuxt support for **MCP** integration |
 | **`2025-11-11`** | [Unveiling new @nuxt/hints module](https://github.com/nuxt/hints/releases/tag/v1.0.0-alpha.1) - first alpha version of a new module for performance insights was released |
 | **`2025-11-08`** | [Data fetching in Nuxt](https://davestewart.co.uk/blog/nuxt-data-fetching/) - pretty useful summary of working with data fetching functions available in Nuxt |
@@ -44,6 +45,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2025-10-28`** | [Nuxt 3.20.0](https://github.com/nuxt/nuxt/releases/tag/v3.20.0) - new minor release of **Nuxt 3** - backporting compatible features and fixes
 | **`2025-10-25`** | [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - the Vue conference in Japan took place on **25th October 2025** in Tokyo, JPN |
 | **`2025-10-25`** | [Nuxt 4.2.0](https://nuxt.com/blog/v4-2) - new minor release of **Nuxt 4** - changes include option to abort data fetching request or enhanced error info in dev mode |
+| **`2025-10-23`** | [Nuxt UI 4.1](https://github.com/nuxt/ui/releases/tag/v4.1.0) - new minor release of **Nuxt UI** library module with new Empty component, virtualization and other improvements and fixes |
 | **`2025-10-22`** | [Announcing Vitest 4.0](https://voidzero.dev/posts/announcing-vitest-4) - the modern test runner gets a new major version - browser mode, visual regression testing and more |
 | **`2025-10-20`** | [Announcing Oxlint JavaScript Plugin Support](https://voidzero.dev/posts/announcing-oxlint-js-plugins) - the rising contender of **ESLint** is having better interoperability with JavaScript now |
 | **`2025-10-13`** | [Announcing Vite+](https://voidzero.dev/posts/announcing-vite-plus) - **void(0)** officialy revealed the concept of new unified tooling for JS Development based on **Vite** and **Oxc** toolchain |
