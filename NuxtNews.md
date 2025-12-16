@@ -19,8 +19,11 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-12-16`** | [Build an AI Chatbot with Nuxt, Nuxt UI, and AI SDK](https://ui.nuxt.com/blog/how-to-build-an-ai-chat) - practical guide for your own AI assistant |
+| **`2025-12-10`** | [NuxtHub Multi-Vendor is now available](https://hub.nuxt.com/changelog/nuxthub-multi-vendor) - you can now deploy **Nuxt Hub** project to various hosting providers |
 | **`2025-12-09`** | [Nuxt 4.2.2](https://github.com/nuxt/nuxt/releases/tag/v4.2.2) - new patch release for **Nuxt 4** with couple of fixes |
 | **`2025-12-09`** | [Nuxt 3.20.2](https://github.com/nuxt/nuxt/releases/tag/v3.20.2) - new patch release for **Nuxt 3** for backporting v4 fixes |
+| **`2025-12-03`** | [Setting Up Your IDE for Nuxt UI: A Complete Guide](https://vueschool.io/articles/vuejs-tutorials/setting-up-your-ide-for-nuxt-ui-a-complete-guide/) - practical tips for developing (not only) with **Nuxt UI** |
 
 ## 2025 - November
 
