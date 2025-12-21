@@ -7,7 +7,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
   ],
 
-  compatibilityDate: '2025-02-08',
+  compatibilityDate: '2025-12-21',
 
   // this is required to make Open Props working in Nuxt
   // it is not possible to automatically evaluate CSS variables in Vue SFC <style> section

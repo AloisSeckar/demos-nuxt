@@ -1,0 +1,58 @@
+/* Tailwind CSS base styles */
+@import "tailwindcss";
+
+/* Custom modifications of the base theme */
+@theme {
+  /* adding new colors */
+  --color-coda-green: #38B2AC;
+  --color-coda-yellow: #E1B400;
+  --color-coda-purple: #B4AAFF;
+  /* setting fonts */
+  --font-header: 'Courier New';
+  --font-body: 'Open Sans';
+  --font-code: 'Courier New';
+}
+
+/* @apply directive - https://tailwindcss.com/docs/functions-and-directives#apply-directive */
+
+/* Tailwind CSS classes might be auto-applied to all respective elements like this. */
+/* However, I recommend NOT to use it like that, because this obsfucates code logic */
+/* and makes maintaing harder (even you should soon forgot styles are defined here) */
+
+/* For setting "body" tag attributes, it is better to use useHead() composable - @see `app.vue` */
+body {
+  @apply bg-slate-400;
+}
+
+/* 
+  NOTE: I have once created this in a good faith, but it backlashed. 
+  I am keeping it here as a BAD EXAMPLE that is NOT ABOUT TO BE FOLLOWED!
+
+  This is accidentally good example of not using @apply visely.
+  For current appearance of this demo, this definition suits pretty well. 
+  However, it is now pretty hard to make any changes, as ALL divs in the app
+  rely on this setting and all future divs will inherit it. 
+  
+  Imagine having to deal with this in larger codebase...
+
+  Read more at: 
+  https://dev.to/aloisseckar/i-was-using-tailwind-wrong-so-you-dont-have-to-4h7j
+*/
+div {
+    @apply mx-16 my-4 text-center text-white;
+}
+
+/* 
+  NOTE: This is BETTER example of using @apply directive.
+
+  Class `customized` available to use throughout the app as shorthands.
+  Although still discouraged by Tailwind CSS authors, this usage makes more sense, 
+  because the class name is visible and trackable in SFC templates.
+  
+  One advantage of defining re-usable class like this is that Tailwind CSS IntelliSense
+  VS code plugin can work with definitions here and give you hover-hints and auto-completion.
+*/
+
+.customized {
+  @apply p-2 border bg-green-200 border-green-700 text-xl text-sky-700 font-bold hover:bg-sky-400;
+}

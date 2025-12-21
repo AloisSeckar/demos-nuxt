@@ -9,4 +9,4 @@ This demo shows [Open Props](https://open-props.style/) CSS styles in [Nuxt](htt
 5. `localhost:3000`
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-gui#open-props
+https://master-coda.cz/article/nuxt-css#open-props
