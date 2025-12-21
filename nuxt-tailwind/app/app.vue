@@ -14,8 +14,14 @@
       <div class="customized">
         div element customized with Tailwind @apply
       </div>
+      <div
+        class="bg-green-400 margin-2 font-bold"
+        style="color: red; padding: 5px;"
+      >
+        combination of Tailwind classes and plain CSS
+      </div>
       <div class="plain-css">
-        you can also use plain CSS as you were used to
+        you can also just use plain CSS as you were used to
         <div>
           You can set custom colors by adding into `@theme` in /app/assets/css/tailwind.css:
           <ul>
