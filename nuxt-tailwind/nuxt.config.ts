@@ -1,11 +1,24 @@
 // Nuxt project configuration like modules or runtime variables goes here
-// https://nuxt.com/docs/getting-started/configuration#nuxt-configuration
+// https://nuxt.com/docs/4.x/getting-started/configuration#nuxt-configuration
+
+import tailwindcss from '@tailwindcss/vite'
+
 export default defineNuxtConfig({
-  compatibilityDate: '2025-02-08',
+  // allow code linting via ESLint module
   modules: [
-    '@nuxtjs/tailwindcss',
     '@nuxt/eslint',
   ],
+  // CSS importing Tailwind CSS styles
+  css: ['./app/assets/css/tailwind.css'],
+  // Nuxt packages compatibility
+  compatibilityDate: '2025-12-21',
+  // integration via a dedicated Vite plugin
+  vite: {
+    plugins: [
+      tailwindcss(),
+    ],
+  },
+  // simple ESLint config
   eslint: {
     config: {
       stylistic: true,

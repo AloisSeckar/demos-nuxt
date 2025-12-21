@@ -11,6 +11,7 @@
 /* importing Open Props style variables */
 @import 'open-props/normalize';
 @import 'open-props/buttons';
+@import 'open-props/gradients';
 
 html {
   /* https://open-props.style/#gradients */

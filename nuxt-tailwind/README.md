@@ -9,4 +9,4 @@ This demo shows how to include [Tailwind](https://tailwindcss.com/) in [Nuxt](ht
 5. `localhost:3000` 
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-gui#tailwind-css
+https://master-coda.cz/article/nuxt-css#tailwind-css
