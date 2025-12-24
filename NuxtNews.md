@@ -19,8 +19,11 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2025-12-22`** | [Nuxt Scripts for improved Performance and Security](https://dev.to/jacobandrewsky/nuxt-scripts-for-improved-performance-and-security-2b6i) - how to use **Nuxt Script** module for better integration of external scripts into Nuxt apps |
 | **`2025-12-17`** | [Nuxt UI 4.3](https://github.com/nuxt/ui/releases/tag/v4.3.0) - new minor release of **Nuxt UI** library module with new Editor and ScrollArea components plus other improvements and fixes |
 | **`2025-12-16`** | [Build an AI Chatbot with Nuxt, Nuxt UI, and AI SDK](https://ui.nuxt.com/blog/how-to-build-an-ai-chat) - practical guide for your own AI assistant |
+| **`2025-12-16`** | [Nuxt Studio Beta Release](https://github.com/nuxt-content/studio/releases/tag/v1.0.0-beta.0) - formerly paid solution for online editing of **Nuxt Content** sites gets into beta and expected to be released soon |
+| **`2025-12-11`** | [A Layered Architecture for Nuxt Fullstack applications](https://humanonlyweb.com/blog/layered-architecture-for-nuxt-4-fullstack-applications-part-1) - possible approach for separating concerns in Nuxt API routes |
 | **`2025-12-10`** | [NuxtHub Multi-Vendor is now available](https://hub.nuxt.com/changelog/nuxthub-multi-vendor) - you can now deploy **Nuxt Hub** project to various hosting providers |
 | **`2025-12-09`** | [Nuxt 4.2.2](https://github.com/nuxt/nuxt/releases/tag/v4.2.2) - new patch release for **Nuxt 4** with couple of fixes |
 | **`2025-12-09`** | [Nuxt 3.20.2](https://github.com/nuxt/nuxt/releases/tag/v3.20.2) - new patch release for **Nuxt 3** for backporting v4 fixes |
