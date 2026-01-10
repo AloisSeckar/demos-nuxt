@@ -5,11 +5,12 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
   ],
 
-  compatibilityDate: '2025-02-08',
+  compatibilityDate: '2026-01-10',
 
   // for some reason DevExtreme only works client-side only in production build
   ssr: false,
   
+  // simple eslint config
   eslint: {
     config: {
       stylistic: true,

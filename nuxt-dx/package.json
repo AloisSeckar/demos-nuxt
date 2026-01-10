@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nuxt-dx",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
@@ -9,10 +9,20 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.0.1",
-    "devextreme": "24.2.3",
-    "devextreme-vue": "24.2.3",
-    "nuxt": "3.15.4",
-    "typescript": "latest"
+    "@nuxt/eslint": "1.12.1",
+    "devextreme": "25.2.3",
+    "devextreme-vue": "25.2.3",
+    "nuxt": "4.2.2",
+    "typescript": "5.9.3",
+    "vue": "3.5.26"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "core-js",
+      "esbuild",
+      "inferno",
+      "unrs-resolver"
+    ]
   }
 }
