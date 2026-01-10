@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nuxt-icones",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
@@ -9,8 +9,16 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.0.1",
-    "nuxt": "3.15.4",
-    "typescript": "latest"
+    "@nuxt/eslint": "1.12.1",
+    "nuxt": "4.2.2",
+    "typescript": "5.9.3",
+    "vue": "3.5.26"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "unrs-resolver"
+    ]
   }
 }
