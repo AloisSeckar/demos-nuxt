@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nuxt-bootstrap",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
@@ -9,11 +9,19 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.0.1",
+    "@nuxt/eslint": "1.12.1",
     "@types/bootstrap": "5.2.10",
-    "bootstrap": "5.3.3",
-    "nuxt": "3.15.4",
-    "sass": "1.84.0",
-    "typescript": "latest"
+    "bootstrap": "5.3.8",
+    "nuxt": "4.2.2",
+    "sass": "1.97.2",
+    "typescript": "5.9.3",
+    "vue": "3.5.26"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "unrs-resolver"
+    ]
   }
 }
