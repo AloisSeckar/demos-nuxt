@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
   ],
 
+  // Nuxt packages compatibility
   compatibilityDate: '2025-11-13',
 
   // simple ESLint config

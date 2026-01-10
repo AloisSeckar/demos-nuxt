@@ -7,6 +7,7 @@ export default defineNuxtConfig({
     '@nuxt/eslint',
   ],
 
+  // Nuxt packages compatibility
   compatibilityDate: '2025-12-21',
 
   // this is required to make Open Props working in Nuxt

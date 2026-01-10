@@ -6,6 +6,7 @@ export default defineNuxtConfig({
     '@vueform/nuxt',
   ],
 
+  // Nuxt packages compatibility
   compatibilityDate: '2025-03-29',
 
   eslint: {

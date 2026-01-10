@@ -8,16 +8,22 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/eslint',
   ],
+
   // CSS importing Tailwind CSS styles
-  css: ['./app/assets/css/tailwind.css'],
+  css: [
+    './app/assets/css/tailwind.css',
+  ],
+
   // Nuxt packages compatibility
   compatibilityDate: '2025-12-21',
+
   // integration via a dedicated Vite plugin
   vite: {
     plugins: [
       tailwindcss(),
     ],
   },
+
   // simple ESLint config
   eslint: {
     config: {
