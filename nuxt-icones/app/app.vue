@@ -16,5 +16,8 @@
 <style scoped>
 .icon-box {
   margin: 1em;
+  display: flex;
+  flex-direction: row;
+  gap: 0.75em;
 }
 </style>
