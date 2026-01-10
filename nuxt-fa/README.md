@@ -13,4 +13,3 @@ https://master-coda.cz/article/nuxt-gui#fontawesome
 
 ### Current limits/gotchas
 - only work correctly with `ssr: false` setting
-- [issue](https://github.com/FortAwesome/Font-Awesome/discussions/19557) with ESLint and `FontAwesomeIcon` import
