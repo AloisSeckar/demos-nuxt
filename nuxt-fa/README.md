@@ -9,7 +9,7 @@ This demo shows how to include [Font Awesome icons](https://fontawesome.com/) in
 5. `localhost:3000` 
 
 ### Tutorial article
-https://master-coda.cz/article/nuxt-gui#fontawesome
+https://dev.to/aloisseckar/nuxt-tutorial-7-ui-integrations-4mjm#fontawesome
 
 ### Current limits/gotchas
 - only work correctly with `ssr: false` setting
