@@ -10,7 +10,7 @@ Stay up-to-date with the following even more dedicated websites:
 - https://dejavue.fm/
 - https://voidzero.dev/blog
 
-## Upcomming events
+## Upcoming events
 - [VueJS Amsterdam 2026](https://vuejs.amsterdam/) - **12-13 March 2026**, Amsterdam [NED]
 - [Vueconf.US 2026](https://vueconf.us/) - **19-21 May 2026**, Atlanta [USA]
 - [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]

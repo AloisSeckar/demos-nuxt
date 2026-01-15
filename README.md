@@ -7,10 +7,10 @@ This is a showcase of what I have learned on my journey with Nuxt so far. Each s
 **NOTE:** The project is currently in transition state. It was originally created for Nuxt 3. One by one, I am migrating the demos to the new Nuxt v4 project structure (with `/app/` directory), but many still remain in the older structure. I will try to finish the updates ASAP.
 
 ## Vue & Nuxt news
-See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and intertig articles maintained since 11/2023.
+See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting articles maintained since 11/2023.
 
 ## Available projects
-**NOTE:** This project is maintainted using `pnpm` as package manager due to excessive amount of disc space consumed by overlapping `node_modules` directories created by good ol' `npm`. However, there is no problem for you to keep using `npm`, if you are used to. Just use respective version of command.
+**NOTE:** This project is maintained using `pnpm` as package manager due to excessive amount of disc space consumed by overlapping `node_modules` directories created by good ol' `npm`. However, there is no problem for you to keep using `npm`, if you are used to. Just use respective version of command.
 
 ### Starters
 - [**nuxt-minimal**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-minimal) - the smallest setup required to run Nuxt
