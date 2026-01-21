@@ -1,0 +1,3 @@
+/* load Tailwind CSS and Nuxt UI styles */
+@import "tailwindcss";
+@import "@nuxt/ui";
