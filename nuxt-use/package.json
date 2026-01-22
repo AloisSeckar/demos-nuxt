@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nuxt-use",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
@@ -9,10 +9,18 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.0.1",
-    "@vueuse/core": "13.0.0",
-    "@vueuse/nuxt": "13.0.0",
-    "nuxt": "3.17.0",
-    "typescript": "latest"
+    "@nuxt/eslint": "1.12.1",
+    "@vueuse/core": "14.1.0",
+    "@vueuse/nuxt": "14.1.0",
+    "nuxt": "4.2.2",
+    "typescript": "5.9.3",
+    "vue": "3.5.27"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "unrs-resolver"
+    ]
   }
 }
