@@ -19,6 +19,8 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2026-01-22`** | [Nuxt 4.3.0](https://nuxt.com/blog/v4-3) - new minor release for **Nuxt 4** with v5 forward compatibility, route rules for layouts, `#server` alias, other new features and couple of bug fixes |
+| **`2026-01-22`** | [Nuxt 3.21.0](https://github.com/nuxt/nuxt/releases/tag/v3.21.0) - new minor release for **Nuxt 3** for backporting v4 fixes and with extended support (until 30th June) announcement |
 | **`2026-01-08`** | [Announcing Vueform 2.0](https://vueform.com/news/20260108-announcing-vueform-2-0) - new major update for Vue based form-handling solution with significantly re-defined concept and architecture |
 | **`2026-01-07`** | [Nuxt Accessibility module entered alpha](https://github.com/nuxt/a11y/releases/tag/v1.0.0-alpha.1) - first alpha release of new official `@nuxt/a11y` module for helping devs with finding accessibility issues was released |
 | **`2026-01-05`** | [Nuxt Studio is Now Free and Open Source](https://content.nuxt.com/blog/studio-oss) - formerly paid CMS solution was made generally available today |
