@@ -8,9 +8,12 @@
       Valid object: {{ validObject }}
     </div>
     <div style="margin-bottom: 1rem;">
+      Invalid object: {{ invalidObject || 'See console output' }}
+    </div>
+    <div style="margin-bottom: 1rem;">
       Safely parsed object: {{ safeObject }}
     </div>
-  </div>  
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -25,25 +28,28 @@ const LoginSchema = z.object({
 })
 
 // inferred type for using in app
-type Login = z.infer<typeof LoginSchema>;
+type Login = z.infer<typeof LoginSchema>
 
 // parse an object using the schema
 // this will throw an error if the object is invalid
 let validObject: Login
 let invalidObject: Login
 try {
-  validObject = LoginSchema.parse({ email: "jane.doe@example.com", password: "12345" });
-  invalidObject = LoginSchema.parse({ email: "jane.doe@example.com", password: 12345 });
-} catch (error) {
+  validObject = LoginSchema.parse({ email: 'jane.doe@example.com', password: '12345' })
+  invalidObject = LoginSchema.parse({ email: 'jane.doe@example.com', password: 12345 })
+}
+catch (error) {
+  console.info('Zod error when using parse:')
   // ZodError: Expected string, received number
-  console.error((error as Error).message);
+  console.error((error as Error).message)
 }
 
 // alternative safe parsing which avoids throwing an error
 // v.SafeParseResult<typeof LoginSchema>
-const safeObject = LoginSchema.safeParse({ email: "jane.doe@example.com", password: 12345 });
+const safeObject = LoginSchema.safeParse({ email: 'jane.doe@example.com', password: 12345 })
 if (!safeObject.success) {
+  console.info('Zod warning when using safeParse:')
   // human-readable error info via "prettifyError"
-  console.warn(z.prettifyError(safeObject.error));
+  console.warn(z.prettifyError(safeObject.error))
 }
 </script>
