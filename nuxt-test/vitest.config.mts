@@ -9,6 +9,6 @@ export default defineVitestConfig({
     // to set it up per-file
     environment: 'nuxt',
     // this will be executed before each test run
-    setupFiles: ['./utils/vitest-utils.ts'],
+    setupFiles: ['./test/vitest-utils.ts'],
   },
 })

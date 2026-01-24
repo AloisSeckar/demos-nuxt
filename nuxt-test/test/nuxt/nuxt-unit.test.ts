@@ -1,7 +1,7 @@
 import { describe, test, expect } from 'vitest'
 import { mount } from '@vue/test-utils'
 import { mountSuspended } from '@nuxt/test-utils/runtime'
-import NuxtTestComponent from '../components/NuxtTestComponent.vue'
+import { NuxtTestComponent } from '#components'
 
 // this example shows how to test single components
 

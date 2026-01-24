@@ -1,3 +1,6 @@
+// @vitest-environment node
+// this file must be run in node environment
+
 import { setup, $fetch, createPage, url } from '@nuxt/test-utils/e2e'
 import { describe, expect, test } from 'vitest'
 

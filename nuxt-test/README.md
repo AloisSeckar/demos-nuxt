@@ -3,10 +3,11 @@ This demo shows how to setup basic testing scenarios in [Nuxt](https://nuxt.com/
 
 ### How to use
 1. `git checkout demos-nuxt project`
-2. `cd nuxt-tailwind`
+2. `cd nuxt-test`
 3. `pnpm install`
-4. `pnpm dev` to generate required ./.nuxt/tsconfig.json
-5. `pnpm test` to run tests and keep them up for HMR **OR** `pnpm test-once` to run tests and end
+4. `pnpm exec playwright install` to install browsers for e2e tests
+5. `pnpm dev` to generate required files in .nuxt folder
+6. `pnpm test` to run tests and keep them up for HMR **OR** `pnpm test-once` to run tests and end
 
 ### Tutorial article
 Not yet
