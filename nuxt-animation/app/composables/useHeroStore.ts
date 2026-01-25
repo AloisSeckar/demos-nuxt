@@ -5,8 +5,7 @@ type Coords = {
 type Direction = 'u' | 'd' | 'l' | 'r'
 type Phase = 1 | 2 | 3
 
-export const useHeroStore = defineStore({
-  id: 'pinia-hero',
+export const useHeroStore = defineStore('pinia-hero', {
   state: () => {
     return {
       heroHeight: 64,
