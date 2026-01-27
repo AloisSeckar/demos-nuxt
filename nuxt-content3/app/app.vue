@@ -9,9 +9,19 @@
       <NuxtPage />
     </div>
     <div>
-      <NuxtLink to="/first" :external="true">First</NuxtLink>
+      <NuxtLink
+        to="/first"
+        :external="true"
+      >
+        First
+      </NuxtLink>
       &bull;
-      <NuxtLink to="/second" :external="true">Second</NuxtLink>
+      <NuxtLink
+        to="/second"
+        :external="true"
+      >
+        Second
+      </NuxtLink>
     </div>
     <hr>
     <div>

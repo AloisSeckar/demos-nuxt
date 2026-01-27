@@ -1,5 +1,5 @@
-<!-- 
-  v2 legacy notes 
+<!--
+  v2 legacy notes
   ---------------
   - <ContentDoc /> component was dropped in v3 and replaced with <ContentRenderer />
   - while <ContentDoc /> works out-of-the-box in v2, <ContentRenderer /> require to be supplied
@@ -12,7 +12,7 @@
     <h1>nuxt-content</h1>
     <div>
       The following page content is rendered with help of
-      <a href="https://content.nuxtjs.org/">Nuxt Content</a> module:
+      <a href="https://v2.content.nuxt.com/">Nuxt Content v2</a> module:
     </div>
     <hr>
     <div>
@@ -21,7 +21,7 @@
     <hr>
     <div>
       All you need to do to start benefit from this is to
-      <a href="https://content.nuxtjs.org/get-started#add-to-a-project">include the module</a>,
+      <a href="https://v2.content.nuxt.com/get-started#add-to-a-project">include the module</a>,
       add <pre>&lt;ContentDoc /&gt;</pre> component into template
       and provide corresponding sources into <strong>/content</strong> directory.
     </div>

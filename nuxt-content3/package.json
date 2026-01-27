@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "nuxt-content",
-  "version": "1.0.0",
+  "name": "nuxt-content-v3",
+  "version": "1.1.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
@@ -9,10 +9,19 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/content": "3.6.3",
-    "@nuxt/eslint": "1.7.0",
-    "nuxt": "3.17.7",
-    "vue": "3.5.17",
-    "typescript": "5.8.3"
+    "@nuxt/content": "3.11.0",
+    "@nuxt/eslint": "1.13.0",
+    "better-sqlite3": "12.6.2",
+    "nuxt": "4.3.0",
+    "typescript": "5.9.3",
+    "vue": "3.5.27"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "better-sqlite3",
+      "esbuild",
+      "unrs-resolver"
+    ]
   }
 }
