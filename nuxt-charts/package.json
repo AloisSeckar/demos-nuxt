@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nuxt-charts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
@@ -9,15 +9,13 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.5.2",
-    "nuxt": "3.17.6",
-    "nuxt-charts": "0.1.11",
-    "typescript": "5.8.3"
+    "@nuxt/eslint": "1.13.0",
+    "nuxt": "4.3.0",
+    "nuxt-charts": "2.1.1",
+    "typescript": "5.8.3",
+    "vue": "3.5.27"
   },
   "pnpm": {
-    "overrides": {
-      "nuxt-charts": "0.1.11"
-    },
     "onlyBuiltDependencies": [
       "@parcel/watcher",
       "esbuild",
