@@ -2,7 +2,7 @@
 This demo shows how to use plugins in [Nuxt](https://nuxt.com/)
 
 ### About
-[Plugins](https://nuxt.com/docs/guide/directory-structure/plugins) are the way how to easilly add more features into Nuxt project by wrapping them into callbacks of standardized `defineNuxtPlugin` function inside dedicated `/plugins` directory.
+[Plugins](https://nuxt.com/docs/4.x/directory-structure/app/plugins) are the way how to easilly add more features into Nuxt project by wrapping them into callbacks of standardized `defineNuxtPlugin` function inside dedicated `/plugins` directory.
 
 Vue image view component [v-viewer] is being incorporated into Nuxt app via plugin in this demo.
 

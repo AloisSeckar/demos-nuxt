@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nuxt-plugins",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
@@ -9,9 +9,17 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.0.1",
-    "nuxt": "3.15.4",
-    "typescript": "latest",
-    "v-viewer": "3.0.21"
+    "@nuxt/eslint": "1.13.0",
+    "nuxt": "4.3.0",
+    "typescript": "5.9.3",
+    "v-viewer": "3.0.22",
+    "vue": "3.5.27"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "@parcel/watcher",
+      "esbuild",
+      "unrs-resolver"
+    ]
   }
 }
