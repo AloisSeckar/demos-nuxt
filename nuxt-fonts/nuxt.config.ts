@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
   ],
 
-  compatibilityDate: '2025-02-08',
+  compatibilityDate: '2026-01-29',
 
   eslint: {
     config: {
