@@ -1,8 +1,6 @@
 type PiniaData = string | number | boolean
 
-export const usePiniaOptionsStore = defineStore({
-  // internal ID of the store
-  id: 'pinia-options-store',
+export const usePiniaOptionsStore = defineStore('pinia-options-store', {
   // default values
   // has native `$reset` function to revert into this
   state: () => {
