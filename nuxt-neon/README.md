@@ -6,7 +6,7 @@ This demo shows how to include [Neon database](https://neon.tech/) in [Nuxt](htt
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-neon`
 3. `pnpm install`
-4. Provide config details in `.env` file
+4. Provide connection details in `.env` file
 5. `pnpm dev` 
 6. `localhost:3000` 
 
@@ -18,7 +18,7 @@ This demo shows how to include [Neon database](https://neon.tech/) in [Nuxt](htt
 - NUXT_PUBLIC_NEON_PASS - your project DB user password
 - NUXT_PUBLIC_NEON_DB - your project DB name
 
-**WARNING**: Using "PUBLIC" .env variables will leak your connection data to client-side! This may work in demo, but for real application you should hide them on Nuxt server.
+**WARNING**: Using "PUBLIC" .env variables will leak your connection data to client-side! Also the SQL client is publicly exposed. This may work in demo, but for real application you should always hide your DB connection on Nuxt server.
 
 Check your project dasboard for values (Quickstart section). 
 

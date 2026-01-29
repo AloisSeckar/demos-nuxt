@@ -1,16 +1,10 @@
 // Nuxt project configuration like modules or runtime variables goes here
 // https://nuxt.com/docs/getting-started/configuration#nuxt-configuration
 export default defineNuxtConfig({
-  compatibilityDate: '2025-02-08',
-  // simple ESLint config
   modules: [
     '@nuxt/eslint',
   ],
-  eslint: {
-    config: {
-      stylistic: true,
-    },
-  },
+
   runtimeConfig: {
     public: {
       // you need to create your own neon.tech account and start a project for that
@@ -21,6 +15,15 @@ export default defineNuxtConfig({
       neonUser: '',
       neonPass: '',
       neonDB: '',
+    },
+  },
+
+  compatibilityDate: '2025-02-08',
+
+  // simple ESLint config
+  eslint: {
+    config: {
+      stylistic: true,
     },
   },
 })
