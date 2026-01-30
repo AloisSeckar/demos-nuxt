@@ -9,9 +9,9 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.12.1",
+    "@nuxt/eslint": "1.13.0",
     "@vueform/nuxt": "1.25.0",
-    "nuxt": "4.2.2",
+    "nuxt": "4.3.0",
     "vue": "3.5.27",
     "typescript": "5.9.3"
   },

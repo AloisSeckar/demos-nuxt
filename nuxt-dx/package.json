@@ -9,12 +9,12 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.12.1",
+    "@nuxt/eslint": "1.13.0",
     "devextreme": "25.2.3",
     "devextreme-vue": "25.2.3",
-    "nuxt": "4.2.2",
+    "nuxt": "4.3.0",
     "typescript": "5.9.3",
-    "vue": "3.5.26"
+    "vue": "3.5.27"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
