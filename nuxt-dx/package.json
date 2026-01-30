@@ -24,5 +24,6 @@
       "inferno",
       "unrs-resolver"
     ]
-  }
+  },
+  "packageManager": "pnpm@10.28.2"
 }
