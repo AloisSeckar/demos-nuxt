@@ -1,8 +1,11 @@
 // Nuxt project configuration like modules or runtime variables goes here
-// https://nuxt.com/docs/getting-started/configuration#nuxt-configuration
+// https://nuxt.com/docs/4.x/getting-started/configuration#nuxt-configuration
 export default defineNuxtConfig({
+  // modules used in this project
   modules: [
+    // working with content files
     '@nuxt/content',
+    // linting
     '@nuxt/eslint',
   ],
 
@@ -13,8 +16,10 @@ export default defineNuxtConfig({
   //   experimental: { nativeSqlite: true },
   // },
 
-  compatibilityDate: '2026-01-27',
+  // https://nitro.build/deploy#compatibility-date
+  compatibilityDate: '2026-01-31',
 
+  // use ESlint also for code formatting (instead of Prettier)
   eslint: {
     config: {
       stylistic: true,

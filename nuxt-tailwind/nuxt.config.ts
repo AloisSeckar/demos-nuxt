@@ -4,8 +4,9 @@
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineNuxtConfig({
-  // allow code linting via ESLint module
+  // modules used in this project
   modules: [
+    // linting
     '@nuxt/eslint',
   ],
 
@@ -15,7 +16,8 @@ export default defineNuxtConfig({
   ],
 
   // Nuxt packages compatibility
-  compatibilityDate: '2025-12-21',
+  // https://nitro.build/deploy#compatibility-date
+  compatibilityDate: '2026-01-31',
 
   // integration via a dedicated Vite plugin
   vite: {
@@ -24,7 +26,7 @@ export default defineNuxtConfig({
     ],
   },
 
-  // simple ESLint config
+  // use ESlint also for code formatting (instead of Prettier)
   eslint: {
     config: {
       stylistic: true,
