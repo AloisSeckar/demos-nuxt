@@ -1,5 +1,5 @@
 ## Nuxt Layouts
-This demo shows the concept of [layouts](https://nuxt.com/docs/guide/directory-structure/layouts) in [Nuxt](https://nuxt.com/)
+This demo shows the concept of [layouts](https://nuxt.com/docs/4.x/directory-structure/app/layouts) in [Nuxt](https://nuxt.com/)
 
 ### How to use
 1. `git checkout demos-nuxt project`

@@ -3,7 +3,7 @@ import { api, component } from 'v-viewer'
 // also import related CSS style
 import 'viewerjs/dist/viewer.css'
 
-// https://nuxt.com/docs/guide/directory-structure/plugins
+// https://nuxt.com/docs/4.x/directory-structure/app/plugins
 export default defineNuxtPlugin((nuxtApp) => {
   // `nuxtApp` is Nuxt application context that can automatically be passed into plugin's callback
   // `vueApp` exposes the underlying Vue 3 application context

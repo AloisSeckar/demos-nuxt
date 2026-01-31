@@ -19,7 +19,7 @@
     <br>
     <div>
       Alternatively,
-      <NuxtLink to="https://nuxt.com/docs/api/components/nuxt-time">
+      <NuxtLink to="https://nuxt.com/docs/4.x/api/components/nuxt-time">
        <pre style="display: inline-block;">&lt;NuxtTime&gt;</pre>
       </NuxtLink>
       built-in component can be used to handle reactive date object accordingly:

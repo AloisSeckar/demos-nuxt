@@ -68,4 +68,4 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting
 - [**nuxt-animation**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-animation) - displaying simple animation using [VueUse](https://vueuse.org/)
 
 ### Testing
-- [**nuxt-test**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-text) - how to setup basic test scenarios using tools [recommended for Nuxt](https://nuxt.com/docs/getting-started/testing)
+- [**nuxt-test**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-text) - how to setup basic test scenarios using tools [recommended for Nuxt](https://nuxt.com/docs/4.x/getting-started/testing)

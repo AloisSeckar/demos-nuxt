@@ -17,7 +17,7 @@
       />
     </div>
     <div>
-      See <a href="https://nuxt.com/docs/api/components/nuxt-time">Nuxt Docs</a>
+      See <a href="https://nuxt.com/docs/4.x/api/components/nuxt-time">Nuxt Docs</a>
       for more details and configuration options.
     </div>
   </div>
