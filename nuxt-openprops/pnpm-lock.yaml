@@ -15,8 +15,8 @@ importers:
         specifier: 4.3.0
         version: 4.3.0(@parcel/watcher@2.5.6)(@vue/compiler-sfc@3.5.27)(cac@6.7.14)(db0@0.3.4)(eslint@9.39.2(jiti@2.6.1))(ioredis@5.9.2)(magicast@0.5.1)(optionator@0.9.4)(rollup@4.57.1)(terser@5.46.0)(typescript@5.9.3)(vite@7.3.1(jiti@2.6.1)(terser@5.46.0)(yaml@2.8.2))(yaml@2.8.2)
       open-props:
-        specifier: 1.7.17
-        version: 1.7.17
+        specifier: 1.7.23
+        version: 1.7.23
       postcss-jit-props:
         specifier: 1.0.16
         version: 1.0.16(postcss@8.5.6)
@@ -2979,8 +2979,8 @@ packages:
     resolution: {integrity: sha512-1FlR+gjXK7X+AsAHso35MnyN5KqGwJRi/31ft6x0M194ht7S+rWAvd7PHss9xSKMzE0asv1pyIHaJYq+BbacAQ==}
     engines: {node: '>=12'}
 
-  open-props@1.7.17:
-    resolution: {integrity: sha512-Sa6zW2cdOFSCqjmlIZ6q3F0p4Hixab+xbMPRDbrM42mZIeGrqN2ty0Twxof1sYjuhwBe+Ft7dDyB6rLmyRInZQ==}
+  open-props@1.7.23:
+    resolution: {integrity: sha512-+xyrJmxV9QUBFbSwPROYhOg/FLXry+uuPr4R+B5EaE4556Oc18/8ZC/fL5A+/lbRSwNvA0Alh+C0KpyFWLmLZg==}
 
   open@10.2.0:
     resolution: {integrity: sha512-YgBpdJHPyQ2UE5x+hlSXcnejzAvD0b22U2OuAP+8OnlJT+PjWPxtgmGqKKc+RgTM63U9gN0YzrYc71R2WT/hTA==}
@@ -7270,7 +7270,7 @@ snapshots:
     dependencies:
       mimic-fn: 4.0.0
 
-  open-props@1.7.17: {}
+  open-props@1.7.23: {}
 
   open@10.2.0:
     dependencies:
