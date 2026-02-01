@@ -9,7 +9,7 @@
     "start": "nuxt preview"
   },
   "devDependencies": {
-    "@nuxt/content": "2.13.4",
+    "@nuxt/content": "3.11.0",
     "@nuxt/eslint": "1.13.0",
     "nuxt": "4.3.0",
     "typescript": "5.9.3",
