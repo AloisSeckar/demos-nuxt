@@ -8,7 +8,7 @@
     "build": "nuxt build",
     "start": "nuxt preview"
   },
-  "devDependencies": {
+  "dependencies": {
     "@nuxt/eslint": "1.13.0",
     "devextreme": "25.2.3",
     "devextreme-vue": "25.2.3",

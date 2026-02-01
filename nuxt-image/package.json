@@ -8,7 +8,7 @@
     "build": "nuxt build",
     "start": "nuxt preview"
   },
-  "devDependencies": {
+  "dependencies": {
     "@nuxt/eslint": "1.13.0",
     "@nuxt/image": "2.0.0",
     "nuxt": "4.3.0",

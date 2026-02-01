@@ -10,7 +10,7 @@
     "test": "vitest",
     "test-once": "vitest run"
   },
-  "devDependencies": {
+  "dependencies": {
     "@nuxt/eslint": "1.13.0",
     "@nuxt/test-utils": "3.23.0",
     "@vue/test-utils": "2.4.6",

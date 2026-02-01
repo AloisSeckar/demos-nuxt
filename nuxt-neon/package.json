@@ -8,7 +8,7 @@
     "build": "nuxt build",
     "start": "nuxt preview"
   },
-  "devDependencies": {
+  "dependencies": {
     "@neondatabase/serverless": "1.0.2",
     "@nuxt/eslint": "1.13.0",
     "nuxt": "4.3.0",

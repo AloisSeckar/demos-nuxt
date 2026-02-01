@@ -8,7 +8,7 @@
     "build": "nuxt build",
     "start": "nuxt preview"
   },
-  "devDependencies": {
+  "dependencies": {
     "@nuxt/content": "3.11.0",
     "@nuxt/eslint": "1.13.0",
     "better-sqlite3": "12.6.2",
