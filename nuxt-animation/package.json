@@ -11,8 +11,8 @@
   "devDependencies": {
     "@nuxt/eslint": "1.13.0",
     "@pinia/nuxt": "0.11.3",
-    "@vueuse/core": "14.1.0",
-    "@vueuse/nuxt": "14.1.0",
+    "@vueuse/core": "14.2.0",
+    "@vueuse/nuxt": "14.2.0",
     "nuxt": "4.3.0",
     "pinia": "3.0.4",
     "typescript": "5.9.3",
