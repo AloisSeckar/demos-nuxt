@@ -13,22 +13,11 @@
 </template>
 
 <script setup lang="ts">
-import type { NeonDataType, NeonError } from '#build/types/neon'
-
-const { select } = useNeon()
-
-type ExampleData = {
-  id: number
-  name: string
-  value: number
-}
+import type { NeonError } from 'nuxt-neon'
 
 const result = ref([] as ExampleData[])
 async function doSelect() {
-  const res: NeonDataType<ExampleData> = await select<ExampleData>({
-    columns: ['id', 'name', 'value'],
-    from: 'playing_with_neon',
-  })
+  const res = await $fetch<ExampleData[] | NeonError>('/api/get-data')
   if (Array.isArray(res)) {
     result.value = res as ExampleData[]
   }

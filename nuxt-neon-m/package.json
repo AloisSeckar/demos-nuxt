@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "nuxt-neon-m",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "scripts": {
     "eslint": "eslint .",
     "dev": "nuxt dev",
@@ -11,7 +11,7 @@
   "dependencies": {
     "@nuxt/eslint": "1.13.0",
     "nuxt": "4.3.0",
-    "nuxt-neon": "0.7.0",
+    "nuxt-neon": "0.8.2",
     "typescript": "5.9.3",
     "vue": "3.5.27"
   },
