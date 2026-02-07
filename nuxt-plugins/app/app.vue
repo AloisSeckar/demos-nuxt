@@ -2,7 +2,8 @@
   <div>
     <h1>nuxt-plugin</h1>
     <div>How to use plugins in Nuxt</div>
-    <div><a href="https://github.com/mirari/v-viewer/tree/v3">v-viewer</a> is added through a plugin here</div>
+    <div><a href="https://nuxt.com/docs/4.x/directory-structure/server#server-plugins">Nitro plugin</a> runs on server startup (see server-side console output)</div>
+    <div><a href="https://github.com/mirari/v-viewer/tree/v3">v-viewer</a> is then added through a client plugin to be used here</div>
 
     <!-- v-viewer component incorporated into page -->
     <!-- this has to be client-only because of hydraton mismatch -->
