@@ -22,6 +22,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2026-02-07`** | [Nuxt Test Utils v4](https://github.com/nuxt/test-utils/releases/tag/v4.0.0) - new release of the official testing utilities for Nuxt, now with Vitest v4 support |
 | **`2026-02-07`** | [Nuxt 4.3.1](https://github.com/nuxt/nuxt/releases/tag/v4.3.1) - new patch release for **Nuxt 4** with couple of fixes |
 | **`2026-02-07`** | [Nuxt 3.21.1](https://github.com/nuxt/nuxt/releases/tag/v3.21.1) - new patch release for **Nuxt 3** for backporting v4 fixes |
+| **`2026-02-04`** | [Meet the AI Assistant for Docus](https://content.nuxt.com/blog/ai-assistant) - documentation sites created with Nuxt Content-based **Docus** can be more interactive and useful for devs now |
 
 ## 2026 - January
 
