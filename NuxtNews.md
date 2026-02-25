@@ -19,6 +19,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2026-02-17`** | [Supercharging Nuxt Apps with VueUse](https://certificates.dev/blog/supercharging-nuxt-apps-with-vueuse) - a reminder about usefulness **VueUse**, the utility library for Vue projects |
 | **`2026-02-16`** | [Business Advantages of Using Nuxt](https://dev.to/jacobandrewsky/business-advantages-of-using-nuxt-51j2) - summary of good reasons to start your next project with Nuxt |
 | **`2026-02-07`** | [Nuxt Test Utils v4](https://github.com/nuxt/test-utils/releases/tag/v4.0.0) - new release of the official testing utilities for Nuxt, now with Vitest v4 support |
 | **`2026-02-07`** | [Nuxt 4.3.1](https://github.com/nuxt/nuxt/releases/tag/v4.3.1) - new patch release for **Nuxt 4** with couple of fixes |
