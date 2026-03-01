@@ -13,10 +13,10 @@
     "@formkit/icons": "1.7.2",
     "@formkit/nuxt": "1.7.2",
     "@formkit/vue": "1.7.2",
-    "@nuxt/eslint": "1.13.0",
-    "nuxt": "4.3.0",
+    "@nuxt/eslint": "1.15.2",
+    "nuxt": "4.3.1",
     "typescript": "5.9.3",
-    "vue": "3.5.27"
+    "vue": "3.5.29"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
