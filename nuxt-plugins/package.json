@@ -9,11 +9,11 @@
     "start": "nuxt preview"
   },
   "dependencies": {
-    "@nuxt/eslint": "1.13.0",
-    "nuxt": "4.3.0",
+    "@nuxt/eslint": "1.15.2",
+    "nuxt": "4.3.1",
     "typescript": "5.9.3",
-    "v-viewer": "3.0.22",
-    "vue": "3.5.27"
+    "v-viewer": "3.0.23",
+    "vue": "3.5.29"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
