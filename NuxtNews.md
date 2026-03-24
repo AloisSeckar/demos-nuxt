@@ -11,7 +11,6 @@ Stay up-to-date with the following even more dedicated websites:
 - https://voidzero.dev/blog
 
 ## Upcoming events
-- [VueJS Amsterdam 2026](https://vuejs.amsterdam/) - **12-13 March 2026**, Amsterdam [NED]
 - [Vueconf.US 2026](https://vueconf.us/) - **19-21 May 2026**, Atlanta [USA]
 - [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]
 
@@ -19,6 +18,8 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2026-03-23`** | [Nuxt UI 4.6](https://github.com/nuxt/ui/releases/tag/v4.6.0) - new minor release of **Nuxt UI** library module with brand new **Sidebar** component, new components for building AI chats and more updates |
+| **`2025-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2026** in Amsterdam, NED |
 | **`2026-03-12`** | [Vite 8.0 is out!](https://vite.dev/blog/announcing-vite8) - after intense testing and improving of the 18 beta versions, stable version of **Vite v8** was released |
 | **`2026-03-12`** | [Nuxt 4.4](https://nuxt.com/blog/v4-4) - new minor release for **Nuxt 4** with customizable useFetch/useAsyncData, Vue Router 5, useAnnouncer a11y composable and other new features and couple of bug fixes |
 | **`2026-03-11`** | [Nitro v3 Beta](https://nitro.build/blog/v3-beta) - the underlying **Nitro** server engine has now reached beta stage on its way to v3 |
