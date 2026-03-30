@@ -18,6 +18,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2026-03-29`** | [Nuxt Test Utils v4 overview](https://www.infoq.com/news/2026/03/nuxt-test-utils-4/) - summary of new changes and features in last major version of test utils library for Nuxt |
 | **`2026-03-23`** | [Nuxt UI 4.6](https://github.com/nuxt/ui/releases/tag/v4.6.0) - new minor release of **Nuxt UI** library module with brand new **Sidebar** component, new components for building AI chats and more updates |
 | **`2025-03-13`** | [Vue Agent Skills for Reliable AI Development](https://vueschool.io/articles/vuejs-tutorials/vue-agent-skills-for-reliable-ai-development/) - learn about using **skills** to improve quality of GenAI code in your projects |
 | **`2025-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2026** in Amsterdam, NED |
