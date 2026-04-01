@@ -9,15 +9,15 @@
     "start": "nuxt preview"
   },
   "dependencies": {
-    "@nuxt/content": "2.13.4",
-    "@nuxt/eslint": "1.13.0",
-    "nuxt": "4.3.0",
-    "typescript": "5.9.3",
-    "vue": "3.5.27"
+    "@nuxt/content": "3.12.0",
+    "@nuxt/eslint": "1.15.2",
+    "nuxt": "4.4.2",
+    "typescript": "6.0.2",
+    "vue": "3.5.31"
   },
   "pnpm": {
     "overrides": {
-      "@nuxt/content": "2.13.4"
+      "@nuxt/content": "3.12.0"
     },
     "onlyBuiltDependencies": [
       "@parcel/watcher",
