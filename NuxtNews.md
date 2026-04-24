@@ -14,6 +14,12 @@ Stay up-to-date with the following even more dedicated websites:
 - [Vueconf.US 2026](https://vueconf.us/) - **19-21 May 2026**, Atlanta [USA]
 - [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]
 
+## 2026 - April
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2026-04-24`** | [Nuxt UI 4.7](https://github.com/nuxt/ui/releases/tag/v4.7.0) - new minor release of **Nuxt UI** library module with brand new **Listbox** and **ProsePrompt** component, automated inner link localisation and various updates and bugfixes |
+
 ## 2026 - March
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
