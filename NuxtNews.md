@@ -18,6 +18,9 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2026-04-30`** | [Nuxt 4.4.3](https://github.com/nuxt/nuxt/releases/tag/v4.4.3) - new patch release for **Nuxt 4** with a number of performance improvements and fixes (the actual released version was **4.4.4** due to technical issues) |
+| **`2026-04-30`** | [Nuxt 3.21.3](https://github.com/nuxt/nuxt/releases/tag/v3.21.3) - new patch release for **Nuxt 3** for backporting v4 fixes (the actual released version was **3.21.4** due to technical issues) |
+| **`2026-04-29`** | [Introducing the Nuxt Agent](https://nuxt.com/blog/introducing-nuxt-agent) - Nuxt team is now shipping beta version of their own AI agent integrated to the official website capable of answering questions and building code examples |
 | **`2026-04-24`** | [Nuxt UI 4.7](https://github.com/nuxt/ui/releases/tag/v4.7.0) - new minor release of **Nuxt UI** library module with brand new **Listbox** and **ProsePrompt** component, automated inner link localisation and various updates and bugfixes |
 
 ## 2026 - March
@@ -29,7 +32,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2025-03-13`** | [Vue Agent Skills for Reliable AI Development](https://vueschool.io/articles/vuejs-tutorials/vue-agent-skills-for-reliable-ai-development/) - learn about using **skills** to improve quality of GenAI code in your projects |
 | **`2025-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2026** in Amsterdam, NED |
 | **`2026-03-12`** | [Vite 8.0 is out!](https://vite.dev/blog/announcing-vite8) - after intense testing and improving of the 18 beta versions, stable version of **Vite v8** was released |
-| **`2026-03-12`** | [Nuxt 4.4](https://nuxt.com/blog/v4-4) - new minor release for **Nuxt 4** with customizable useFetch/useAsyncData, Vue Router 5, useAnnouncer a11y composable and other new features and couple of bug fixes |
+| **`2026-03-12`** | [Nuxt 4.4](https://nuxt.com/blog/v4-4) - new minor release for **Nuxt 4** with customizable useFetch/useAsyncData, Vue Router 5, useAnnouncer a11y composable and other new features and couple of bug fixes (the actual released version was **4.4.2** due to technical issues) |
 | **`2026-03-11`** | [Nitro v3 Beta](https://nitro.build/blog/v3-beta) - the underlying **Nitro** server engine has now reached beta stage on its way to v3 |
 
 ## 2026 - February
