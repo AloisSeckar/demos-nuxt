@@ -22,6 +22,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2026-04-30`** | [Nuxt 3.21.3](https://github.com/nuxt/nuxt/releases/tag/v3.21.3) - new patch release for **Nuxt 3** for backporting v4 fixes (the actual released version was **3.21.4** due to technical issues) |
 | **`2026-04-29`** | [Introducing the Nuxt Agent](https://nuxt.com/blog/introducing-nuxt-agent) - Nuxt team is now shipping beta version of their own AI agent integrated to the official website capable of answering questions and building code examples |
 | **`2026-04-24`** | [Nuxt UI 4.7](https://github.com/nuxt/ui/releases/tag/v4.7.0) - new minor release of **Nuxt UI** library module with brand new **Listbox** and **ProsePrompt** component, automated inner link localisation and various updates and bugfixes |
+| **`2026-04-22`** | [Composable Best Practices in Nuxt](https://certificates.dev/blog/composable-best-practices-in-nuxt) - how to write composables for Nuxt effectively avoiding common errors |
 
 ## 2026 - March
 
