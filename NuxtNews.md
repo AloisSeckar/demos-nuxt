@@ -14,6 +14,13 @@ Stay up-to-date with the following even more dedicated websites:
 - [Vueconf.US 2026](https://vueconf.us/) - **19-21 May 2026**, Atlanta [USA]
 - [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]
 
+## 2026 - May
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2026-05-11`** | [Nuxt 4.4.5](https://github.com/nuxt/nuxt/releases/tag/v4.4.5) - new patch release for **Nuxt 4** with a couple of fixes |
+| **`2026-05-11`** | [Nuxt 3.21.5](https://github.com/nuxt/nuxt/releases/tag/v3.21.5) - new patch release for **Nuxt 3** for backporting v4 fixes |
+
 ## 2026 - April
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
