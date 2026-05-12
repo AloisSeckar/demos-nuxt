@@ -4,9 +4,9 @@ What is the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) co
 ## Sources
 Stay up-to-date with the following even more dedicated websites:
 - https://nuxt.com/blog
-- https://weekly-vue.news/
 - https://masteringnuxt.com/blog/
 - https://michaelnthiessen.com/
+- https://vuedigest.com/
 - https://dejavue.fm/
 - https://voidzero.dev/blog
 
