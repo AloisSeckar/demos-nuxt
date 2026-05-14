@@ -20,6 +20,7 @@ Stay up-to-date with the following even more dedicated websites:
 | --- | :--  |
 | **`2026-05-11`** | [Nuxt 4.4.5](https://github.com/nuxt/nuxt/releases/tag/v4.4.5) - new patch release for **Nuxt 4** with a couple of fixes |
 | **`2026-05-11`** | [Nuxt 3.21.5](https://github.com/nuxt/nuxt/releases/tag/v3.21.5) - new patch release for **Nuxt 3** for backporting v4 fixes |
+| **`2026-05-06`** | [Is Nuxt something for “me”?](https://certificates.dev/blog/is-nuxt-something-for-me) - side-by-side comparison between Vue and Nuxt - what it gives and what it takes |
 
 ## 2026 - April
 
