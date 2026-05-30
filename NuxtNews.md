@@ -18,12 +18,14 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2026-05-27`** | [Rolldown and Vite 8: What Changed](https://certificates.dev/blog/rolldown-and-vite-8-what-changed) - quite useful summary of important changes in latest **Vite** version |
 | **`2026-05-21`** | [Nuxt UI 4.8](https://github.com/nuxt/ui/releases/tag/v4.8.0) - new minor release of **Nuxt UI** library module with async search in ContentSearch component, defaults for Theme component and various updates and bugfixes |
 | **`2026-05-18`** | [Nuxt 4.4.6](https://github.com/nuxt/nuxt/releases/tag/v4.4.6) - new patch release for **Nuxt 4** with a number of of fixes |
 | **`2026-05-18`** | [Nuxt 3.21.6](https://github.com/nuxt/nuxt/releases/tag/v3.21.6) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2026-05-16`** | [Nuxt Tip: Difference Between useFetch and event.$fetch](https://mokkapps.de/vue-tips/difference-between-use-fetch-and-event-fetch) - an interesting difference between two akin calls that can matter from the performance perspective |
 | **`2026-05-11`** | [Nuxt 4.4.5](https://github.com/nuxt/nuxt/releases/tag/v4.4.5) - new patch release for **Nuxt 4** with a couple of fixes |
 | **`2026-05-11`** | [Nuxt 3.21.5](https://github.com/nuxt/nuxt/releases/tag/v3.21.5) - new patch release for **Nuxt 3** for backporting v4 fixes |
+| **`2026-05-07`** | [Announcing Rolldown 1.0](https://voidzero.dev/posts/announcing-rolldown-1-0) - the Rust-based core inside **Vite 8** now has a standalone stable version |
 | **`2026-05-06`** | [Is Nuxt something for “me”?](https://certificates.dev/blog/is-nuxt-something-for-me) - side-by-side comparison between Vue and Nuxt - what it gives and what it takes |
 
 ## 2026 - April
