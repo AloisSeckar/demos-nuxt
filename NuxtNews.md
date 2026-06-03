@@ -11,14 +11,23 @@ Stay up-to-date with the following even more dedicated websites:
 - https://voidzero.dev/blog
 
 ## Upcoming events
-- [Vueconf.US 2026](https://vueconf.us/) - **19-21 May 2026**, Atlanta [USA]
-- [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]
+- [PragVue 2026](https://pragvue.com/) - **29 September 2026**, Prague [CZE]
+- [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
+
+## 2026 - June
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :--  |
+| **`2026-06-02`** | [Nuxt 4.4.7](https://github.com/nuxt/nuxt/releases/tag/v4.4.7) - new patch release for **Nuxt 4** with a couple of security fixes and other improvements |
+| **`2026-06-02`** | [Nuxt 3.21.7](https://github.com/nuxt/nuxt/releases/tag/v3.21.7) - new patch release for **Nuxt 3** for backporting v4 fixes |
 
 ## 2026 - May
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2026-05-27`** | [Rolldown and Vite 8: What Changed](https://certificates.dev/blog/rolldown-and-vite-8-what-changed) - quite useful summary of important changes in latest **Vite** version |
+| **`2025-05-22`** | [MadVue 2026](https://madvue.es/) - Spanish Vue.js conference took place **22 May 2026** in Madrid, ESP |
+| **`2025-05-21`** | [Vueconf.US 2026](https://vueconf.us/) - American Vue.js conference took place **19 - 21 May 2026** in Atlanta, USA |
 | **`2026-05-21`** | [Nuxt UI 4.8](https://github.com/nuxt/ui/releases/tag/v4.8.0) - new minor release of **Nuxt UI** library module with async search in ContentSearch component, defaults for Theme component and various updates and bugfixes |
 | **`2026-05-18`** | [Nuxt 4.4.6](https://github.com/nuxt/nuxt/releases/tag/v4.4.6) - new patch release for **Nuxt 4** with a number of of fixes |
 | **`2026-05-18`** | [Nuxt 3.21.6](https://github.com/nuxt/nuxt/releases/tag/v3.21.6) - new patch release for **Nuxt 3** for backporting v4 fixes |
