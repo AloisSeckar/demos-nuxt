@@ -18,6 +18,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2026-06-09`** | [Meet Nuxi](https://nuxt.com/blog/meet-nuxi) - an introduction to new Nuxt AI assistant |
 | **`2026-06-08`** | [Nuxt 4.4.8](https://github.com/nuxt/nuxt/releases/tag/v4.4.8) - new small patch release for **Nuxt 4** focused on a hotfix for MacOS issue |
 | **`2026-06-08`** | [Nuxt 3.21.8](https://github.com/nuxt/nuxt/releases/tag/v3.21.8) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2026-06-03`** | [Deploying Nuxt: Presets, Platforms, and Hybrid Rendering](https://certificates.dev/blog/deploying-nuxt-presets-platforms-and-hybrid-rendering) - a recap on options for your Nuxt apps deployment and configuration |
@@ -35,7 +36,6 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2026-05-18`** | [Nuxt 4.4.6](https://github.com/nuxt/nuxt/releases/tag/v4.4.6) - new patch release for **Nuxt 4** with a number of of fixes |
 | **`2026-05-18`** | [Nuxt 3.21.6](https://github.com/nuxt/nuxt/releases/tag/v3.21.6) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2026-05-16`** | [Nuxt Tip: Difference Between useFetch and event.$fetch](https://mokkapps.de/vue-tips/difference-between-use-fetch-and-event-fetch) - an interesting difference between two akin calls that can matter from the performance perspective |
-| **`2026-05-14`** | [Meet Nuxi](https://nuxt.com/blog/meet-nuxi) - an introduction to new Nuxt AI assistant |
 | **`2026-05-11`** | [Nuxt 4.4.5](https://github.com/nuxt/nuxt/releases/tag/v4.4.5) - new patch release for **Nuxt 4** with a couple of fixes |
 | **`2026-05-11`** | [Nuxt 3.21.5](https://github.com/nuxt/nuxt/releases/tag/v3.21.5) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2026-05-07`** | [Announcing Rolldown 1.0](https://voidzero.dev/posts/announcing-rolldown-1-0) - the Rust-based core inside **Vite 8** now has a standalone stable version |
