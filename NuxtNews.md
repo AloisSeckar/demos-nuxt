@@ -31,8 +31,8 @@ Stay up-to-date with the following even more dedicated websites:
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
 | **`2026-05-27`** | [Rolldown and Vite 8: What Changed](https://certificates.dev/blog/rolldown-and-vite-8-what-changed) - quite useful summary of important changes in latest **Vite** version |
-| **`2025-05-22`** | [MadVue 2026](https://madvue.es/) - Spanish Vue.js conference took place **22 May 2026** in Madrid, ESP |
-| **`2025-05-21`** | [Vueconf.US 2026](https://vueconf.us/) - American Vue.js conference took place **19 - 21 May 2026** in Atlanta, USA |
+| **`2026-05-22`** | [MadVue 2026](https://madvue.es/) - Spanish Vue.js conference took place **22 May 2026** in Madrid, ESP |
+| **`2026-05-21`** | [Vueconf.US 2026](https://vueconf.us/) - American Vue.js conference took place **19 - 21 May 2026** in Atlanta, USA |
 | **`2026-05-21`** | [Nuxt UI 4.8](https://github.com/nuxt/ui/releases/tag/v4.8.0) - new minor release of **Nuxt UI** library module with async search in ContentSearch component, defaults for Theme component and various updates and bugfixes |
 | **`2026-05-18`** | [Nuxt 4.4.6](https://github.com/nuxt/nuxt/releases/tag/v4.4.6) - new patch release for **Nuxt 4** with a number of of fixes |
 | **`2026-05-18`** | [Nuxt 3.21.6](https://github.com/nuxt/nuxt/releases/tag/v3.21.6) - new patch release for **Nuxt 3** for backporting v4 fixes |
@@ -58,8 +58,8 @@ Stay up-to-date with the following even more dedicated websites:
 | --- | :--  |
 | **`2026-03-29`** | [Nuxt Test Utils v4 overview](https://www.infoq.com/news/2026/03/nuxt-test-utils-4/) - summary of new changes and features in last major version of test utils library for Nuxt |
 | **`2026-03-23`** | [Nuxt UI 4.6](https://github.com/nuxt/ui/releases/tag/v4.6.0) - new minor release of **Nuxt UI** library module with brand new **Sidebar** component, new components for building AI chats and more updates |
-| **`2025-03-13`** | [Vue Agent Skills for Reliable AI Development](https://vueschool.io/articles/vuejs-tutorials/vue-agent-skills-for-reliable-ai-development/) - learn about using **skills** to improve quality of GenAI code in your projects |
-| **`2025-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2026** in Amsterdam, NED |
+| **`2026-03-13`** | [Vue Agent Skills for Reliable AI Development](https://vueschool.io/articles/vuejs-tutorials/vue-agent-skills-for-reliable-ai-development/) - learn about using **skills** to improve quality of GenAI code in your projects |
+| **`2026-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2026** in Amsterdam, NED |
 | **`2026-03-12`** | [Vite 8.0 is out!](https://vite.dev/blog/announcing-vite8) - after intense testing and improving of the 18 beta versions, stable version of **Vite v8** was released |
 | **`2026-03-12`** | [Nuxt 4.4](https://nuxt.com/blog/v4-4) - new minor release for **Nuxt 4** with customizable useFetch/useAsyncData, Vue Router 5, useAnnouncer a11y composable and other new features and couple of bug fixes (the actual released version was **4.4.2** due to technical issues) |
 | **`2026-03-11`** | [Nitro v3 Beta](https://nitro.build/blog/v3-beta) - the underlying **Nitro** server engine has now reached beta stage on its way to v3 |
