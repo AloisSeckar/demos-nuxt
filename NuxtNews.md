@@ -18,6 +18,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :--  |
+| **`2026-06-15`** | [An advanced guide to Nuxt testing and mocking](https://blog.logrocket.com/advanced-guide-nuxt-testing-mocking/) - learn how to handle testing your Nuxt applications effectively |
 | **`2026-06-09`** | [Meet Nuxi](https://nuxt.com/blog/meet-nuxi) - an introduction to new Nuxt AI assistant |
 | **`2026-06-08`** | [Nuxt 4.4.8](https://github.com/nuxt/nuxt/releases/tag/v4.4.8) - new small patch release for **Nuxt 4** focused on a hotfix for MacOS issue |
 | **`2026-06-08`** | [Nuxt 3.21.8](https://github.com/nuxt/nuxt/releases/tag/v3.21.8) - new patch release for **Nuxt 3** for backporting v4 fixes |
