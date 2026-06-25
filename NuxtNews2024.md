@@ -1,10 +1,11 @@
 # NUXT NEWS 2024
+
 What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) community up to in 2024?
 
 ## 2024 - December
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-12-24`** | [Nuxt 3.15](https://nuxt.com/blog/v3-15) - Christmas' **Nuxt** 3.x minor version with couple of new features |
 | **`2024-12-21`** | [The Perfect Guide to Setting Up a New Nuxt Project](https://soubiran.dev/posts/the-perfect-guide-to-setting-up-a-new-nuxt-project) - check out Estéban Soubiran's current ideal setup for Nuxt applications |
 | **`2024-12-14`** | [Building A Persistent Multilingual Toast Component In Nuxt](https://www.codybontecou.com/building-a-persistent-multilingual-toast-component-in-nuxt) - step-by-step tutorial for working with _toast_ notifications from **shadcn** and **i18n** module |
@@ -17,7 +18,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - November
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-11-29`** | [What Does the Vueniverse Look Like in 2025?](https://vueschool.io/articles/news/what-does-the-vueniverse-look-like-in-2025-predictions-for-the-vue-ecosystem-in-the-year-ahead/) - predictions for the Vue Ecosystem in the next year |
 | **`2024-11-28`** | [How To Optimize Performance In Nuxt Apps](https://www.debugbear.com/blog/optimize-nuxt-performance) - practical tips for making Nuxt faster, less memory and bandwidth consuming, etc. |
 | **`2024-11-26`** | [Vite 6.0 is out!](https://vite.dev/blog/announcing-vite6.html) - new major version of #1 build engine for (not only) Vue and Nuxt apps |
@@ -34,7 +35,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - October
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-10-21`** | [Performant Images with Nuxt Image and Cloudinary](https://dev.to/jacobandrewsky/performant-images-with-nuxt-image-and-cloudinary-5e2) - using **Cloudinary** image provider to speed up your applications |
 | **`2024-10-19`** | [Vue Fes Japan 2024](https://vueconf.us/) - **Vue** conference took place in Tokyo [JPN] |
 | **`2024-10-09`** | [vuejs.de Conf 2024](https://conf.vuejs.de/) - **Vue** conference took place in Bonn [GER] |
@@ -44,7 +45,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - September
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-09-17`** | [PragVue 2024](https://pragvue.com/) - Vue/Nuxt conference took place in Prague [CZE] |
 | **`2024-09-15`** | [Nuxt 3.13.2](https://github.com/nuxt/nuxt/releases/tag/v3.13.2) - Nuxt patch release with a couple of fixes |
 | **`2024-09-04`** | [Behind the scenes of Nuxt Studio's visual editor](https://nuxt.studio/blog/visual-editor) - an article to help understanding **Nuxt studio** editor better |
@@ -54,7 +55,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - August
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-08-27`** | [Easy RPC with Nuxt: Making a Todo App](https://blog.doseofted.me/easy-rpc-with-nuxt-making-a-todo-app) - an interesting integration between Nuxt and Prim+RPC tool for remote procedure calls in JavaScript |
 | **`2024-08-22`** | [Nuxt 3.13](https://nuxt.com/blog/v3-13) - another **Nuxt** 3.x minor version with yet another bunch of updates, including features ported from upcoming **Nuxt 4** |
 | **`2024-08-20`** | [Introducing Nuxt Scripts](https://nuxt.com/blog/nuxt-scripts) - working with exteral scripts will be easier in Nuxt with this new module (currently in public beta) |
@@ -69,7 +70,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - July
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-07-23`** | [Migration to Nuxt: where are we Today?](https://blog.malt.engineering/migration-to-nuxt-where-are-we-today-9f98c2ad9b58) - practical experiences from migrating a big project |
 | **`2024-07-19`** | [Nuxt & Codemod Announcement](https://codemod.com/blog/nuxt-announcement) - **Codemod** platform will help with migration from Nuxt 3 to upcoming Nuxt 4 |
 | **`2024-07-19`** | [Nuxt 3.12.4](https://github.com/nuxt/nuxt/releases/tag/v3.12.4) - scheduled patch release with a number of fixes and refactors |
@@ -81,7 +82,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - June
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-06-27`** | [Nuxt 2.18.0](https://github.com/nuxt/nuxt/releases/tag/v2.18.0) - minor release for **v2** legacy branch |
 | **`2024-06-24`** | [Upgrading to Nuxt 4](https://www.vuemastery.com/blog/upgrading-to-nuxt-4/) - as **Nuxt 4** is getting close, here is the info for migration from **v3** |
 | **`2024-06-27`** | [Nuxt Icon 1.0.0](https://github.com/nuxt/icon/releases/tag/v1.0.0) - Nuxt module for easy working with icons is now released in **1.0.0** version |
@@ -101,7 +102,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - May
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-05-29`** | [Real-World Nuxt — Shadcn-vue and Nuxt Layers](https://muozalp.com/real-world-nuxt-shadcn-vue-and-nuxt-layers-641b0e994930) - step-by-step tutorial about setting up a **shadcn-vue** in Nuxt Layer project |
 | **`2024-05-28`** | [How we tackled our major front-end migration to Nuxt 3](https://blog.funda.nl/migrating-our-frontend-to-nuxt-3/) - practical experience with Nuxt 3 |
 | **`2024-05-27`** | [Lazy load components in Nuxt to improve performance](https://dev.to/jacobandrewsky/lazy-load-components-in-nuxt-to-improve-performance-4lg6) - a brief intro to "lazy" components concept |
@@ -116,7 +117,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - April
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-04-29`** | [Domain Driven Design With Nuxt Layers](https://vueschool.io/articles/vuejs-tutorials/domain-driven-design-with-nuxt-layers/) - how to use **Nuxt** concept called "Layers" to support better organization of your codebase |
 | **`2024-04-25`** | [Vue.js Live 2024](https://vuejslive.com/) - online conference took place **25th and 26th April, 2024** |
 | **`2024-04-23`** | [Official Nuxt Certification Arrives!](https://dev.to/anaamarijaa/official-nuxt-certification-arrives-early-bird-pre-orders-are-open-45e7) - it is now possible to get certified for Nuxt via **certificates.dev** |
@@ -131,7 +132,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - March
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-03-28`** | [Nuxt: Looking forward](https://nuxt.com/blog/looking-forward-2024) - summary of 2023 and plans for 2024 from the Nuxt team |
 | **`2024-03-21`** | [Announcing VitePress 1.0](https://blog.vuejs.org/posts/vitepress-1.0) - static site generator powered by Vue + Vite finally reached official 1.0 released |
 | **`2024-03-19`** | [Nuxt 3.11.1](https://github.com/nuxt/nuxt/releases/tag/v3.11.1) - **Nuxt** patch release |
@@ -144,9 +145,9 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - February
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-02-29`** | [The CJS build of Vite’s Node API is deprecated](https://vueschool.io/articles/vuejs-tutorials/the-cjs-build-of-vites-node-api-is-deprecated/) - practical tip from **VueSchool.io** about how to fix a warning that a number of devs have found in their terminal lately |
-| **`2024-02-28`** | [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - conference took place **28th and 29th February, 2024**
+| **`2024-02-28`** | [Vuejs Amsterdam 2024](https://vuejs.amsterdam/) - conference took place **28th and 29th February, 2024** |
 | **`2024-02-23`** | [Nuxt - how to create a sitemap Google Search will like!](https://bartmartin.com/nuxt-how-to-create-a-sitemap-google-search-will-like) - tutorial for building a sitemap with Nuxt including I18N for translations |
 | **`2024-02-22`** | [Nuxt 3.10.3](https://github.com/nuxt/nuxt/releases/tag/v3.10.3) - **Nuxt** patch release |
 | **`2024-02-14`** | [Common Mistakes in Vue.js](https://vueschool.io/articles/vuejs-tutorials/common-mistakes-in-vue-js) - what you really shouldn't do when dealing with Vue.js |
@@ -159,7 +160,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2024 - January
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2024-01-30`** | [Nuxt 3.10](https://nuxt.com/blog/v3-10) - **Nuxt** minor release with new features |
 | **`2024-01-28`** | [How to Write Clean Vue Components](https://dev.to/alexanderop/how-to-write-clean-vue-components-5bl) - approach to organizing code logic via **_"Functional Core, Imperative Shell"_** pattern |
 | **`2024-01-26`** | [Top UI Libraries for Building Stunning UIs in Vue 3 and Nuxt 3](https://vuejsdevelopers.com/2024/01/26/top-ui-libraries-for-building-stunning-uis-in-vue3-and-nuxt3/) - an overview of a couple of most prominent UI frameworks in current Vue ecosystem |
@@ -180,7 +181,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2023 - December
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2023-12-29`** | [What's new in Vue 3.4?](https://blog.ninja-squad.com/2023/12/29/what-is-new-vue-3.4/) - more detailed and commented look onto new features of **Vue 3.4** |
 | **`2023-12-28`** | [Vue 3.4](https://blog.vuejs.org/posts/vue-3-4) - **Vue** minor release, code name _"Slam Dunk"_. See the new features in the linked announcement. |
 | **`2023-12-27`** | [Exploring Nuxt Devtools](https://vueschool.io/articles/vuejs-tutorials/exploring-nuxt-devtools/) - how to improve your DX with **Nuxt Devtools** |
@@ -201,7 +202,7 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 ## 2023 - November
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2023-11-28`** | [Top 5 mistakes to avoid when using Pinia](https://masteringpinia.com/blog/top-5-mistakes-to-avoid-when-using-pinia) - useful tips for working with **Pinia** directly from the library author |
 | **`2023-11-25`** | [How to Test Vue Composables](https://dev.to/alexanderop/how-to-test-vue-composables-2550) - practical introduction to **Vue** component testing |
 | **`2023-11-25`** | [Is Nuxt 3 Really Production Ready?](https://dev.to/nuxt-wimadev/is-nuxt-3-really-production-ready-1gik) - short answer: Yes, it is! |
@@ -212,4 +213,5 @@ What was the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) c
 | **`2023-11-06`** | [Nuxt 3.8.1](https://github.com/nuxt/nuxt/releases/tag/v3.8.1) - **Nuxt** patch release |
 
 ---
-_This news archive is being maintained since 11/2023_
+
+This news archive is being maintained since 11/2023

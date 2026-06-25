@@ -1,17 +1,21 @@
-## Nuxt Image
+# Nuxt Image
+
 This demo shows how to work with images easily with [Nuxt Image module](https://image.nuxt.com/)
 
-### How to use
+## How to use
+
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-image`
 3. `pnpm install`
-4. `pnpm dev` 
-5. `localhost:3000` 
+4. `pnpm dev`
+5. `localhost:3000`
 
 Index page shows various applications of Nuxt Image module features.
 
-### Tutorial article
+## Tutorial article
+
 NOT YET
 
-### Attribution
+## Attribution
+
 Test images come from [https://unsplash.com/](https://unsplash.com/)

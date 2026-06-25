@@ -7,16 +7,20 @@ This is a showcase of what I have learned on my journey with Nuxt so far. Each s
 The demos are tailored to fit the new [Nuxt v4 project structure](https://nuxt.com/docs/4.x/getting-started/upgrade#new-directory-structure) (with `/app/` directory).
 
 ## Vue & Nuxt news
+
 See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting articles maintained since 11/2023.
 
 ## Available projects
+
 **NOTE:** This project is maintained using `pnpm` as package manager due to excessive amount of disc space consumed by overlapping `node_modules` directories created by good ol' `npm`. However, there is no problem for you to keep using `npm`, if you are used to. Just use respective version of command.
 
 ### Starters
+
 - [**nuxt-minimal**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-minimal) - the smallest setup required to run Nuxt
 - [**nuxt-simple**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-simple) - simple setup to start demo Nuxt app (also available as [standalone Git project](https://github.com/AloisSeckar/nuxt-starter) for easier forking and cloning)
 
 ### Nuxt basics
+
 - [**nuxt-pages**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pages) - example of Nuxt pages and components
 - [**nuxt-utils**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-utils) - example of Nuxt utils and composables
 - [**nuxt-layouts**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-layouts) - example of Nuxt layouts
@@ -25,10 +29,13 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting
 - [**nuxt-plugins**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-plugins) - example of creating plugins in Nuxt
 
 ### Nuxt extras
+
 - [**nuxt-time**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-time) - example of `<NuxtTime>` built-in component
 
 ### Advanced topics
+
 #### UI integrations
+
 - [**nuxt-tailwind**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-tailwind) - integration with [Tailwind CSS](https://tailwindcss.com/)
 - [**nuxt-bootstrap**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-bootstrap) - integration with [Bootstrap](https://getbootstrap.com/) (alternative to Tailwind)
 - [**nuxt-openprops**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-openprops) - integration with [Open Props](https://open-props.style/) (alternative to Tailwind)
@@ -36,6 +43,7 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting
 - [**nuxt-fa**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Font Awesome](https://fontawesome.com/) (alternative to Icônes)
 
 #### UI and Forms libraries
+
 - [**nuxt-ui**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-ui) - integration with [Nuxt UI](https://ui.nuxt.com/)
 - [**nuxt-vueform**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-vueform) - integration with [Vueform](https://vueform.com/)
 - [**nuxt-formkit**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-formkit) - integration with [Formkit](https://formkit.com/)
@@ -43,29 +51,36 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting
 - [**nuxt-charts**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-charts) - integration with [nuxt-charts](https://nuxtcharts.com/)
 
 #### Fonts
+
 - [**nuxt-fonts**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fonts) - incorporate ANY font sets easily with an official [Nuxt Fonts module](https://fonts.nuxt.com/)
 - [**nuxt-fonts-g**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fonts-g) - incorporate Google font sets easily with [Nuxt Google Fonts module](https://google-fonts.nuxtjs.org/)
 
 #### Content
+
 - [**nuxt-content v3**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content3) - creating content pages easily with [Nuxt Content module](https://content.nuxt.com/)
 - [**nuxt-content**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-content) - legacy version showing the setup for v2
 
 #### Images
+
 - [**nuxt-image**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-image) - work with images easily with [Nuxt Image module](https://image.nuxt.com/)
 
 #### Database
+
 - [**nuxt-pinia**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-pinia) - integration with [Pinia](https://pinia.vuejs.org/)
 - [**nuxt-supabase**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-supabase) - integration with [Supabase](https://supabase.com/)
 - [**nuxt-neon**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-neon) - integration with [Neon](https://neon.tech/) using native driver
 - [**nuxt-neon-m**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-neon-m) - integration with [Neon](https://neon.tech/) using [nuxt-neon](https://github.com/AloisSeckar/nuxt-neon/) module
 
 #### Schema validation
+
 - [**nuxt-valibot**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-valibot) - validating objects structure with [Valibot](https://valibot.dev/)
 - [**nuxt-zod**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-zod) - validating objects structure with [Zod](https://zod.dev/)
 
 #### Other
+
 - [**nuxt-use**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-use) - various demos of [VueUse](https://vueuse.org/) features in Nuxt
 - [**nuxt-animation**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-animation) - displaying simple animation using [VueUse](https://vueuse.org/)
 
 ### Testing
+
 - [**nuxt-test**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-text) - how to setup basic test scenarios using tools [recommended for Nuxt](https://nuxt.com/docs/4.x/getting-started/testing)

@@ -1,16 +1,20 @@
 # NUXT NEWS
+
 What is the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) community recently up to?
 
 ## Sources
+
 Stay up-to-date with the following even more dedicated websites:
-- https://nuxt.com/blog
-- https://weekly-vue.news/
-- https://masteringnuxt.com/blog/
-- https://michaelnthiessen.com/
-- https://dejavue.fm/
-- https://voidzero.dev/blog
+
+- <https://nuxt.com/blog>
+- <https://weekly-vue.news/>
+- <https://masteringnuxt.com/blog/>
+- <https://michaelnthiessen.com/>
+- <https://dejavue.fm/>
+- <https://voidzero.dev/blog>
 
 ## Upcoming events
+
 - [VueJS Amsterdam 2026](https://vuejs.amsterdam/) - **12-13 March 2026**, Amsterdam [NED]
 - [Vueconf.US 2026](https://vueconf.us/) - **19-21 May 2026**, Atlanta [USA]
 - [MadVue 2026](https://madvue.es/) - **22 May 2026**, Madrid [ESP]
@@ -18,7 +22,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - December
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-12-24`** | [Stop Using ref() in Nuxt SSR](https://xplorebits.com/blog/stop-using-refs-in-nuxt/) - important reminder of how **NOT** to treat reactivity in SSR Nuxt applications |
 | **`2025-12-22`** | [Nuxt Scripts for improved Performance and Security](https://dev.to/jacobandrewsky/nuxt-scripts-for-improved-performance-and-security-2b6i) - how to use **Nuxt Script** module for better integration of external scripts into Nuxt apps |
 | **`2025-12-17`** | [Nuxt UI 4.3](https://github.com/nuxt/ui/releases/tag/v4.3.0) - new minor release of **Nuxt UI** library module with new Editor and ScrollArea components plus other improvements and fixes |
@@ -33,7 +37,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - November
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-11-24`** | [How to Implement Content Security Policy in Nuxt](https://dev.to/jacobandrewsky/how-to-implement-content-security-policy-in-nuxt-3jhl) - make your applications more secure by setting **CSP** rules |
 | **`2025-11-22`** | [How Moving from Plain Vue to Nuxt Simplified my Workflow](https://javascript.plainenglish.io/from-vue-to-nuxt-the-shift-that-changed-my-workflow-7801e6a68104) - three concrete reasons why to upgrade from plain Vue to Nuxt based on author's personal experience |
 | **`2025-11-18`** | [Nuxt UI 4.2](https://github.com/nuxt/ui/releases/tag/v4.2.0) - new minor release of **Nuxt UI** library module with new InputDate and InputTime components plus other improvements and fixes |
@@ -50,8 +54,8 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - October
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
-| **`2025-10-28`** | [Nuxt 3.20.0](https://github.com/nuxt/nuxt/releases/tag/v3.20.0) - new minor release of **Nuxt 3** - backporting compatible features and fixes
+| --- | :-- |
+| **`2025-10-28`** | [Nuxt 3.20.0](https://github.com/nuxt/nuxt/releases/tag/v3.20.0) - new minor release of **Nuxt 3** - backporting compatible features and fixes |
 | **`2025-10-25`** | [Vue Fes Japan 2025](https://vuefes.jp/2025/en) - the Vue conference in Japan took place on **25th October 2025** in Tokyo, JPN |
 | **`2025-10-25`** | [Nuxt 4.2.0](https://nuxt.com/blog/v4-2) - new minor release of **Nuxt 4** - changes include option to abort data fetching request or enhanced error info in dev mode |
 | **`2025-10-23`** | [Nuxt UI 4.1](https://github.com/nuxt/ui/releases/tag/v4.1.0) - new minor release of **Nuxt UI** library module with new Empty component, virtualization and other improvements and fixes |
@@ -68,7 +72,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - September
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-09-23`** | [PragVue 2025](https://pragvue.com/2025) - the Vue conference in Czechia took place on **23 September 2025** in Prague, CZE |
 | **`2025-09-22`** | [Nuxt UI v4](https://nuxt.com/blog/nuxt-ui-v4) - Nuxt's most dedicated UI library goes fully open source in its new major version |
 | **`2025-09-15`** | [Nuxt Scripts: Load And Optimize Third Party Code](https://www.debugbear.com/blog/nuxt-scripts) - a review of this very useful module for maintaining external scripts in Nuxt apps |
@@ -85,7 +89,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - August
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-08-25`** | [Optimizing Nuxt Apps for Core Web Vitals](https://dev.to/jacobandrewsky/optimizing-nuxt-apps-for-core-web-vitals-106j) - useful checklist for better performance of Nuxt apps |
 | **`2025-08-18`** | [How To Run Scheduled Tasks in Nuxt on Netlify](https://vueschool.io/articles/uncategorized/how-to-run-scheduled-tasks-in-nuxt-on-netlify-the-hacky-way-for-now/) - allowing Nitro experimental automated scheduling feature for Netlify deployments as well |
 | **`2025-08-11`** | [Best practices for Accessibility in Vue / Nuxt](https://dev.to/jacobandrewsky/best-practices-for-accessibility-in-vue-nuxt-1cga) - useful checklist regarding one of the most overlooked aspect of web development |
@@ -96,7 +100,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - July
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-07-29`** | [Nuxt 4.0.2](https://github.com/nuxt/nuxt/releases/tag/v4.0.2) - scheduled patch release for **Nuxt 4** |
 | **`2025-07-29`** | [Nuxt 3.18](https://nuxt.com/blog/v3-18) - Nuxt **v3** will continue getting fixes and backports of new features for next half a year |
 | **`2025-07-25`** | [Docus v4](https://github.com/nuxtlabs/docus/releases/tag/v4.0.0) - while v3 version was released only in June, Nuxt 4 compatibility is there and this means new version of the **Docus** tool |
@@ -120,7 +124,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - June
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-06-25`** | [Nuxt UI 3.2](https://github.com/nuxt/ui/releases/tag/v3.2.0) - new minor release of **Nuxt UI** library module with 2 new components and various other features and fixes |
 | **`2025-06-24`** | [Vite 7.0 is out!](https://vite.dev/blog/announcing-vite7.html) - newest major version of the build tool that fuels (not only) Vue world |
 | **`2025-06-20`** | [Vite’s Creator on a Unified JavaScript Toolchain and Vite+](https://thenewstack.io/vites-creator-on-a-unified-javascript-toolchain-and-vite/) - an interview with **Evan You** about the future of JavaScript |
@@ -128,7 +132,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2025-06-10`** | [Announcing Oxlint 1.0](https://voidzero.dev/posts/announcing-oxlint-1-stable) - **Oxc.rs** initiative is releasing first stable version of their own linter written in **Rust** - faster and better maybe? |
 | **`2025-06-10`** | [NuxtHub - Environments & Improved variable management](https://hub.nuxt.com/changelog/environments) - what is new in **NuxtHub** project |
 | **`2025-06-10`** | [H3 v2 beta](https://h3.dev/blog/v2-beta) - this might sound as not such a big deal itself, but it is a step forward towards the next iteration of Nuxt |
-| **`2025-06-09`** | [Optimized Fonts in Nuxt](https://dev.to/jacobandrewsky/optimized-fonts-in-nuxt-2a1n) - introducing **@nuxt/fonts** module for simple and performant work with web fonts  |
+| **`2025-06-09`** | [Optimized Fonts in Nuxt](https://dev.to/jacobandrewsky/optimized-fonts-in-nuxt-2a1n) - introducing **@nuxt/fonts** module for simple and performant work with web fonts |
 | **`2025-06-08`** | [Powering multi-tenant applications with Nuxt](https://www.adamdehaven.com/articles/powering-multi-tenant-applications-with-nuxt) - detailed tutorial for serving more client apps from the same source |
 | **`2025-06-05`** | [Nuxt and why you should be using it](https://juststeveking.com/articles/nuxt-and-why-you-should-be-using-it) - a handful of tips how you can advocate for Nuxt on your next big project |
 | **`2025-06-03`** | [Nuxt 3.17.5](https://github.com/nuxt/nuxt/releases/tag/v3.17.5) - another Nuxt **3.17** patch version with rather small portion of new fixes |
@@ -137,7 +141,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - May
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-05-29`** | [MadVue 2025](https://madvue.es/) - the Vue conference in Spain took place on **29 May 2025** in Madrid, ESP |
 | **`2025-05-20`** | [Nuxt 3.17.4](https://github.com/nuxt/nuxt/releases/tag/v3.17.4) - another Nuxt **3.17** patch version with minor fixes |
 | **`2025-05-19`** | [Building a Nuxt module from scratch](https://dev.to/jacobandrewsky/building-a-nuxt-module-from-scratch-4bd3) - how to start with **modules** in Nuxt |
@@ -150,7 +154,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - April
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-04-29`** | [Nuxt 3.17.1](https://github.com/nuxt/nuxt/releases/tag/v3.17.1) - quick Nuxt **3.17** patch version delivering couple of fixes |
 | **`2025-04-28`** | [Build a Full-Stack App with Zero Backend](https://dev.to/jacobandrewsky/nuxt-server-routes-build-a-full-stack-app-with-zero-backend-bp9) - a reminder how easy it is to use Nuxt server routes to build-up solid fully-functional webapps |
 | **`2025-04-28`** | [Nuxt 3.17](https://nuxt.com/blog/v3-17) - new minor version of **Nuxt** 3.x with a number of new features like `<NuxtTime>` component, changes in data fetching or DevEx improvements |
@@ -167,12 +171,12 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - March
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-03-24`** | [Client-side AI with Nuxt Workers + Transformers.js](https://www.codybontecou.com/client-side-ai-with-nuxt-works-and-transformersjs) - using AI in Nuxt |
 | **`2025-03-24`** | [Blazingly fast E-Commerce in Nuxt](https://dev.to/jacobandrewsky/blazingly-fast-e-commerce-in-nuxt-2gaa) - introducing the brand new **Nuxt Commerce** module |
 | **`2025-03-19`** | [Nuxt 3.16.1](https://github.com/nuxt/nuxt/releases/tag/v3.16.1) - scheduled Nuxt **3.16** patch version delivering some updates and fixes |
 | **`2025-03-13`** | [Vuejs Amsterdam](https://vuejs.amsterdam/) - the biggest Vue.js onsite conference took place **12 - 13 March 2025** in Amsterdam, NED |
-| **`2025-03-12`** | [Nuxt on the Edge with Cloudflare Workers](https://ymo.dev/blog/nuxt-on-edge-cloudflare-workers) - how a daring attempt to run Nuxt on **Cloudflare** turns out?  |
+| **`2025-03-12`** | [Nuxt on the Edge with Cloudflare Workers](https://ymo.dev/blog/nuxt-on-edge-cloudflare-workers) - how a daring attempt to run Nuxt on **Cloudflare** turns out? |
 | **`2025-03-12`** | [Nuxt UI v3](https://nuxt.com/blog/nuxt-ui-v3) - this major redesign brings improved accessibility, Tailwind CSS v4 support, and full Vue compatibility to **Nuxt UI** library module |
 | **`2025-03-09`** | [How to Develop an Open Telemetry Plugin for Nuxt](https://techwatching.dev/posts/nuxt-otel) - tutorial for making Nuxt apps more observable |
 | **`2025-03-07`** | [Nuxt 3.16](https://nuxt.com/blog/v3-16) - new minor version of **Nuxt** 3.x with a number of new features and upgrades |
@@ -182,7 +186,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - February
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-02-20`** | [Nuxt Content 3.2](https://github.com/nuxt/content/releases/tag/v3.2.0) - new version of **Nuxt Content** module |
 | **`2025-02-17`** | [How to Use Nuxt 3 Middleware for Authentication and Permissions](https://dev.to/jacobandrewsky/how-to-use-nuxt-3-middleware-for-authentication-and-permissions-5d9b) - the title says it |
 | **`2025-02-11`** | [How I found an XSS in the Nuxt MDC Library](https://www.nodejs-security.com/blog/nuxt-mdc-xss-vulnerability) - a case study of a security vulnerability discovered and fixed in one of the popular Nuxt modules |
@@ -192,7 +196,7 @@ Stay up-to-date with the following even more dedicated websites:
 ## 2025 - January
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
-| --- | :--  |
+| --- | :-- |
 | **`2025-01-30`** | [Nuxt 2 to Nuxt 3 Migration – Why Now and How to Succeed](https://coditive.com/blog/nuxt-2-to-nuxt-3-migration-why-now-and-how-to-succeed/) - if you still haven't migrated your Nuxt 2 app to v3, here is how to do it |
 | **`2025-01-30`** | [Vue.js Nation 2025](https://vuejsnation.com/2025) - the biggest Vue.js online conference took place **29th and 30th January, 2025** |
 | **`2025-01-29`** | [Nuxt 3.15.4](https://github.com/nuxt/nuxt/releases/tag/v3.15.4) - smaller Nuxt **3.15** patch version delivering couple of updates and fixes. |
@@ -212,7 +216,8 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2025-01-03`** | [Navigation guards in Nuxt 3 with defineNuxtRouteMiddleware](https://dev.to/logrocket/navigation-guards-in-nuxt-3-with-definenuxtroutemiddleware-56h3) - comprehensive overview of using route middleware in Nuxt |
 | **`2025-01-02`** | [Why you should attend Vue.js Nation 2025](https://vueschool.io/articles/news/why-you-should-attend-vue-js-nation-2025/) - an invitation for 2025 issue of annual biggest Vue/Nuxt online conference |
 
-
 ## VUE & NUXT NEWS from previous years
+
 To keep this file reasonable short, older news are being archived:
+
 - [Year 2024](https://github.com/AloisSeckar/demos-nuxt/blob/main/NuxtNews2024.md)

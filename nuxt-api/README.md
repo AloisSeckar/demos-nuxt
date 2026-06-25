@@ -1,18 +1,22 @@
-## Nuxt API
+# Nuxt API
+
 This demo shows how to create and consume [Nuxt](https://nuxt.com/) server-side API.
 
-### How to use
+## How to use
+
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-api`
 3. `pnpm install`
-4. `pnpm dev` 
-5. `localhost:3000` 
+4. `pnpm dev`
+5. `localhost:3000`
 
 Hit "API call" button to see the dynamic response from server-side API provided by Nuxt itself.
 
-### API methods
-* **sample** - `http://localhost:3000/api/sample/` - returns "Hello, world" message + current time
-* **error** - `http://localhost:3000/api/error/` - returns random HTTP error 400 - 410
+## API methods
 
-### Tutorial article
+- **sample** - `http://localhost:3000/api/sample/` - returns "Hello, world" message + current time
+- **error** - `http://localhost:3000/api/error/` - returns random HTTP error 400 - 410
+
+## Tutorial article
+
 - `dev.to`: [Nuxt Tutorial 4 - Server Side](https://dev.to/aloisseckar/nuxt-tutorial-4-server-side-2dal)

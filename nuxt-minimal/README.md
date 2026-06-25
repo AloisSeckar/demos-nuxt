@@ -1,28 +1,34 @@
-## Nuxt Minimal Starter
+# Nuxt Minimal Starter
+
 This demo shows how little is needed to start working with [Nuxt](https://nuxt.com/)
 
-### Warning
+## Warning
+
 This setup is "minimal", thus consciously omitting some important, if not crucial, files and features.
 
 Above others:
-* `nuxt.config.ts` file for Nuxt settings
-* `tsconfig.json` file to correctly resolve aliases for Nuxt auto-imports in IDE
-* **ESLint** for static code analysis
+
+- `nuxt.config.ts` file for Nuxt settings
+- `tsconfig.json` file to correctly resolve aliases for Nuxt auto-imports in IDE
+- **ESLint** for static code analysis
 
 Do not use this as a starter for your real projects. Rather pick my [`nuxt-ignis`](https://github.com/AloisSeckar/nuxt-ignis) (with build-in integrations) or [`nuxt-starter`](https://github.com/AloisSeckar/nuxt-v4-starter) (just plain Nuxt, but not gutted like this one).
 
-### How to use
+## How to use
+
 1. `git checkout demos-nuxt project`
 2. `cd nuxt-minimal`
 3. `pnpm install`
-4. `npx nuxi dev` 
-5. `localhost:3000` 
+4. `npx nuxi dev`
+5. `localhost:3000`
 
 Congratulations. You have working Nuxt app.
 
 The only two really required files are:
+
 - `package.json` with `devDependency` on Nuxt
 - `app.vue` with a simple `template` section
 
-### Tutorial article
+## Tutorial article
+
 - `dev.to`: [Nuxt Tutorial 1 - First Steps](https://dev.to/aloisseckar/nuxt-tutorial-1-first-steps-2jp5#nuxt-minimal)
