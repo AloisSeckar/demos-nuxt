@@ -22,6 +22,9 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-06-23`** | [Vite 8.1](https://vite.dev/blog/announcing-vite8-1) - new minor release of **Vite** server with experimental bundled dev mode, chunk import maps, Wasm ESM integration and more |
+| **`2026-06-18`** | [Nuxt UI 4.9](https://github.com/nuxt/ui/releases/tag/v4.9.0) - new minor release of **Nuxt UI** library module with Calendar month/year selection, useTour composable, theme.unstyled option, uniform focus styles and various fixes |
+| **`2026-06-17`** | [SEO in Nuxt with @nuxtjs/seo](https://certificates.dev/blog/seo-in-nuxt-with-at-nuxtjsseo) - see how to set up sitemaps, meta tags, structured data, OG images, and robots.txt in Nuxt with the official SEO module |
 | **`2026-06-15`** | [An advanced guide to Nuxt testing and mocking](https://blog.logrocket.com/advanced-guide-nuxt-testing-mocking/) - learn how to handle testing your Nuxt applications effectively |
 | **`2026-06-09`** | [Meet Nuxi](https://nuxt.com/blog/meet-nuxi) - an introduction to new Nuxt AI assistant |
 | **`2026-06-08`** | [Nuxt 4.4.8](https://github.com/nuxt/nuxt/releases/tag/v4.4.8) - new small patch release for **Nuxt 4** focused on a hotfix for MacOS issue |
