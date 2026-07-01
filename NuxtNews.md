@@ -15,6 +15,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 ## Upcoming events
 
+- [VueVerse Global Connect 3](https://vueverse.in/events/6) - **7 July 2026**, online
 - [PragVue 2026](https://pragvue.com/) - **29 September 2026**, Prague [CZE]
 - [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
 
