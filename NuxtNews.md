@@ -19,10 +19,18 @@ Stay up-to-date with the following even more dedicated websites:
 - [PragVue 2026](https://pragvue.com/) - **29 September 2026**, Prague [CZE]
 - [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
 
+## 2026 - July
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :-- |
+| **`2026-06-29`** | [Internationalization with Nuxt i18n](https://lucassimines.dev/articles/internationalization-with-nuxt-i18n-a-practical-guide-for-production-apps) - a practical guide on using **i18n** module |
+| **`2026-07-01`** | [Performance Optimization in Nuxt](https://certificates.dev/blog/performance-optimization-in-nuxt) - checklist of techniques that can help to make your Nuxt apps faster and more efficient |
+
 ## 2026 - June
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-06-29`** | [Mastering useFetch in Nuxt 3 and 4](https://lucassimines.dev/articles/mastering-usefetch-nuxt-4) - there is never enough articles about fetching data in **Nuxt** |
 | **`2026-06-23`** | [Vite 8.1](https://vite.dev/blog/announcing-vite8-1) - new minor release of **Vite** server with experimental bundled dev mode, chunk import maps, Wasm ESM integration and more |
 | **`2026-06-18`** | [Nuxt UI 4.9](https://github.com/nuxt/ui/releases/tag/v4.9.0) - new minor release of **Nuxt UI** library module with Calendar month/year selection, useTour composable, theme.unstyled option, uniform focus styles and various fixes |
 | **`2026-06-17`** | [SEO in Nuxt with @nuxtjs/seo](https://certificates.dev/blog/seo-in-nuxt-with-at-nuxtjsseo) - see how to set up sitemaps, meta tags, structured data, OG images, and robots.txt in Nuxt with the official SEO module |
