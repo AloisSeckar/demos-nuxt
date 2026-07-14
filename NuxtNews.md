@@ -15,7 +15,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 ## Upcoming events
 
-- [VueVerse Global Connect 3](https://vueverse.in/events/6) - **7 July 2026**, online
+- [Vue × Vite 2026 Developer Conference](https://vueconf.cn/) - **18 July 2026**, Shanghai [CHN]
 - [PragVue 2026](https://pragvue.com/) - **29 September 2026**, Prague [CZE]
 - [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
 
@@ -23,7 +23,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
-| **`2026-06-29`** | [Internationalization with Nuxt i18n](https://lucassimines.dev/articles/internationalization-with-nuxt-i18n-a-practical-guide-for-production-apps) - a practical guide on using **i18n** module |
+| **`2026-07-01`** | [Internationalization with Nuxt i18n](https://lucassimines.dev/articles/internationalization-with-nuxt-i18n-a-practical-guide-for-production-apps) - a practical guide on using **i18n** module |
 | **`2026-07-01`** | [Performance Optimization in Nuxt](https://certificates.dev/blog/performance-optimization-in-nuxt) - checklist of techniques that can help to make your Nuxt apps faster and more efficient |
 
 ## 2026 - June
