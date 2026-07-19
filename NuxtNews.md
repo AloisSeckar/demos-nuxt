@@ -23,6 +23,8 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-07-18`** | [Nuxt 4.5](https://nuxt.com/blog/v4-5) - new release for **Nuxt 4** preparing to bridge to Nuxt v5 and bringing couple of new cool features |
+| **`2026-07-18`** | [Nuxt 3.21.9](https://github.com/nuxt/nuxt/releases/tag/v3.21.9) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2026-07-01`** | [Internationalization with Nuxt i18n](https://lucassimines.dev/articles/internationalization-with-nuxt-i18n-a-practical-guide-for-production-apps) - a practical guide on using **i18n** module |
 | **`2026-07-01`** | [Performance Optimization in Nuxt](https://certificates.dev/blog/performance-optimization-in-nuxt) - checklist of techniques that can help to make your Nuxt apps faster and more efficient |
 
