@@ -15,7 +15,6 @@ Stay up-to-date with the following even more dedicated websites:
 
 ## Upcoming events
 
-- [Vue × Vite 2026 Developer Conference](https://vueconf.cn/) - **18 July 2026**, Shanghai [CHN]
 - [PragVue 2026](https://pragvue.com/) - **29 September 2026**, Prague [CZE]
 - [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
 
@@ -25,6 +24,9 @@ Stay up-to-date with the following even more dedicated websites:
 | --- | :-- |
 | **`2026-07-18`** | [Nuxt 4.5](https://nuxt.com/blog/v4-5) - new release for **Nuxt 4** preparing to bridge to Nuxt v5 and bringing couple of new cool features |
 | **`2026-07-18`** | [Nuxt 3.21.9](https://github.com/nuxt/nuxt/releases/tag/v3.21.9) - new patch release for **Nuxt 3** for backporting v4 fixes |
+| **`2026-07-18`** | [Vue × Vite 2026 Developer Conference](https://vueconf.cn/) - Chinese Vue.js conference took place **18 July 2026** in Shanghai, CHN |
+| **`2026-07-16`** | [Nuxt UI 4.10](https://github.com/nuxt/ui/releases/tag/v4.10.0) - new minor release of **Nuxt UI** library module with new InputRating component, bundled offline icons and various fixes and improvements |
+| **`2026-07-14`** | [Pinia v4](https://github.com/vuejs/pinia/releases/tag/v4.0.0) - new major release of **Pinia** state management library (and its associated packages) bringing some technical changes and a new dependency improving problems detections during development |
 | **`2026-07-01`** | [Internationalization with Nuxt i18n](https://lucassimines.dev/articles/internationalization-with-nuxt-i18n-a-practical-guide-for-production-apps) - a practical guide on using **i18n** module |
 | **`2026-07-01`** | [Performance Optimization in Nuxt](https://certificates.dev/blog/performance-optimization-in-nuxt) - checklist of techniques that can help to make your Nuxt apps faster and more efficient |
 
@@ -34,7 +36,7 @@ Stay up-to-date with the following even more dedicated websites:
 | --- | :-- |
 | **`2026-06-29`** | [Mastering useFetch in Nuxt 3 and 4](https://lucassimines.dev/articles/mastering-usefetch-nuxt-4) - there is never enough articles about fetching data in **Nuxt** |
 | **`2026-06-23`** | [Vite 8.1](https://vite.dev/blog/announcing-vite8-1) - new minor release of **Vite** server with experimental bundled dev mode, chunk import maps, Wasm ESM integration and more |
-| **`2026-06-18`** | [Nuxt UI 4.9](https://github.com/nuxt/ui/releases/tag/v4.9.0) - new minor release of **Nuxt UI** library module with Calendar month/year selection, useTour composable, theme.unstyled option, uniform focus styles and various fixes |
+| **`2026-06-17`** | [Nuxt UI 4.9](https://github.com/nuxt/ui/releases/tag/v4.9.0) - new minor release of **Nuxt UI** library module with Calendar month/year selection, useTour composable, theme.unstyled option, uniform focus styles and various fixes |
 | **`2026-06-17`** | [SEO in Nuxt with @nuxtjs/seo](https://certificates.dev/blog/seo-in-nuxt-with-at-nuxtjsseo) - see how to set up sitemaps, meta tags, structured data, OG images, and robots.txt in Nuxt with the official SEO module |
 | **`2026-06-15`** | [An advanced guide to Nuxt testing and mocking](https://blog.logrocket.com/advanced-guide-nuxt-testing-mocking/) - learn how to handle testing your Nuxt applications effectively |
 | **`2026-06-09`** | [Meet Nuxi](https://nuxt.com/blog/meet-nuxi) - an introduction to new Nuxt AI assistant |
