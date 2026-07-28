@@ -17,11 +17,14 @@ Stay up-to-date with the following even more dedicated websites:
 
 - [PragVue 2026](https://pragvue.com/) - **29 September 2026**, Prague [CZE]
 - [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
+- [Vue.js Amsterdam 2027](https://vuejs.amsterdam/) - **11-12 March 2027**, Amsterdam [NED]
 
 ## 2026 - July
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-07-27`** | [Nuxt 4.5.1](https://nuxt.com/blog/v4-5-security) - new security patch release for **Nuxt 4** + couple of other buxfixes |
+| **`2026-07-27`** | [Nuxt 3.21.10](https://github.com/nuxt/nuxt/releases/tag/v3.21.10) - new patch release for **Nuxt 3** for backporting v4 security patches and fixes |
 | **`2026-07-18`** | [Nuxt 4.5](https://nuxt.com/blog/v4-5) - new release for **Nuxt 4** preparing to bridge to Nuxt v5 and bringing couple of new cool features |
 | **`2026-07-18`** | [Nuxt 3.21.9](https://github.com/nuxt/nuxt/releases/tag/v3.21.9) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2026-07-18`** | [Vue × Vite 2026 Developer Conference](https://vueconf.cn/) - Chinese Vue.js conference took place **18 July 2026** in Shanghai, CHN |
