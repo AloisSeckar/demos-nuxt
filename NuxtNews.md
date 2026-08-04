@@ -26,6 +26,7 @@ Stay up-to-date with the following even more dedicated websites:
 | **`2026-07-28`** | [How to Set Up an MCP Server for an Existing Nuxt App](https://mokkapps.de/blog/how-to-setup-an-mcp-server-for-an-existing-nuxt-app) - practical guide for making your Nuxt apps AI-friendly |
 | **`2026-07-27`** | [Nuxt 4.5.1](https://nuxt.com/blog/v4-5-security) - new security patch release for **Nuxt 4** + couple of other buxfixes |
 | **`2026-07-27`** | [Nuxt 3.21.10](https://github.com/nuxt/nuxt/releases/tag/v3.21.10) - new patch release for **Nuxt 3** for backporting v4 security patches and fixes |
+| **`2026-07-22`** | [Nuxt Studio and What It Is](https://certificates.dev/blog/nuxt-studio-and-what-it-is) - an introduction to **Nuxt Studio**, an open-source visual CMS for **Nuxt Content** |
 | **`2026-07-18`** | [Nuxt 4.5](https://nuxt.com/blog/v4-5) - new release for **Nuxt 4** preparing to bridge to Nuxt v5 and bringing couple of new cool features |
 | **`2026-07-18`** | [Nuxt 3.21.9](https://github.com/nuxt/nuxt/releases/tag/v3.21.9) - new patch release for **Nuxt 3** for backporting v4 fixes |
 | **`2026-07-18`** | [Vue × Vite 2026 Developer Conference](https://vueconf.cn/) - Chinese Vue.js conference took place **18 July 2026** in Shanghai, CHN |
