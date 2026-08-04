@@ -12,6 +12,7 @@ Stay up-to-date with the following even more dedicated websites:
 - <https://vuedigest.com/>
 - <https://dejavue.fm/>
 - <https://voidzero.dev/blog>
+- <https://certificates.dev/blog?tech=vuejs,nuxt>
 
 ## Upcoming events
 
