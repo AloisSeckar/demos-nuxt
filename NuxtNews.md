@@ -20,6 +20,13 @@ Stay up-to-date with the following even more dedicated websites:
 - [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
 - [Vue.js Amsterdam 2027](https://vuejs.amsterdam/) - **11-12 March 2027**, Amsterdam [NED]
 
+## 2026 - August
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :-- |
+| **`2026-08-05`** | [Nuxt 4.5.2](https://github.com/nuxt/nuxt/releases/tag/v4.5.2) - new patch release for **Nuxt 4** with couple of performance updates and fixes |
+| **`2026-08-05`** | [Nuxt 3.21.11](https://github.com/nuxt/nuxt/releases/tag/v3.21.11) - new patch release for **Nuxt 3** for backporting v4 fixes |
+
 ## 2026 - July
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
