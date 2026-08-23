@@ -24,6 +24,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-08-12`** | [Nuxt 3 hits End Of Life](https://certificates.dev/blog/nuxt-3-hits-end-of-life) - a reminder that even the prolonged date of **31 July 2026** had passed and Nuxt v3 is now considered EOL |
 | **`2026-08-05`** | [Nuxt 4.5.2](https://github.com/nuxt/nuxt/releases/tag/v4.5.2) - new patch release for **Nuxt 4** with couple of performance updates and fixes |
 | **`2026-08-05`** | [Nuxt 3.21.11](https://github.com/nuxt/nuxt/releases/tag/v3.21.11) - new patch release for **Nuxt 3** for backporting v4 fixes |
 
