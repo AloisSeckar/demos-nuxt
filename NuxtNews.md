@@ -20,6 +20,13 @@ Stay up-to-date with the following even more dedicated websites:
 - [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
 - [Vue.js Amsterdam 2027](https://vuejs.amsterdam/) - **11-12 March 2027**, Amsterdam [NED]
 
+## 2026 - September
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :-- |
+| **`2026-09-05`** | [Nuxt Shopify v1.0.0](https://github.com/nuxt-modules/shopify/releases/tag/v1.0.0) - new Nuxt module for smooth **Shopify** integration reached stable v1 version |
+| **`2026-09-03`** | [Vitest 5.0 is out!](https://vitest.dev/blog/vitest-5.html) - new major version of de-facto standard testing framework for Vue and Nuxt applications |
+
 ## 2026 - August
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
