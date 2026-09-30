@@ -24,6 +24,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-09-28`** | [Announcing Vite+ 1.0](https://voidzero.dev/posts/announcing-vite-plus-1-0) - stable release of **Vite+**, a unified JavaScript toolchain with a single `vp` command |
 | **`2026-09-05`** | [Nuxt Shopify v1.0.0](https://github.com/nuxt-modules/shopify/releases/tag/v1.0.0) - new Nuxt module for smooth **Shopify** integration reached stable v1 version |
 | **`2026-09-03`** | [Vitest 5.0 is out!](https://vitest.dev/blog/vitest-5.html) - new major version of de-facto standard testing framework for Vue and Nuxt applications |
 
