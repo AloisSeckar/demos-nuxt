@@ -19,6 +19,12 @@ Stay up-to-date with the following even more dedicated websites:
 - [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
 - [Vue.js Amsterdam 2027](https://vuejs.amsterdam/) - **11-12 March 2027**, Amsterdam [NED]
 
+## 2026 - October
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :-- |
+| **`2026-10-06`** | [Nuxt 4.6](https://nuxt.com/blog/v4-6) - new minor release for **Nuxt 4** with new CLI v4, new `nuxt/server` import path, improved error messages, support for Vue Vapor Mode and many more features and improvements |
+
 ## 2026 - September
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
