@@ -1,0 +1,7 @@
+allowBuilds:
+  "@parcel/watcher": true
+  esbuild: true
+  unrs-resolver: true
+  vue-demi: true
+overrides:
+  "@nuxt/content": 2.13.4

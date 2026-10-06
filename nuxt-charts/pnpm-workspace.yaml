@@ -1,0 +1,5 @@
+allowBuilds:
+  "@parcel/watcher": true
+  esbuild: true
+  maplibre-gl: true
+  unrs-resolver: true

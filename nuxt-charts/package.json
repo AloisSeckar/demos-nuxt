@@ -15,13 +15,5 @@
     "typescript": "6.0.3",
     "vue": "3.5.40"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "@parcel/watcher",
-      "esbuild",
-      "maplibre-gl",
-      "unrs-resolver"
-    ]
-  },
-  "packageManager": "pnpm@10.28.2"
+  "packageManager": "pnpm@12.9.1"
 }
