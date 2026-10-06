@@ -11,14 +11,14 @@
     "test-once": "vitest run"
   },
   "dependencies": {
-    "@nuxt/eslint": "1.16.0",
-    "@nuxt/test-utils": "4.0.3",
-    "@vue/test-utils": "2.4.11",
-    "happy-dom": "20.11.1",
-    "nuxt": "4.5.0",
-    "playwright-core": "1.61.1",
-    "vitest": "4.1.10",
-    "vue": "3.5.40",
+    "@nuxt/eslint": "1.17.0",
+    "@nuxt/test-utils": "4.3.3",
+    "@vue/test-utils": "2.5.1",
+    "happy-dom": "20.14.5",
+    "nuxt": "4.6.0",
+    "playwright-core": "1.63.0",
+    "vitest": "4.1.11",
+    "vue": "3.5.43",
     "typescript": "6.0.3"
   },
   "packageManager": "pnpm@12.9.1"
