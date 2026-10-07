@@ -3,11 +3,7 @@ set -u
 
 root="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-while IFS= read -r line || [ -n "$line" ]; do
-  # project-list.txt uses Windows-style relative paths (..\name) and may have CRLF endings
-  line="${line//$'\r'/}"
-  line="${line//\\//}"
-  name="${line##*/}"
+while IFS= read -r name || [ -n "$name" ]; do
   [ -z "$name" ] && continue
 
   echo "tech-update $name"
