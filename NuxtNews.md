@@ -23,6 +23,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-10-10`** | [Nuxt 4.6.1](https://github.com/nuxt/nuxt/releases/tag/v4.6.1) - first patch release of the new v4.6 branch with a load of fixes |
 | **`2026-10-06`** | [Nuxt 4.6](https://nuxt.com/blog/v4-6) - new minor release for **Nuxt 4** with new CLI v4, new `nuxt/server` import path, improved error messages, support for Vue Vapor Mode and many more features and improvements |
 
 ## 2026 - September
