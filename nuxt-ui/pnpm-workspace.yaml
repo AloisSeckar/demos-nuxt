@@ -4,7 +4,4 @@ allowBuilds:
   unrs-resolver: true
   vue-demi: true
 overrides:
-  '@simple-git/argv-parser@<2.0.1': ^2.0.1
   esbuild@>=0.27.3 <0.28.1: ^0.28.1
-  simple-git@<=3.36.0: ^4.0.0
-  simple-git@>=3.15.0 <4.0.1: ^4.0.1

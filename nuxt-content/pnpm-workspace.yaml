@@ -5,7 +5,4 @@ allowBuilds:
   vue-demi: true
 overrides:
   '@nuxtjs/mdc@<0.22.1': ^0.22.1
-  '@simple-git/argv-parser@<2.0.1': ^2.0.1
-  simple-git@<=3.36.0: ^4.0.0
-  simple-git@>=3.15.0 <4.0.1: ^4.0.1
   unhead@<2.1.13: ^2.1.13
