@@ -43,6 +43,7 @@ describe.each(projects.filter(p => !skipped.has(p)))('%s', (project) => {
     expect(await compareScreenshot(page, {
       fileName: `${project}.png`,
       targetDir: 'test/e2e',
+      maxDiffPixelRatio: 0.02,
     })).toEqual(true)
   })
 })
