@@ -19,3 +19,13 @@ FOR /F %%G IN (.\project-list.txt) DO (
   popd
   @echo off
 )
+
+rem test-app must use the same pnpm version as the demos
+echo tech-update test-app
+set /P first=<"%~dp0project-list.txt"
+pushd "%~dp0test-app"
+powershell -NoProfile -Command "$q = [char]34; $re = $q + 'packageManager' + $q + ':\s*' + $q + '[^' + $q + ']*' + $q; $pm = [regex]::Match([IO.File]::ReadAllText('%~dp0%first%\package.json'), $re).Value; $f = Join-Path $PWD 'package.json'; [IO.File]::WriteAllText($f, ([IO.File]::ReadAllText($f) -replace $re, $pm))"
+rmdir /S /Q node_modules
+del /Q pnpm-lock.yaml
+pnpm install
+popd

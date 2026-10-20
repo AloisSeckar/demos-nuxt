@@ -33,3 +33,16 @@ while IFS= read -r name || [ -n "$name" ]; do
     fi
   )
 done < "$root/project-list.txt"
+
+# test-app must use the same pnpm version as the demos
+echo "tech-update test-app"
+(
+  cd "$root/test-app" || exit 1
+
+  first="$(head -n 1 "$root/project-list.txt" | tr -d '\r')"
+  pm="$(grep -o '"packageManager": *"[^"]*"' "$root/$first/package.json")"
+  sed "s/\"packageManager\": *\"[^\"]*\"/$pm/" package.json > package.json.tmp && mv package.json.tmp package.json
+
+  rm -rf node_modules pnpm-lock.yaml
+  pnpm install
+)
