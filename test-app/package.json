@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "nuxt-demos-test-app",
+  "type": "module",
+  "dependencies": {
+    "nuxt-spec": "0.4.0-alpha.4"
+  },
+  "scripts": {
+    "dev": "nuxt dev",
+    "test": "vitest run",
+    "test-u": "vitest run -u",
+    "test-c": "vitest run --coverage",
+    "test-i": "vitest"
+  },
+  "packageManager": "pnpm@12.14.0"
+}

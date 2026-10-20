@@ -1,0 +1,84 @@
+# GitHub Actions workflow (scaffolded by Nuxt Spec) to run test suite in a pinned Playwright container for reproducible results.
+# Triggered automatically on push/pull requests to default branch with possible manual dispatch.
+# Uses pnpm - the pnpm store is cached so subsequent `pnpm install` runs reuse downloaded deps.
+# If tests fail, `ci-test-report` artifact (HTML report, current screenshots, Vitest attachments) is uploaded for inspection.
+# NOTE: commits pushed by "update baselines" workflow don't trigger this workflow - dispatch it manually afterwards.
+
+name: Nuxt Spec CI Tests (verify)
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: ci-test-verify-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    container:
+      # must match `playwright` dependency version
+      image: mcr.microsoft.com/playwright:v1.64.0-jammy
+    defaults:
+      run:
+        working-directory: test-app
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Enable pnpm via corepack
+        run: corepack enable
+
+      - name: Resolve pnpm store path
+        id: pnpm-store
+        run: echo "path=$(pnpm store path --silent)" >> "$GITHUB_OUTPUT"
+
+      - name: Cache pnpm store
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ steps.pnpm-store.outputs.path }}
+          key: pnpm-${{ runner.os }}-${{ hashFiles('*/pnpm-lock.yaml') }}
+          restore-keys: pnpm-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install demo dependencies
+        shell: bash
+        run: |
+          set -eu
+          while IFS= read -r name || [ -n "$name" ]; do
+            name="${name%$'\r'}"
+            [ -z "$name" ] && continue
+            echo "::group::pnpm install ($name)"
+            # `cd` so corepack picks up the demo's own `packageManager`
+            (cd "../$name" && pnpm install --frozen-lockfile)
+            echo "::endgroup::"
+          done < ../project-list.txt
+
+      - name: Prune pnpm store
+        run: pnpm store prune
+
+      - name: Run tests
+        run: pnpm test
+
+      - name: Upload test report
+        if: failure()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: ci-test-report-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            test-app/test/__reports__
+            test-app/**/__current__/**
+            test-app/.vitest/attachments
+            !**/node_modules/**
+          include-hidden-files: true
+          if-no-files-found: ignore
+          retention-days: 14

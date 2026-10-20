@@ -1,0 +1,121 @@
+# GitHub Actions workflow (scaffolded by Nuxt Spec) to update test baselines (manually triggered).
+# Runs in the same pinned Playwright container as "verify" workflow.
+# Updated baselines (`__baseline__`, `__screenshots__`) and snapshots (`__snapshots__`) are committed back to the dispatched branch.
+# If the push is rejected (e.g. protected branch), a new branch with a pull request is created instead.
+# PREREQUISITE: for the pull request fallback, enable
+#   "Settings > Actions > General > Allow GitHub Actions to create and approve pull requests".
+# NOTE: commits and pull requests created via GITHUB_TOKEN don't trigger other workflows - run "verify" manually afterwards.
+
+name: Nuxt Spec CI Tests (update baselines)
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: ci-test-update-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    container:
+      # must match `playwright` dependency version
+      image: mcr.microsoft.com/playwright:v1.64.0-jammy
+    defaults:
+      run:
+        working-directory: test-app
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Enable pnpm via corepack
+        run: corepack enable
+
+      - name: Resolve pnpm store path
+        id: pnpm-store
+        run: echo "path=$(pnpm store path --silent)" >> "$GITHUB_OUTPUT"
+
+      - name: Cache pnpm store
+        uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+        with:
+          path: ${{ steps.pnpm-store.outputs.path }}
+          key: pnpm-${{ runner.os }}-${{ hashFiles('*/pnpm-lock.yaml') }}
+          restore-keys: pnpm-${{ runner.os }}-
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install demo dependencies
+        shell: bash
+        run: |
+          set -eu
+          while IFS= read -r name || [ -n "$name" ]; do
+            name="${name%$'\r'}"
+            [ -z "$name" ] && continue
+            echo "::group::pnpm install ($name)"
+            # `cd` so corepack picks up the demo's own `packageManager`
+            (cd "../$name" && pnpm install --frozen-lockfile)
+            echo "::endgroup::"
+          done < ../project-list.txt
+
+      - name: Prune pnpm store
+        run: pnpm store prune
+
+      - name: Regenerate test baselines
+        run: pnpm test-u
+
+      - name: Commit updated baselines
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          REF_NAME: ${{ github.ref_name }}
+          RUN_NUMBER: ${{ github.run_number }}
+        run: |
+          set -eu
+
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # `git add` fails on a glob without matches, `git ls-files` doesn't
+          git ls-files -z -m -d -o --exclude-standard -- \
+            ':(glob)**/__baseline__/**' \
+            ':(glob)**/__screenshots__/**' \
+            ':(glob)**/__snapshots__/**' \
+            | xargs -0 -r git add -A --
+          if git diff --cached --quiet; then
+            echo "No baseline changes to commit."
+            exit 0
+          fi
+
+          git commit -m "test(ci): update test baselines"
+
+          if git push origin "HEAD:$REF_NAME"; then
+            echo "Updated baselines pushed to '$REF_NAME'."
+            exit 0
+          fi
+
+          echo "Push to '$REF_NAME' was rejected (e.g. protected branch) - creating pull request..."
+          export NEW_BRANCH="ci-test/update-$(date +%Y%m%d%H%M%S)"
+          git push origin "HEAD:refs/heads/$NEW_BRANCH"
+          BODY=$(node -e '
+            const { NEW_BRANCH, REF_NAME, RUN_NUMBER } = process.env
+            console.log(JSON.stringify({
+              title: "test(ci): update test baselines",
+              head: NEW_BRANCH,
+              base: REF_NAME,
+              body: `Test baselines update triggered on run #${RUN_NUMBER} against branch \`${REF_NAME}\`.`,
+            }))')
+          curl -sS -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            -H "Content-Type: application/json" \
+            -d "$BODY" \
+            --fail-with-body \
+            "https://api.github.com/repos/$REPO/pulls"

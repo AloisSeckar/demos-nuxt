@@ -1,0 +1,19 @@
+# settings for Nuxt & pnpm
+
+# https://pnpm.io/settings/node-modules#shamefullyhoist
+# required to handle transitive dependencies 
+# without having to explicitly declare them
+shamefullyHoist: true
+
+# https://pnpm.io/settings/build#allowbuilds
+# pnpm naturally blocks all post-install scripts
+# some are required for development, others are not relevant
+allowBuilds:
+  # provides fallback repair of platform-specific Rust native engine
+  'unrs-resolver': true
+  # allows node-gyp build of associated native binaries from local sources
+  # disabled because it would require an explicit opt-in
+  '@parcel/watcher': false
+  # optimization for CLI usage of 'esbuild'
+  # disabled because its runtime resolves native binaries itself
+  'esbuild': false
