@@ -22,7 +22,11 @@ while IFS= read -r name || [ -n "$name" ]; do
     fi
 
     # fresh install
-    pnpm install
+    if [ "$name" = "nuxt-minimal" ]; then
+      pnpm install --ignore-scripts
+    else
+      pnpm install
+    fi
 
     # audit for vulnerabilities (nuxt-minimal is excluded)
     if [ "$name" = "nuxt-minimal" ]; then

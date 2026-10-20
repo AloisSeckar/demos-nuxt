@@ -4,3 +4,6 @@
 .output
 dist
 node_modules
+
+# special exclusion for nuxt-minimal project
+nuxt-minimal/pnpm-lock.yaml

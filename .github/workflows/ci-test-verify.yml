@@ -58,8 +58,11 @@ jobs:
             name="${name%$'\r'}"
             [ -z "$name" ] && continue
             echo "::group::pnpm install ($name)"
+            flags="--frozen-lockfile"
+            # no lockfile and no pnpm-workspace.yaml in "nuxt-minimal"
+            [ "$name" = "nuxt-minimal" ] && flags="--no-frozen-lockfile --ignore-scripts"
             # `cd` so corepack picks up the demo's own `packageManager`
-            (cd "../$name" && pnpm install --frozen-lockfile)
+            (cd "../$name" && pnpm install $flags)
             echo "::endgroup::"
           done < ../project-list.txt
 
