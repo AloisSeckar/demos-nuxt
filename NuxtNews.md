@@ -16,13 +16,15 @@ Stay up-to-date with the following even more dedicated websites:
 
 ## Upcoming events
 
-- [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - **24 October 2026**, Tokyo [JPN]
 - [Vue.js Amsterdam 2027](https://vuejs.amsterdam/) - **11-12 March 2027**, Amsterdam [NED]
 
 ## 2026 - October
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-10-27`** | [Nuxt 4.6.3](https://github.com/nuxt/nuxt/releases/tag/v4.6.3) - another patch release of the new v4.6 branch with a new bunch of fixes including some security issues |
+| **`2026-10-27`** | [Nuxt DevTools v4](https://github.com/nuxt/devtools/releases/tag/v4.0.0) - dev tools package dedicated for Nuxt had reached stable **v4** version |
+| **`2026-10-24`** | [Vue Fes Japan 2026](https://vuefes.jp/2026/en) - the Vue conference in Japan took place on **24 October 2026** in Tokyo, JPN |
 | **`2026-10-16`** | [Nuxt 4.6.2](https://github.com/nuxt/nuxt/releases/tag/v4.6.2) - another patch release of the new v4.6 branch with a new bunch of fixes including some security issues |
 | **`2026-10-15`** | [Nuxt UI 4.12](https://github.com/nuxt/ui/releases/tag/v4.12.0) - new minor release of **Nuxt UI** library module with new Chart component, better automatic integration with `@nuxtjs/i18n`, more optimized JS code and various fixes and improvements |
 | **`2026-10-11`** | [Nuxt Fonts v1.0.0](https://github.com/nuxt/fonts/releases/tag/v1.0.0) - Nuxt module for smooth inclusion of fonts into your projects reached stable v1 version |
