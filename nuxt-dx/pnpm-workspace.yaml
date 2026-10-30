@@ -4,3 +4,5 @@ allowBuilds:
   esbuild: true
   inferno: true
   unrs-resolver: true
+overrides:
+  zod@<4.6.6: ^4.6.6
