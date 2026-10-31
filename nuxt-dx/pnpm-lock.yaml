@@ -162,9 +162,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-overrides:
-  zod@<4.6.6: ^4.6.6
-
 importers:
 
   .:
@@ -173,11 +170,11 @@ importers:
         specifier: 1.17.0
         version: 1.17.0(@nuxt/schema@4.6.3)(@typescript-eslint/utils@8.72.1(eslint@10.13.0(jiti@2.7.0)(supports-color@10.2.2))(supports-color@10.2.2)(typescript@6.0.3))(@vue/compiler-sfc@3.5.44)(confbox@0.3.2)(crossws@0.4.17(srvx@1.0.8))(dotenv@17.4.2)(esbuild@0.28.2)(eslint@10.13.0(jiti@2.7.0)(supports-color@10.2.2))(giget@3.3.1)(jiti@2.7.0)(magic-string@1.4.5)(rolldown@1.2.16)(rollup@4.66.0)(srvx@1.0.8)(supports-color@10.2.2)(typescript@6.0.3)(unplugin@3.7.0(esbuild@0.28.2)(rolldown@1.2.16)(rollup@4.66.0)(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1)))(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1))
       devextreme:
-        specifier: 26.1.5
-        version: 26.1.5
+        specifier: 26.1.6
+        version: 26.1.6
       devextreme-vue:
-        specifier: 26.1.5
-        version: 26.1.5(devextreme@26.1.5)(vue@3.5.44(typescript@6.0.3))
+        specifier: 26.1.6
+        version: 26.1.6(devextreme@26.1.6)(vue@3.5.44(typescript@6.0.3))
       nuxt:
         specifier: 4.6.3
         version: 4.6.3(@babel/plugin-syntax-jsx@7.29.7(@babel/core@7.29.7(supports-color@10.2.2)))(@babel/plugin-syntax-typescript@7.29.7(@babel/core@7.29.7(supports-color@10.2.2)))(@oxc-project/types@0.156.0)(@vue/compiler-sfc@3.5.44)(acorn@8.19.0)(confbox@0.3.2)(db0@0.3.4)(dotenv@17.4.2)(esbuild@0.28.2)(eslint@10.13.0(jiti@2.7.0)(supports-color@10.2.2))(giget@3.3.1)(ioredis@5.11.1(supports-color@10.2.2))(lightningcss@1.33.0)(mlly@1.8.2)(optionator@0.9.4)(rolldown@1.2.16)(rollup-plugin-visualizer@7.1.1(rolldown@1.2.16)(rollup@4.66.0))(rollup@4.66.0)(srvx@1.0.8)(supports-color@10.2.2)(terser@5.51.2)(typescript@6.0.3)(vite@8.3.5(esbuild@0.28.2)(jiti@2.7.0)(terser@5.51.2)(yaml@2.9.1))(yaml@2.9.1)
@@ -1999,20 +1996,20 @@ packages:
   devexpress-diagram@2.2.31:
     resolution: {integrity: sha512-SqMv6+Ak1RmUDhrzdKGguswAWxNfnT9re+fJuOP6igU1TVcAUZvwe13SuVsG/W9IUV3oKYCU9UvdNTwAFiGcdw==}
 
-  devexpress-gantt@4.1.70:
-    resolution: {integrity: sha512-YWiWpwT0HtqHGPmMXDWTXpKRz0BVA/Iyr+qa3VyfWXa5DeaZBTLIuMSJ1eU5ZJ2YbUjBYdnffUerAydX6PCUeA==}
+  devexpress-gantt@4.1.71:
+    resolution: {integrity: sha512-1tiZ6HFfS4pjOWPFrCcSuQedBOYur8UvKafzCn+AtlAJ+B4dzCuL3fnSxkc9wWV2JXowreItm13/v9OGuUQ1pA==}
 
   devextreme-quill@1.7.10:
     resolution: {integrity: sha512-AsbMuYAON87Xk77bY4wjjtniONrgQe/WV7LSFxdU58z+bBn0gCkH3hZOJorSwfotThcwRLb150oTJ2ABJcO6DQ==}
 
-  devextreme-vue@26.1.5:
-    resolution: {integrity: sha512-xtlEO52hW0vVMjQWgLOAJA38mm0R6zZX9/F7uIzXOCZEwv+KuRH7rNWqZj78YEwn1ttnoh1G4/QKaIfd2KsOjA==}
+  devextreme-vue@26.1.6:
+    resolution: {integrity: sha512-DK6klHZmkdgHpk2JPeWbD04MvsGOPMHJcJ2RTcI1fMGR4CchnsSgl+vknFd4LFMRCJbkpesDJ5+CvwcJXH+0dQ==}
     peerDependencies:
-      devextreme: 26.1.5
+      devextreme: 26.1.6
       vue: ^3.0.0
 
-  devextreme@26.1.5:
-    resolution: {integrity: sha512-khC10FRqQjt2DjLGHB1XgmAe5/CLPXUrsUrKrP+KJRvOSV0AVEnibwwUSmwQIr2hBM8WfoJcxY/17SY8YrN3nA==}
+  devextreme@26.1.6:
+    resolution: {integrity: sha512-oza4qeLdFG64PtkoxaqjHMitLUM8izlBjhtIHTi6k5lKzdKUtVWZL6phX4IEkOXB5XbedwB1TgKiVV0VfNmyMA==}
     hasBin: true
 
   devframe@1.2.6:
@@ -2552,9 +2549,6 @@ packages:
 
   inferno-create-element@8.2.3:
     resolution: {integrity: sha512-YEwX4OiFlgeTutvE16uCGxkaSVwZ1DklpAPX8okjVsGaLIWQrM8QIQFxn3mTLWSu70Uea+afQfKL5wE4hxn39Q==}
-
-  inferno-hydrate@8.2.3:
-    resolution: {integrity: sha512-AyCiswnjYg7D9veJdjiQg06Npp0/iXKhwOm2hjoY3cjadT3fIdz2XtDElLB7imU4icuJ3xOmXA8FgIfnSJfHrQ==}
 
   inferno-vnode-flags@8.2.3:
     resolution: {integrity: sha512-dfC0MIwFv9PCbZCUsuk9ISejFS3fKJODC0rZ/LjxxzE+OrCk+PMwPLsUnGU6O9/jbBnPACVz1BkACDf5LWgU5Q==}
@@ -4134,11 +4128,6 @@ packages:
   zip-stream@6.0.1:
     resolution: {integrity: sha512-zK7YHHz4ZXpW89AHXUPbQVGKI7uvkd3hzusTdotCg1UxyaVtg0zFJSTfW/Dq5f7OBBVnq6cZIaC8Ti4hb6dtCA==}
     engines: {node: '>= 14'}
-
-  zod-to-json-schema@3.24.6:
-    resolution: {integrity: sha512-h/z3PKvcTcTetyjl1fkj79MHNEjm+HpD6NXheWjzOekY7kV+lwDYnHw+ivHkijnCSMz1yJaWBD9vu/Fcmk+vEg==}
-    peerDependencies:
-      zod: ^4.6.6
 
   zod@4.6.7:
     resolution: {integrity: sha512-g8W2D2kU6a8untc053fX1uVBKzM7yqAxW/3zwk83+6RyF2+SKOuV+c0wBDhUwzV1PaGapmZH+rmcUzPf+3CGwg==}
@@ -6129,7 +6118,7 @@ snapshots:
       '@devexpress/utils': 2.1.4
       es6-object-assign: 1.1.0
 
-  devexpress-gantt@4.1.70:
+  devexpress-gantt@4.1.71:
     dependencies:
       '@devexpress/utils': 2.1.4
       tslib: 2.3.1
@@ -6143,25 +6132,23 @@ snapshots:
       parchment: 2.0.1
       quill-delta: 5.1.0
 
-  devextreme-vue@26.1.5(devextreme@26.1.5)(vue@3.5.44(typescript@6.0.3)):
+  devextreme-vue@26.1.6(devextreme@26.1.6)(vue@3.5.44(typescript@6.0.3)):
     dependencies:
-      devextreme: 26.1.5
+      devextreme: 26.1.6
       vue: 3.5.44(typescript@6.0.3)
 
-  devextreme@26.1.5:
+  devextreme@26.1.6:
     dependencies:
       '@babel/runtime': 7.29.10
       '@preact/signals-core': 1.14.5
       devexpress-diagram: 2.2.31
-      devexpress-gantt: 4.1.70
+      devexpress-gantt: 4.1.71
       devextreme-quill: 1.7.10
       inferno: 8.2.3
       inferno-create-element: 8.2.3
-      inferno-hydrate: 8.2.3
       jszip: 3.10.2
       rrule: 2.8.1
       zod: 4.6.7
-      zod-to-json-schema: 3.24.6(zod@4.6.7)
 
   devframe@1.2.6(@devframes/agentic@1.2.6)(cac@7.1.0)(srvx@1.0.8):
     dependencies:
@@ -6746,10 +6733,6 @@ snapshots:
   indent-string@5.0.0: {}
 
   inferno-create-element@8.2.3:
-    dependencies:
-      inferno: 8.2.3
-
-  inferno-hydrate@8.2.3:
     dependencies:
       inferno: 8.2.3
 
@@ -8467,9 +8450,5 @@ snapshots:
       archiver-utils: 5.0.2
       compress-commons: 6.0.2
       readable-stream: 4.8.0
-
-  zod-to-json-schema@3.24.6(zod@4.6.7):
-    dependencies:
-      zod: 4.6.7
 
   zod@4.6.7: {}

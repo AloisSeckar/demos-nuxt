@@ -3,5 +3,8 @@ allowBuilds:
   better-sqlite3: true
   esbuild: true
   unrs-resolver: true
+
+# security overrides 
+# currently necessary because @nuxt/content depends on vulnerable zod version
 overrides:
   zod@<4.6.6: ^4.6.6
