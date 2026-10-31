@@ -1,5 +1,6 @@
 {
   "private": true,
+  "type": "module",
   "name": "nuxt-dx",
   "version": "1.0.0",
   "scripts": {

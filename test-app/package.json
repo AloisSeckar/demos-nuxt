@@ -1,7 +1,8 @@
 {
   "private": true,
-  "name": "nuxt-demos-test-app",
   "type": "module",
+  "name": "nuxt-demos-test-app",
+  "version": "1.0.0",
   "dependencies": {
     "nuxt-spec": "0.4.1"
   },

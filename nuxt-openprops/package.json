@@ -1,5 +1,6 @@
 {
   "private": true,
+  "type": "module",
   "name": "nuxt-openprops",
   "version": "1.0.0",
   "scripts": {
