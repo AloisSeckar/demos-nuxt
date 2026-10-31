@@ -3,3 +3,6 @@ allowBuilds:
   esbuild: true
   sharp: true
   unrs-resolver: true
+minimumReleaseAgeExclude:
+  - '@nuxt/image@2.2.1'
+  - ipx@4.1.0
