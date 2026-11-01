@@ -10,13 +10,13 @@
     "start": "nuxt preview"
   },
   "dependencies": {
-    "@formkit/i18n": "1.7.2",
-    "@formkit/icons": "1.7.2",
-    "@formkit/nuxt": "1.7.2",
-    "@formkit/vue": "1.7.2",
+    "@formkit/i18n": "2.1.2",
+    "@formkit/icons": "2.1.2",
+    "@formkit/nuxt": "2.1.2",
+    "@formkit/vue": "2.1.2",
     "@nuxt/eslint": "1.17.0",
     "nuxt": "4.6.3",
-    "typescript": "6.0.3",
+    "typescript": "7.0.2",
     "vue": "3.5.44"
   },
   "packageManager": "pnpm@12.16.1"
