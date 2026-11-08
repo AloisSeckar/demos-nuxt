@@ -18,6 +18,12 @@ Stay up-to-date with the following even more dedicated websites:
 
 - [Vue.js Amsterdam 2027](https://vuejs.amsterdam/) - **11-12 March 2027**, Amsterdam [NED]
 
+## 2026 - November
+
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
+| --- | :-- |
+| **`2026-11-02`** | [Nuxt 4.6.4](https://github.com/nuxt/nuxt/releases/tag/v4.6.4) - another patch release of the new v4.6 branch with a number of new fixes and improvements |
+
 ## 2026 - October
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
