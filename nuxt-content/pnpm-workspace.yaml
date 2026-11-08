@@ -8,4 +8,6 @@ allowBuilds:
 # necessary as @nuxt/content v2 is pinned
 overrides:
   '@nuxtjs/mdc@<0.22.1': ^0.22.1
+  glob@>=9.0.0 <=14.0.1: ^14.0.2
+  minimatch@>=7.0.0 <11.0.1: ^11.0.1
   unhead@<2.1.13: ^2.1.13

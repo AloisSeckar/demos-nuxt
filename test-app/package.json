@@ -13,5 +13,5 @@
     "test-c": "vitest run --coverage",
     "test-i": "vitest"
   },
-  "packageManager": "pnpm@12.16.1"
+  "packageManager": "pnpm@12.18.0"
 }
