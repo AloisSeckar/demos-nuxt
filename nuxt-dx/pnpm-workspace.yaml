@@ -1,3 +1,4 @@
+shamefullyHoist: true
 allowBuilds:
   'unrs-resolver': true
   '@parcel/watcher': false

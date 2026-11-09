@@ -9,16 +9,16 @@ FOR /F %%G IN (.\project-list.txt) DO (
   powershell -NoProfile -Command "$f = Join-Path $PWD 'pnpm-workspace.yaml'; if (Test-Path $f) { $skip = $false; $out = foreach ($l in [IO.File]::ReadAllLines($f)) { if ($l -match '^(minimumReleaseAgeExclude|overrides):') { $skip = $true; continue }; if ($skip -and $l -match '^(\s|-|$)') { continue }; $skip = $false; $l }; $t = $out -join [char]10; if ($t) { $t += [char]10 }; [IO.File]::WriteAllText($f, $t) }"
   rem fresh install
   if "%%G"=="nuxt-minimal" (
-    pnpm install --ignore-scripts
+    call pnpm install --ignore-scripts
   ) else (
-    pnpm install
+    call pnpm install
   )
   rem audit for vulnerabilities (nuxt-minimal is excluded)
   if "%%G"=="nuxt-minimal" (
     del /Q pnpm-workspace.yaml
   ) else (
-    pnpm audit --prod --fix
-    pnpm install
+    call pnpm audit --prod --fix
+    call pnpm install
   )
   popd
   @echo off
@@ -31,5 +31,5 @@ pushd "%~dp0test-app"
 powershell -NoProfile -Command "$q = [char]34; $re = $q + 'packageManager' + $q + ':\s*' + $q + '[^' + $q + ']*' + $q; $pm = [regex]::Match([IO.File]::ReadAllText('%~dp0%first%\package.json'), $re).Value; $f = Join-Path $PWD 'package.json'; [IO.File]::WriteAllText($f, ([IO.File]::ReadAllText($f) -replace $re, $pm))"
 rmdir /S /Q node_modules
 del /Q pnpm-lock.yaml
-pnpm install
+call pnpm install
 popd
