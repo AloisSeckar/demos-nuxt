@@ -13,6 +13,13 @@ export default defineNuxtConfig({
   // https://nitro.build/deploy#compatibility-date
   compatibilityDate: '2026-01-31',
 
+  // correct TS references for Vueform config file
+  typescript: {
+    tsConfig: {
+      include: ['../vueform.config.ts'],
+    },
+  },
+
   // use ESlint also for code formatting (instead of Prettier)
   eslint: {
     config: {
