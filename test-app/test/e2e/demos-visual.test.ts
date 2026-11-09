@@ -14,15 +14,11 @@ const projects = readFileSync(resolve(repoRoot, 'project-list.txt'), 'utf-8')
   .map(line => line.trim())
   .filter(Boolean)
 
-// currently failing demos for whatever reason
-// TODO diagnose and fix one-by-one
-const skipped = new Set(['nuxt-tailwind', 'nuxt-ui', 'nuxt-vueform'])
-
-describe.each(projects.filter(p => skipped.has(p)))('%s', () => {
+describe.each(projects)('%s', () => {
   test.skip('index page matches screenshot', () => {})
 })
 
-describe.each(projects.filter(p => !skipped.has(p)))('%s', (project) => {
+describe.each(projects)('%s', (project) => {
   // `setup()` keeps a single global context, so it cannot serve multiple apps in one file
   // `createTest()` gives per-app hooks and the context is re-activated before each lifecycle step
   const hooks = createTest({ rootDir: resolve(repoRoot, project) })
