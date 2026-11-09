@@ -1,8 +1,8 @@
 allowBuilds:
-  "@parcel/watcher": true
-  esbuild: true
-  maplibre-gl: true
-  unrs-resolver: true
+  'unrs-resolver': true
+  '@parcel/watcher': false
+  'esbuild': false
+  'maplibre-gl': true
 overrides:
   glob@>=9.0.0 <=14.0.1: ^14.0.2
   minimatch@>=7.0.0 <11.0.1: ^11.0.1

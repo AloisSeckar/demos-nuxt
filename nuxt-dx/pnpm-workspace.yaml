@@ -1,9 +1,9 @@
 allowBuilds:
-  "@parcel/watcher": true
-  core-js: true
-  esbuild: true
-  inferno: true
-  unrs-resolver: true
+  'unrs-resolver': true
+  '@parcel/watcher': false
+  'esbuild': false
+  'core-js': true
+  'inferno': true
 overrides:
   glob@>=9.0.0 <=14.0.1: ^14.0.2
   minimatch@>=7.0.0 <11.0.1: ^11.0.1
