@@ -12,7 +12,7 @@ export default defineNuxtConfig({
 
   // CSS importing Tailwind CSS styles
   css: [
-    './app/assets/css/tailwind.css',
+    '~/assets/css/tailwind.css',
   ],
 
   // Nuxt packages compatibility
