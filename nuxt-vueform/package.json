@@ -12,7 +12,6 @@
   "dependencies": {
     "@nuxt/eslint": "1.17.0",
     "@vueform/nuxt": "1.31.0",
-    "@vueform/vueform": "1.13.13",
     "nuxt": "4.6.4",
     "vue": "3.5.44",
     "typescript": "6.0.3"
