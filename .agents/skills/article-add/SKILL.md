@@ -18,8 +18,8 @@ Only edit that file. Do not create other files or notes.
 - Title: the article's own title. Shorten only if it is very long or clickbaity.
 - Description: one sentence, after ` - `, in a neutral informative tone. No emojis, no marketing wording,
   no opinions of your own. Say what the article announces or explains.
-- Bold (`**...**`) the key product, project, release, or JDK version, e.g. `**JDK 28**`, `**Quarkus**`, `**WildFly 42**`.
-  Use backticks for code identifiers, e.g. `` `HttpClient` ``.
+- Bold (`**...**`) the key product, project, release, or Nuxt version, e.g. `**Nuxt v4**`, `**Vue**`, `**Vite 8**`.
+  Use backticks for code identifiers, e.g. `` `ref` ``.
 - Use the original article URL exactly as the user gave it (do not add tracking parameters or rewrite it).
 
 ## Workflow
