@@ -22,6 +22,7 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-11-08`** | [Nuxt Test Utils 4.4.0](https://github.com/nuxt/test-utils/releases/tag/v4.4.0) - new minor release of **Nuxt Test Utils** testing library with `mockNuxtImport` returning the mock, an option to remove `data-testid` attributes, support for **Vite+** test and various fixes |
 | **`2026-11-02`** | [Nuxt 4.6.4](https://github.com/nuxt/nuxt/releases/tag/v4.6.4) - another patch release of the new v4.6 branch with a number of new fixes and improvements |
 
 ## 2026 - October
