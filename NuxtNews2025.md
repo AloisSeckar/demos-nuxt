@@ -2,6 +2,10 @@
 
 What is the [Nuxt](https://nuxt.com/) (and also [Vue.js](https://vuejs.org/)) community recently up to?
 
+For convenient reading experience, visit [Nuxt News](https://alois-seckar.cz/digest-nuxt) page on my website.
+
+Check also my [Java News](https://alois-seckar.cz/digest-java), [AI News](https://alois-seckar.cz/digest-ai) and last but not least the general [IT Digest](https://alois-seckar.cz/digest-it).
+
 ## Sources
 
 Stay up-to-date with the following even more dedicated websites:
