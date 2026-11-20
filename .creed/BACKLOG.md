@@ -9,4 +9,3 @@ This file holds pending tasks only, as a numbered list. Resolved items are delet
 <!-- ↑↑↑ agentcreed ↑↑↑ -->
 
 1. `nuxt-tailwind/package.json` pins `vue` to `3.5.45` while all other 31 demos with `vue` pin `3.5.44`. Align versions on the next dependency update.
-2. `test-app/test/e2e/demos-visual.test.ts` contains a skipped `describe.each(projects)` block (lines 16-18) directly above the active `describe.each(projects)` block. Remove it if it is leftover code.
