@@ -37,7 +37,29 @@ updates:
         patterns:
           - "*"
   - package-ecosystem: "npm"
+    directory: "/nuxt-charts"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
     directory: "/nuxt-content"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-content3"
     schedule:
       interval: "monthly"
       time: "05:00"
@@ -71,6 +93,17 @@ updates:
           - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-fonts"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-fonts-g"
     schedule:
       interval: "monthly"
       time: "05:00"
@@ -158,6 +191,17 @@ updates:
         patterns:
           - "*"
   - package-ecosystem: "npm"
+    directory: "/nuxt-neon-m"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
     directory: "/nuxt-openprops"
     schedule:
       interval: "monthly"
@@ -235,6 +279,28 @@ updates:
         patterns:
           - "*"
   - package-ecosystem: "npm"
+    directory: "/nuxt-test"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-time"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
     directory: "/nuxt-ui"
     schedule:
       interval: "monthly"
@@ -258,6 +324,39 @@ updates:
           - "*"
   - package-ecosystem: "npm"
     directory: "/nuxt-utils"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-valibot"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-vueform"
+    schedule:
+      interval: "monthly"
+      time: "05:00"
+    commit-message:
+      prefix: "npm"
+    groups:
+      all:
+        patterns:
+          - "*"
+  - package-ecosystem: "npm"
+    directory: "/nuxt-zod"
     schedule:
       interval: "monthly"
       time: "05:00"
