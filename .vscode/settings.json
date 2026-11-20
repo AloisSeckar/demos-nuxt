@@ -1,10 +1,23 @@
 {
-    // ESlint flat config support
-    "eslint.useFlatConfig": true,
-    "eslint.workingDirectories": [{ "mode": "auto" }],
-    // enable auto-linting
-    "editor.codeActionsOnSave": {
-        "source.fixAll": "explicit",
-        "source.fixAll.eslint": "explicit"
+  // ESlint flat config support
+  "eslint.useFlatConfig": true,
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
     }
+  ],
+  // enable auto-linting
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+  // auto-approve git commands in terminal
+  "chat.tools.terminal.autoApprove": {
+    "git status": true,
+    "git pull --ff-only": true,
+    "git stash": true,
+    "git stash pop": true,
+    "git stash drop": false,
+    "git stash clear": false
+  }
 }

@@ -39,7 +39,7 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting
 - [**nuxt-tailwind**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-tailwind) - integration with [Tailwind CSS](https://tailwindcss.com/)
 - [**nuxt-bootstrap**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-bootstrap) - integration with [Bootstrap](https://getbootstrap.com/) (alternative to Tailwind)
 - [**nuxt-openprops**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-openprops) - integration with [Open Props](https://open-props.style/) (alternative to Tailwind)
-- [**nuxt-icones**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Icônes](https://icones.js.org/)
+- [**nuxt-icones**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-icones) - integration with [Icônes](https://icones.js.org/)
 - [**nuxt-fa**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-fa) - integration with [Font Awesome](https://fontawesome.com/) (alternative to Icônes)
 
 #### UI and Forms libraries
@@ -83,4 +83,4 @@ See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting
 
 ### Testing
 
-- [**nuxt-test**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-text) - how to setup basic test scenarios using tools [recommended for Nuxt](https://nuxt.com/docs/4.x/getting-started/testing)
+- [**nuxt-test**](https://github.com/AloisSeckar/demos-nuxt/tree/main/nuxt-test) - how to set up basic test scenarios using tools [recommended for Nuxt](https://nuxt.com/docs/4.x/getting-started/testing)
