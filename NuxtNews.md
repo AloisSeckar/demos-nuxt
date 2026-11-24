@@ -26,7 +26,10 @@ Stay up-to-date with the following even more dedicated websites:
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Article |
 | --- | :-- |
+| **`2026-11-23`** | [Nuxt 4.7](https://nuxt.com/blog/v4-7) - new minor release for **Nuxt 4** with experimental **WebMCP** support, a **Nitro v3** build option, validated `runtimeConfig`, server-side error boundaries and many performance improvements |
 | **`2026-11-18`** | [Nuxt UI 4.13](https://github.com/nuxt/ui/releases/tag/v4.13.0) - new minor release of **Nuxt UI** library module with new Toggle and ToggleGroup component, files in ChatPrompt, Toasts with promises, built-in ESLint config and various fixes and improvements |
+| **`2026-11-17`** | [v3.17.0](https://github.com/nuxt/content/releases/tag/v3.17.0) - new minor release of **Nuxt Content** module with support for **Nuxt 5**, faster client-side database and search index loading, and various fixes |
+| **`2026-11-17`** | [Handling Cookies in a Nuxt App](https://certificates.dev/blog/handling-cookies-in-a-nuxt-app) - guide to **Nuxt** cookie handling with the `useCookie` composable, server utilities and secure cookie options |
 | **`2026-11-08`** | [Nuxt Test Utils 4.4.0](https://github.com/nuxt/test-utils/releases/tag/v4.4.0) - new minor release of **Nuxt Test Utils** testing library with `mockNuxtImport` returning the mock, an option to remove `data-testid` attributes, support for **Vite+** test and various fixes |
 | **`2026-11-02`** | [Nuxt 4.6.4](https://github.com/nuxt/nuxt/releases/tag/v4.6.4) - another patch release of the new v4.6 branch with a number of new fixes and improvements |
 
