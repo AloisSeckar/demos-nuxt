@@ -8,7 +8,7 @@ The demos are tailored to fit the new [Nuxt v4 project structure](https://nuxt.c
 
 ## Vue & Nuxt news
 
-See also my [NuxtNews](NuxtNews.md) - a list of Vue+Nuxt updates and interesting articles maintained since 11/2023.
+See also my [NuxtNews](https://github.com/AloisSeckar/it-news/blob/main/nuxt/NuxtNews.md) - a list of Vue+Nuxt updates and interesting articles maintained since 11/2023.
 
 ## Available projects
 

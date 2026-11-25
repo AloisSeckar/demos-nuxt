@@ -8,7 +8,9 @@ This file describes the project tech stack, structure and the coding conventions
 
 ## Overview
 
-`demos-nuxt` is a collection of various standalone Nuxt v4 demonstration projects showcasing core Nuxt features, UI frameworks, form libraries, content management, databases, schema validation, and testing, accompanied by an internal visual regression test suite (`test-app`) and a curated Vue/Nuxt news log (`NuxtNews.md`).
+`demos-nuxt` is a collection of various standalone Nuxt v4 demonstration projects showcasing core Nuxt features, UI frameworks, form libraries, content management, databases, schema validation, and testing, accompanied by an internal visual regression test suite (`test-app`).
+
+The curated Vue/Nuxt news log is now maintained externally at [it-news](https://github.com/AloisSeckar/it-news/blob/main/nuxt/NuxtNews.md).
 
 ## Tech Stack
 
@@ -30,7 +32,6 @@ demos-nuxt/
 ├── project-list.txt        # Canonical list of all demo directories
 ├── eslint-check.{bat,sh}   # Runs `pnpm eslint` across demos (excluding nuxt-minimal)
 ├── tech-update.{bat,sh}    # Clean reinstall + audit across demos and test-app
-├── NuxtNews.md             # Current Vue & Nuxt news log (archives: NuxtNews2024.md, NuxtNews2025.md)
 ├── nuxt-*/                 # 33 standalone Nuxt v4 demo projects
 │   ├── app/                # Nuxt v4 app directory (all demos except nuxt-minimal)
 │   ├── server/             # Nitro server routes (nuxt-api, nuxt-neon-m)
@@ -64,7 +65,6 @@ demos-nuxt/
 - Server API examples: `nuxt-api/server/api/`, `nuxt-neon-m/server/api/`
 - Visual regression tests: `test-app/test/e2e/demos-visual.test.ts`
 - Batch scripts: `eslint-check.bat` / `eslint-check.sh`, `tech-update.bat` / `tech-update.sh`
-- News log: [NuxtNews.md](./NuxtNews.md) (archives: [NuxtNews2025.md](./NuxtNews2025.md), [NuxtNews2024.md](./NuxtNews2024.md))
 
 ## Conventions
 
@@ -73,7 +73,6 @@ demos-nuxt/
 - Linting and formatting are handled by `@nuxt/eslint` with `eslint.config.stylistic: true` (no Prettier), using single quotes in TypeScript/JavaScript, double quotes for template attributes, and no semicolons.
 - Every demo project except `nuxt-minimal` defines `eslint.config.mjs` wrapping `./.nuxt/eslint.config.mjs` with `withNuxt([...])`, references `.nuxt/tsconfig.*.json` from `tsconfig.json`, and pins `packageManager` to `pnpm` in `package.json`.
 - Every demo project directory is listed one per line in `project-list.txt` so batch scripts, CI workflows, and visual regression tests include it.
-- News entries in `NuxtNews.md` are grouped under `## YYYY - Month` headings (newest first) in Markdown tables with `YYYY-MM-DD` dates and neutral one-sentence descriptions; previous years are archived in `NuxtNewsYYYY.md`.
 
 ## Quick Commands
 

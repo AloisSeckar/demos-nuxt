@@ -66,4 +66,3 @@ Rules for `SUGGESTIONS.md` only:
 - Format and lint code with `@nuxt/eslint` (`eslint.config.stylistic: true`) instead of Prettier: use single quotes in TypeScript/JavaScript, double quotes for template attributes, and no semicolons.
 - For every demo project except `nuxt-minimal`, include an `eslint.config.mjs` wrapping `./.nuxt/eslint.config.mjs` with `withNuxt([...])`, a `tsconfig.json` referencing `.nuxt/tsconfig.*.json`, and a `packageManager` field pinned to `pnpm` in `package.json`.
 - Keep `project-list.txt` updated with one demo directory name per line whenever adding or removing a demo project so batch scripts, CI workflows, and visual regression tests stay in sync.
-- Format news entries in `NuxtNews.md` under `## YYYY - Month` headings (newest first) in Markdown tables with `YYYY-MM-DD` dates and neutral one-sentence descriptions, archiving older years in `NuxtNewsYYYY.md` (see the `article-add` skill for the full workflow).
